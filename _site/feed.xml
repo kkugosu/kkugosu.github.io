@@ -1,22 +1,44 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-17T19:36:05+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Emmett</title><subtitle>Themed by ejjoo</subtitle><entry><title type="html">how to create and maintain gitblog</title><link href="http://localhost:4000/tool/2023/05/17/gitblog.html" rel="alternate" type="text/html" title="how to create and maintain gitblog" /><published>2023-05-17T11:10:33+01:00</published><updated>2023-05-17T11:10:33+01:00</updated><id>http://localhost:4000/tool/2023/05/17/gitblog</id><content type="html" xml:base="http://localhost:4000/tool/2023/05/17/gitblog.html">&lt;h1 id=&quot;create&quot;&gt;create&lt;/h1&gt;
-&lt;p&gt;first you should install homebrew
-and if you type ruby -v, it will display 2.6.8
-i recommand you to download 2.7.8 because jekyll need &amp;gt;2.7 and there are often many issues after big update. as 2.7.8 is just before version 3.0.0, it provides a more stable option.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-17T21:07:46+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Emmett</title><subtitle>Themed by ejjoo</subtitle><entry><title type="html">How to create and maintain gitblog</title><link href="http://localhost:4000/tool/2023/05/17/gitblog.html" rel="alternate" type="text/html" title="How to create and maintain gitblog" /><published>2023-05-17T11:10:33+01:00</published><updated>2023-05-17T11:10:33+01:00</updated><id>http://localhost:4000/tool/2023/05/17/gitblog</id><content type="html" xml:base="http://localhost:4000/tool/2023/05/17/gitblog.html">&lt;h2 id=&quot;create&quot;&gt;create&lt;/h2&gt;
+&lt;p&gt;First you should install homebrew.
+&lt;br /&gt;
+&lt;br /&gt;
+If you type ruby -v in your own terminal, it will display 2.6.8.
+&lt;br /&gt;
+&lt;br /&gt;
+I recommand you to download 2.7.8 because jekyll need &amp;gt;2.7 and there are often many issues after big update. as 2.7.8 is just before version 3.0.0, it provides a more stable option.
+&lt;br /&gt;
+&lt;br /&gt;
+Homebrew always download the lastest version which is unstable. by RBM, you can install ruby 2.7.8. i don’t recommand downloading rbenv due to some tricky issues with it in this situation.
+&lt;br /&gt;
+&lt;br /&gt;
+Afterward, you should clone a theme from here http://jekyllthemes.org
+and type following command in the terminal within the folder where you downloaded theme.&lt;/p&gt;
+&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;bundler&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;install&lt;/span&gt;
 
-&lt;p&gt;homebrew always download the lastest version which is unstable. by RBM, you can install ruby 2.7.8. i don’t recommand downloading rbenv due to some tricky issues with it in this situation.&lt;/p&gt;
+&lt;span class=&quot;n&quot;&gt;gem&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;jekyll&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;bundler&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;!--
-&gt; Hello!
-
-This is code
-```ruby
-print 'hello world'
-```
---&gt;</content><author><name></name></author><category term="tool" /><summary type="html">create first you should install homebrew and if you type ruby -v, it will display 2.6.8 i recommand you to download 2.7.8 because jekyll need &amp;gt;2.7 and there are often many issues after big update. as 2.7.8 is just before version 3.0.0, it provides a more stable option.</summary></entry><entry><title type="html">post-sample</title><link href="http://localhost:4000/sample/2020/01/02/post1.html" rel="alternate" type="text/html" title="post-sample" /><published>2020-01-02T10:20:23+00:00</published><updated>2020-01-02T10:20:23+00:00</updated><id>http://localhost:4000/sample/2020/01/02/post1</id><content type="html" xml:base="http://localhost:4000/sample/2020/01/02/post1.html">&lt;h1 id=&quot;post-sample&quot;&gt;post-sample&lt;/h1&gt;
+&lt;p&gt;Then you can see the basic theme running on your local server.
+&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;maintain&quot;&gt;maintain&lt;/h2&gt;
+&lt;p&gt;&lt;br /&gt;
+To put it simply, you can make your own blog by just typing following command in your terminal after modify your files.
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;bundle&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;exec&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;jekyll&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;serve&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;you can modify your 
+&lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-  &lt;p&gt;Hello!&lt;/p&gt;
+  &lt;p&gt;_posts
+&lt;br /&gt;
+_includes (arrange section on your own homepage)
+&lt;br /&gt;
+README.md (introduction of homepage)
+&lt;br /&gt;
+_config.yml (basic information)
+&lt;br /&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;This is code&lt;/p&gt;
-&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'hello world'&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><category term="sample" /><summary type="html">post-sample Hello!</summary></entry></feed>
+&lt;p&gt;It is meaningless to modify _site as it is included in gitignore.
+&lt;br /&gt;
+Because it will be changed each time by running the command “bundle exec jekyll serve”.&lt;/p&gt;</content><author><name></name></author><category term="tool" /><summary type="html">create First you should install homebrew. If you type ruby -v in your own terminal, it will display 2.6.8. I recommand you to download 2.7.8 because jekyll need &amp;gt;2.7 and there are often many issues after big update. as 2.7.8 is just before version 3.0.0, it provides a more stable option. Homebrew always download the lastest version which is unstable. by RBM, you can install ruby 2.7.8. i don’t recommand downloading rbenv due to some tricky issues with it in this situation. Afterward, you should clone a theme from here http://jekyllthemes.org and type following command in the terminal within the folder where you downloaded theme. ```ruby bundler install</summary></entry></feed>

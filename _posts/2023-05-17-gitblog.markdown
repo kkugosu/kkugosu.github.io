@@ -1,21 +1,50 @@
 ---
 layout: post
-title: how to create and maintain gitblog
+title: How to create and maintain gitblog
 date: 2023-05-17 19:10:33 +0900
 category: tool
 ---
-# create
-first you should install homebrew
-and if you type ruby -v, it will display 2.6.8
-i recommand you to download 2.7.8 because jekyll need >2.7 and there are often many issues after big update. as 2.7.8 is just before version 3.0.0, it provides a more stable option.
-
-homebrew always download the lastest version which is unstable. by RBM, you can install ruby 2.7.8. i don't recommand downloading rbenv due to some tricky issues with it in this situation.
-
-<!--
-> Hello!
-
-This is code
+## create
+First you should install homebrew.
+<br/>
+<br/>
+If you type ruby -v in your own terminal, it will display 2.6.8.
+<br/>
+<br/>
+I recommand you to download 2.7.8 because jekyll need >2.7 and there are often many issues after big update. as 2.7.8 is just before version 3.0.0, it provides a more stable option.
+<br/>
+<br/>
+Homebrew always download the lastest version which is unstable. by RBM, you can install ruby 2.7.8. i don't recommand downloading rbenv due to some tricky issues with it in this situation.
+<br/>
+<br/>
+Afterward, you should clone a theme from here http://jekyllthemes.org
+and type following command in the terminal within the folder where you downloaded theme.
 ```ruby
-print 'hello world'
+bundler install
+
+gem install jekyll bundler
 ```
--->
+
+Then you can see the basic theme running on your local server.
+<br/>
+## maintain
+<br/>
+To put it simply, you can make your own blog by just typing following command in your terminal after modify your files.
+<br/>
+```ruby
+bundle exec jekyll serve
+```
+you can modify your 
+<br/>
+> _posts
+<br/>
+> _includes (arrange section on your own homepage)
+<br/>
+> README.md (introduction of homepage)
+<br/>
+> _config.yml (basic information)
+<br/>
+
+It is meaningless to modify _site as it is included in gitignore.
+<br/>
+Because it will be changed each time by running the command "bundle exec jekyll serve".
