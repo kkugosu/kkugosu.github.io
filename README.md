@@ -11,6 +11,7 @@ With this new blog, I plan to share my studies, hobbies, and personal experience
 
 <br/>
 And who knows, maybe it will even help me make new friends internationally. 
+![avatar](https://github.com/ejjoo/jekyll-theme-monos/assets/24292848/f27a94ce-7f85-495d-a9be-1e857b392165)
 
 <br/>
 thank you
