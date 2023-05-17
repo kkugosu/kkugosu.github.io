@@ -1,13 +1,21 @@
 ---
 layout: post
-title: post-sample
+title: how to create and maintain gitblog
 date: 2023-05-17 19:10:33 +0900
-category: sample
+category: tool
 ---
-# post-sample
+# create
+first you should install homebrew
+and if you type ruby -v, it will display 2.6.8
+i recommand you to download 2.7.8 because jekyll need >2.7 and there are often many issues after big update. as 2.7.8 is just before version 3.0.0, it provides a more stable option.
+
+homebrew always download the lastest version which is unstable. by RBM, you can install ruby 2.7.8. i don't recommand downloading rbenv due to some tricky issues with it in this situation.
+
+<!--
 > Hello!
 
 This is code
 ```ruby
 print 'hello world'
 ```
+-->
