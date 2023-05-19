@@ -1,0 +1,43 @@
+---
+layout: post
+title: writing2
+date: 2023-05-19 14:23:33 +0900
+category: hobby
+---
+Q
+<br/>
+art is considered an essential part of all cultures throughout the world. however, these days fewer and fewer people appreciate art and turn their focus to science, technology and business.
+<br/>
+why do you think that is?
+<br/>
+what could be done to encourage more people to take inerest in the arts?
+<br/>
+A
+<br/>
+cultures over the world has their own color which is usually expressed in the form of art which has taken diverse form and appears in wall engraving, sound or dance and so on. as times going on, the lives of people getting lake of leasure which incurring the lessening interest on the art which doesn't directly influence on their lives. I will explain my perspective of the reasion of this phenomenon and the solution in the furture paragraph
+<br/>
+revised ->
+<br/>
+Cultures around the world possess their own unique colors, often expressed through diverse forms of art such as wall engravings, music, dance, and more. However, as time progresses, people's lives have become increasingly devoid of leisure, resulting in a diminished interest in art that does not directly impact their daily lives. In the following paragraphs, I will explain my perspective on the reasons behind this phenomenon and propose potential solutions for the future.
+<br/>
+over the world -> around the world
+<br/>
+expressed in -> expressed through
+<br/>
+and so on -> and more
+<br/>
+as times going on -> as time progresses + have pp
+<br/>
+getting lake of leasure -> become increasingly devoid of leasure
+<br/>
+incurring in -> resulting in
+<br/>
+lessening -> deminished
+<br/>
+lives -> daily lives
+<br/>
+reason of this phenonmoon -> reason behind this phenonmon
+<br/>
+solution in the future -> solution for the future
+<br/>
+
