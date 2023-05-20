@@ -82,5 +82,7 @@ repel -> impose
 helpful -> beneficial
 <br/>
 like this way -> in this manner
+<br/>
 at any subject -> in any particular field
+<br/>
 as i mentioned before -> as mentioned earlier
