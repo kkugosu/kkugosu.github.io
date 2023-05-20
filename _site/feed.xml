@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-20T23:05:05+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Emmett</title><subtitle>Themed by ejjoo</subtitle><entry><title type="html">writing3</title><link href="http://localhost:4000/hobby/2023/05/19/writing3.html" rel="alternate" type="text/html" title="writing3" /><published>2023-05-19T09:23:33+01:00</published><updated>2023-05-19T09:23:33+01:00</updated><id>http://localhost:4000/hobby/2023/05/19/writing3</id><content type="html" xml:base="http://localhost:4000/hobby/2023/05/19/writing3.html">&lt;p&gt;Q
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-20T23:07:08+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Emmett</title><subtitle>Themed by ejjoo</subtitle><entry><title type="html">writing3</title><link href="http://localhost:4000/hobby/2023/05/19/writing3.html" rel="alternate" type="text/html" title="writing3" /><published>2023-05-19T09:23:33+01:00</published><updated>2023-05-19T09:23:33+01:00</updated><id>http://localhost:4000/hobby/2023/05/19/writing3</id><content type="html" xml:base="http://localhost:4000/hobby/2023/05/19/writing3.html">&lt;p&gt;Q
 &lt;br /&gt;
 some people think that art is an essential subject for children at school while others think it is waste of time
 &lt;br /&gt;
@@ -98,11 +98,7 @@ A
 Art seems to take up our unconsciousness part which art we were used to express our emotion which cannot expressed in language so it is revealed in various way since the ancient, some is in griving on the wall, some is form of sounds. some people assert art is waste of money and i agree with them on some level and will explain with the following parpgraph.
 &lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-  &lt;p&gt;revised 
-aaa
-This is a first blockqute.
-	&amp;gt; This is a second blockqute.
-	&amp;gt;	&amp;gt; This is a third blockqute.&lt;/p&gt;
+  &lt;p&gt;revised&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;br /&gt;
@@ -119,16 +115,22 @@ on some level -&amp;gt; partially
 &lt;br /&gt;
 with the following paragraph -&amp;gt; in the following paragraph
 &lt;br /&gt;
-will explain -&amp;gt; will explain my perspective further
-&lt;br /&gt;
+will explain -&amp;gt; will explain my perspective further&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;
 Art has been served as important role in our mental stability. No matter how much we are rich or poor, we like to see beautiful scence and music which seems console and empathy ourselves. so government’s investment to art can improve our lives on some way largly or smally
-&lt;br /&gt;
-revised -&amp;gt;
-&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;revised&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;
 Art plays an important role in maintaining our mental stability. Regardless of our wealth or poverty, we all have an innate inclination to appreciate beautiful scenery and music, as they offer solace and evoke empathy within us. Therefore, government investment in art can significantly enhance our lives, whether in significant or subtle ways.
-&lt;br /&gt;
-has been served -&amp;gt; plays
+&lt;br /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;has been served -&amp;gt; plays
 &lt;br /&gt;
 mental stability -&amp;gt; maintaining mental stability
 &lt;br /&gt;
@@ -142,16 +144,22 @@ console -&amp;gt; solace
 &lt;br /&gt;
 invest to -&amp;gt; invest in
 &lt;br /&gt;
-largly or smally -&amp;gt; whether in significant or subtle ways
-&lt;br /&gt;
+largly or smally -&amp;gt; whether in significant or subtle ways&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;
 but there is some people who are hard to serve even just themselves so they priority basic tools of life over the art which situation comes from increasing difference between wealth and poverty because of matthew effect but that doesn’t come to conclution that art is lake of meaning
-&lt;br /&gt;
-revised -&amp;gt;
-&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;revised&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;
 However, there are people who struggle to fulfill even their basic needs, prioritizing survival over art. This situation arises from the growing wealth and poverty disparity, known as the Matthew effect. Nevertheless, this does not lead to the conclusion that art lacks meaning.
-&lt;br /&gt;
-there is some people -&amp;gt; there are people
+&lt;br /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;there is some people -&amp;gt; there are people
 &lt;br /&gt;
 serve even just themselves -&amp;gt; fulfill even their basic needs
 &lt;br /&gt;
@@ -163,15 +171,21 @@ difference -&amp;gt; disparity(greater level)
 &lt;br /&gt;
 because of -&amp;gt; known as
 &lt;br /&gt;
-come to conclution -&amp;gt; lead to the conclution
-&lt;br /&gt;
+come to conclution -&amp;gt; lead to the conclution&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;
 in the conclution, government doesn’t waste money on the art because art plays inreplaceable rule in society, but government should invest in warefare more to guarantee basic needs of survival resulting in make people can feel pleasure from the art.
-&lt;br /&gt;
-revise –&amp;gt;
-&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;revise&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;
 In conclusion, the government should not perceive investment in art as a waste of money, given its irreplaceable role in society. However, the government should prioritize investing more in ensuring basic survival needs, such as welfare, by imposing higher taxes on the wealthy. This approach would ultimately enable people to derive pleasure from art.
-&lt;br /&gt;
-in the conclution -&amp;gt; in conclution
+&lt;br /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;in the conclution -&amp;gt; in conclution
 &lt;br /&gt;
 view = perceive = consider
 &lt;br /&gt;
@@ -180,7 +194,7 @@ some behavior is not like that -&amp;gt; should not consider
 tex more wealthy-&amp;gt; imposing higher taxes on the wealthy
 &lt;br /&gt;
 to feel pleasure from art -&amp;gt; to derive pleasure from art&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name></name></author><category term="hobby" /><summary type="html">Q Some people think that government is wasting money on the arts and that this money could be better spent elsewhere To what extent do you agree with this view? A Art seems to take up our unconsciousness part which art we were used to express our emotion which cannot expressed in language so it is revealed in various way since the ancient, some is in griving on the wall, some is form of sounds. some people assert art is waste of money and i agree with them on some level and will explain with the following parpgraph. revised aaa This is a first blockqute. &amp;gt; This is a second blockqute. &amp;gt; &amp;gt; This is a third blockqute.</summary></entry><entry><title type="html">writing2</title><link href="http://localhost:4000/hobby/2023/05/19/writing2.html" rel="alternate" type="text/html" title="writing2" /><published>2023-05-19T06:23:33+01:00</published><updated>2023-05-19T06:23:33+01:00</updated><id>http://localhost:4000/hobby/2023/05/19/writing2</id><content type="html" xml:base="http://localhost:4000/hobby/2023/05/19/writing2.html">&lt;p&gt;Q
+&lt;/blockquote&gt;</content><author><name></name></author><category term="hobby" /><summary type="html">Q Some people think that government is wasting money on the arts and that this money could be better spent elsewhere To what extent do you agree with this view? A Art seems to take up our unconsciousness part which art we were used to express our emotion which cannot expressed in language so it is revealed in various way since the ancient, some is in griving on the wall, some is form of sounds. some people assert art is waste of money and i agree with them on some level and will explain with the following parpgraph. revised</summary></entry><entry><title type="html">writing2</title><link href="http://localhost:4000/hobby/2023/05/19/writing2.html" rel="alternate" type="text/html" title="writing2" /><published>2023-05-19T06:23:33+01:00</published><updated>2023-05-19T06:23:33+01:00</updated><id>http://localhost:4000/hobby/2023/05/19/writing2</id><content type="html" xml:base="http://localhost:4000/hobby/2023/05/19/writing2.html">&lt;p&gt;Q
 &lt;br /&gt;
 art is considered an essential part of all cultures throughout the world. however, these days fewer and fewer people appreciate art and turn their focus to science, technology and business.
 &lt;br /&gt;
