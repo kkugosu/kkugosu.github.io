@@ -10,7 +10,8 @@ Join the membership at openai.
 Download chatgpt from the following link.
 <br/>
 <br/>
-https://github.com/vincelwt/chatgpt-mac
+> https://github.com/vincelwt/chatgpt-mac
+
 <br/>
 <br/>
 Use.
