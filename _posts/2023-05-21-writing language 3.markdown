@@ -15,7 +15,7 @@ A
 we sometimes can see the argument that says languages have only few origins.however, with the time progression, human species have gained the diversity in language to meet each other's needs of expression which varies across the country. this development bring languages to be interwined with culture. someone argue we can't learn another culture unless learning language. i will elaborate my perspective of view with this argument in the following paragraph further.
 <br/>
 <br/>
-revise
+> revise
 
 <br/>
 We sometimes encounter the argument that languages have only a few origins. However, as time has progressed, the human species has gained linguistic diversity to fulfill the varied needs of expression across different countries. This development has resulted in languages becoming intertwined with culture. Some argue that we cannot truly understand another culture without learning its language. In the following paragraph, I will elaborate on my perspective regarding this argument
@@ -56,6 +56,7 @@ It can be difficult to understand another country's culture without learning the
 > linguistic practices, linguistic nuances
 <br/>
 > developed to
+
 <br/>
 but we can also learn their culture from their food, clothes, building eventhough they can not express everything about it.
 <br/>
