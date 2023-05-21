@@ -39,7 +39,24 @@ using same language as mother toung around the world can make us to communicate 
 > revised
 
 <br/>
-Using the same language as a mother tongue around the world can make communication easier, enabling faster technological advancements. However, this can also be problematic as such development does not necessarily lead to the language becoming optimized for our expressive needs. If we lose linguistic diversity by adopting a single language, we may find ourselves in situations where we need to express something that cannot be adequately conveyed in English. In such cases, we would have no means to express those ideas, resulting in the eradication of other languages. This phenomenon is referred to as "model collapse" in AI terms.
+Using the same language as a mother tongue around the world can make communication easier, enabling faster technological advancements. However, this can also be problematic as such development does not necessarily lead to the language becoming optimized for our expressive needs. If we lose linguistic diversity by adopting a single language, we may find ourselves in situations where we need to express something that cannot be adequately conveyed in English. In such cases, we would have no means to express those ideas because we have already eradicated other languages. This phenomenon is referred to as "model collapse" in AI terms.
 <br/>
+> be problem -> be problematic
 <br/>
+> that development -> such development
 <br/>
+> optimized to our needs to expression -> optimized for our expressive needs
+<br/>
+> variety -> linguistic diversity
+<br/>
+> choose -> adopt
+<br/>
+> one -> single
+<br/>
+> when are in situation -> we may find ourselves in situations where
+<br/>
+> express something accomplished by -> express something cannot conveyed in
+<br/>
+> then -> in such cases
+<br/>
+> is called -> is referred to as
