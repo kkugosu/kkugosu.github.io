@@ -1,7 +1,7 @@
 ---
 layout: post
 title: writing education 1
-date: 2023-05-20 23:53:33 +0900
+date: 2023-05-21 23:53:33 +0900
 category: hobby
 ---
 Q
