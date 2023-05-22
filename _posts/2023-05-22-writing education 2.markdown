@@ -47,7 +47,7 @@ Respecting individuals' choices is crucial, as each person's choice holds person
 <br/>
 > every one's -> each person's
 <br/>
-> has -> holds
+> choice has -> choice holds
 <br/>
 > their own meaning -> personal significance
 <br/>
