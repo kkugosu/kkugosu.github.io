@@ -42,5 +42,40 @@ Even though every improvement is due to technological advancement, that doesn't 
 > which phenomenon occered from-> which is a phenomenon occering due to
 <br/>
 
+government's excessive influence to some area is potentially problematic. for instance, in korea, government's excessively support in medical science brings lots of medical accident because there are lots of people who wanna practice surgery even though they are not qualified or not interested in help people sincerely and even worse, government makes lots of loophole in the law in the medical field with the reason of assitance of medical field.
+<br/>
+<br/>
+> revise
 
-각자의 분야는 각자의 장점이 있어서 벨런스가 무너지게 않게하는게 중요
+<br/>
+Government's excessive influence in certain areas can pose potential problems. For instance, in Korea, the government's excessive support in the field of medical science has resulted in numerous medical accidents. This is due to the presence of individuals who are eager to perform surgeries without proper qualifications or genuine dedication to helping people. Furthermore, the government's creation of loopholes in medical laws, under the guise of assisting the medical field, exacerbates the situation.
+<br/>
+> some -> certain
+<br/>
+> imply -> pose
+<br/>
+> lots of -> numerous
+<br/>
+> interested in help sincerily -> genuine dedication
+<br/>
+> with the reason of -> under the guise of, under the pretense of
+<br/>
+> worsen -> exacerbates
+<br/>
+
+so i believe the most important thing is, government have to assist people to crave out their own way through balance the investment on each field not invest excessively on the just few field as happiness is achieved through preventing metthew effect regardless of advancement of techonology.
+<br/>
+<br/>
+> revise
+
+<br/>
+So I believe the most important thing is that the government assists people in carving out their own path by balancing investments in each field, rather than investing excessively in just a few areas. Happiness is achieved through preventing the Matthew effect, regardless of technological advancements.
+
+<br/>
+> assist people to crave out -> assist people in craving out (people who are carving out)
+<br/>
+> way -> path
+<br/>
+> invest on -> invest in
+<br/>
+
