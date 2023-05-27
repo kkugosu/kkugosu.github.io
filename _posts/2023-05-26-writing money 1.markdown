@@ -56,4 +56,19 @@ If some individuals earn the majority of the money, others are subjected to the 
 > harder -> increasingly challenging
 <br/>
 
-2. future effect
+and also, if we just neglect the disparity between wealthy and poverty, this will eventually resulting in diminishing diversity of human species. if we lose variasity, we become subjective to desaster which aim to specific genetics like gene desease and also if wealthy doesn't goes together with great personality, our lives becomming more and more bad.
+<br/>
+<br/>
+> revise
+
+<br/>
+And also, if we neglect the disparity between wealth and poverty, it will eventually result in the diminishing diversity of the human species. When we lose diversity, we become susceptible to disasters that target specific genetics, such as genetic diseases. Additionally, if wealth is not accompanied by a great personality, our lives become increasingly challenging and negative.
+<br/>
+subjective to -> susceptible to, subject to
+<br/>
+aim -> target
+<br/>
+goes together -> accompanied by
+<br/>
+bad -> challenging and negative
+<br/>
