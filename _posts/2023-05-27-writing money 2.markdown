@@ -68,4 +68,21 @@ For example, let's assume you are managing to sell a used car and your neighbor 
 > way -> manner
 <br/>
 
-in conclusion
+in conclusion, company offer the goods in cheaper price than local business which is superficially seems to cost effective and good for everyone. however as long as they don't distribute their share of money, this will eventually incur the diminish and stagnation of local business and community. sadly individuals can not convince others to refrain from buying big company's stuff because that usually fail to make everyone to do that simultaneously which result in inconsistence. but government can manage that problem by enacting the law which is why government stands for.
+<br/>
+<br/>
+> revise
+
+<br/>
+In conclusion, when companies offer goods at a cheaper price compared to local businesses, it may seem cost-effective and beneficial for everyone on the surface. However, if these companies fail to distribute their fair share of money, it will eventually lead to the decline and stagnation of local businesses and communities. Unfortunately, individuals alone cannot persuade others to refrain from buying products from big companies, as such efforts often lack simultaneous action and result in inconsistency. Nevertheless, the government can address this problem by enacting laws, as that is its role and responsibility.
+<br/>
+> than -> comapred to
+<br/>
+> individuals -> individuals alone
+<br/>
+> fail to do that simultaneous -> lack simultaneous
+<br/>
+> but -> nevertheless
+<br/>
+> stands for -> role and responsibility
+<br/>
