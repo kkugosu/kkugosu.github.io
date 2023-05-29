@@ -55,10 +55,27 @@ Considering things from another person's perspective is crucial as it prevents w
 > don't make -> omit
 <br/>
 
-but if there is inequality of information or
+but if there is inequality of information or manager is lake of consideration, and also if they don't compensate enough money to staff, act of sharing is becomming meaningless and that even can cause employee to give leeway to get nagging. for example, assumimg employee talk with employer on weekends and employer is lake of considerate, they probably ask employee to work more without money.
+<br/>
+<br/>
+> revise
 
-원리 
-예시
-아니면 선을 확실하게 지키는게 좋음
+<br/>
+But if there is a lack of information equality or the manager lacks consideration, and if they don't provide sufficient compensation to the staff, the act of sharing becomes meaningless. This can even lead the employer to justify nagging. For example, if an employee talks to their employer on weekends and the employer lacks consideration, they may ask the employee to work more without providing additional compensation.
+<br/>
+<br/>
+<br/>
+in conclution, as long as we fail to see things from other people's side, like modern society, it is better to work just for our given portion.
+<br/>
+<br/>
+> revise
 
-요즘세상에 후자가 낫다
+<br/>
+In conclusion, if we continue to overlook other people's perspectives, similar to modern society, it is advisable to focus on fulfilling our own assigned roles. 
+<br/>
+> as long as -> if we continue to
+<br/>
+> it is better to -> it is advisable to
+<br/>
+> given portion -> own assigned roles
+<br/>
