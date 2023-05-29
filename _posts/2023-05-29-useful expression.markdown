@@ -52,8 +52,6 @@ i'm fooled
 
 during that time
 <br/>
-
-
 call by just looking
 <br/>
 
@@ -121,12 +119,8 @@ it have to go without saying
 <br/>
 to state the obvious
 <br/>
-
-
 rule consistency
 <br/>
-
-
 at cheap price
 <br/>
 dispense
@@ -158,16 +152,12 @@ tyrant
 muscles in tense
 <br/>
 
-
 public servants
 <br/>
 send over
 <br/>
 accomplice
 <br/>
-
-
-
 
 in many ways
 <br/>
