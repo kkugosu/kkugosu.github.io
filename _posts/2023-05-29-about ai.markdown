@@ -1,0 +1,20 @@
+---
+layout: post
+title: about ai
+date: 2023-05-29 00:10:33 +0900
+category: theory
+---
+
+with advancement of ai, we can see plenty of conspicuous model these days which is usually comes from GAN and RL both of which are active learning model.
+
+there has been numerous elaboration to find out like "what is ai", "how can we build most plausable ai" and "what is intelligence" and lots of paper successfully gave us deep inspiration about fundamental implementation of ai. eventhough there has been enourmous pregress in AI, we still can't explain why we have curiousity and still failed to make how to make model to learn maximizing pac bayes bound.
+
+I wanna write about the most fundamental and important concepts we encounter when we first learn about AI which are namely bias and variance.
+actually these two concept imply opposite things bias means assumption and variance means non-assumption which is like even though we learn something which works simillar as preliminary learned, we should not assume that will works simillary.
+
+the matter at hand is, we have to strike a balance between two concept. for example, when you take the ramen and their color was red, you can think every red food is spicy if you are really biasd. but you have to be more specific in the real life and take that as depending on the context. however you should have bias to some extent. when you learned some from specific situation, you should be able to adapt that principle for another situation as well.
+
+the representative theory which discuss about this is called PAC and we usually employ PAC-bayes in academic paper. and also there has been attempts which aim to make model to autonomously strike a balance by themselves which is called automl
+there are many different kinds of techniques which is included in automl framework called HPO(hyper parameter optimization), NAS(neural architecture search), meta learning and more
+
+bias is proportional to the number of independent parameters 
