@@ -1,6 +1,6 @@
 ---
 layout: post
-title: about ai
+title: About AI
 date: 2023-05-29 00:10:33 +0900
 category: theory
 ---
@@ -15,11 +15,11 @@ I wanna write about the most fundamental and important concepts we encounter whe
 actually these two concept imply opposite things bias means assumption and variance means non-assumption which is like even though we learn something which works simillar as preliminary learned, we should not assume that will works simillary.
 <br/>
 <br/>
-the matter at hand is, we have to strike a balance between two concept. for example, when you take the ramen and their color was red, you can think every red food is spicy if you are really biasd. but you have to be more specific in the real life and take that as depending on the context. however you should have bias to some extent. when you learned some from specific situation, you should be able to adapt that principle for another situation as well.
+the matter at hand is, we have to strike a balance between two concept. for example, when you take the ramen and their color was red, you can think every red food is spicy if you are really biasd. but you have to be more specific in the real life and take that as depending on the context. however you should have bias to some extent. when you learned something from specific situation, you should be able to adapt that principle for another situation as well.
 <br/>
 <br/>
-the representative theory which discuss about this is called PAC and we usually employ PAC-bayes in academic paper. and also there has been attempts which aim to make model to autonomously strike a balance by themselves which is called automl
-there are many different kinds of techniques which is included in automl framework called HPO(hyper parameter optimization), NAS(neural architecture search), meta learning and more
+the representative theory which discuss about this is called PAC and we usually employ PAC-bayes bounds in academic paper. and also there has been attempts which aim to make model to autonomously strike a balance by themselves which is called autoML
+there are many different kinds of techniques which is included in autoML framework called HPO(hyper parameter optimization), NAS(neural architecture search), meta learning and more
 <br/>
 <br/>
 bias is proportional to the number of independent parameters 
