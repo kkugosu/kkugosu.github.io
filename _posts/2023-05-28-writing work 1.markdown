@@ -1,6 +1,6 @@
 ---
 layout: post
-title: writing money 2
+title: writing work 1
 date: 2023-05-28 00:10:33 +0900
 category: hobby
 ---
