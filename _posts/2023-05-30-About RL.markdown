@@ -5,4 +5,14 @@ date: 2023-05-30 00:10:33 +0900
 category: theory
 ---
 
-eventhough neural network seems to learn many kinds of pattern effectively, we can't guarantee what they learned are optimized knoledge.
+What i suppose to write about today is reinforcement learning which is one of the kinds of active learning. 
+
+The term "active" in "active learning" simply refers to the ability to choose the way we learn. and there have been numerous method which is included in active learning especially many branch of generative models such as RL and GAN. And due to their learning style, we can embody curiosity through these algorithms. You can see the implementation of many different uncertainty estimation methods through Bayesian neural networks.
+
+There have been various valuable attempts to construct plausible AI models that not only mimic human intelligence but also pursue the ultimate goal of true intelligence. While neural networks appear to effectively learn various patterns, we cannot guarantee that what they have learned represents optimized knowledge.
+
+As I mentioned in my previous post, the optimization of their learned knowledge depends on the PAC-Bayes bound. 
+Additionally, although I haven't mentioned it yet, we can also simply utilize optimization methods to ensure if the knowledge they have learned is optimized or not.
+
+The distinguishing factor of reinforcement learning (RL) from other active learning methods is its ability to effectively lower the PAC-Bayes bound by reducing the hypothesis space through the Markov assumption.
+
