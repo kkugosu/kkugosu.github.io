@@ -18,8 +18,6 @@ And who knows, maybe it will even help me make new friends internationally.
 <br/>
 thank you
 
-When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
-
 <!--
 ## Life Blog
 > Simple and lightweight theme for Jekyll
