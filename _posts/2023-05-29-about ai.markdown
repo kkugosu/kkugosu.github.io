@@ -22,4 +22,9 @@ the representative theory which discuss about this is called PAC and we usually 
 there are many different kinds of techniques which is included in autoML framework called HPO(hyper parameter optimization), NAS(neural architecture search), meta learning and more
 <br/>
 <br/>
-bias is proportional to the number of independent parameters 
+$$ E_{global} \leq E_{local} $$
+
+```rust
+
+fn map<B, F>(self, f: F) -> Map<Self, F> where F: FnMut(T) -> B;
+```
