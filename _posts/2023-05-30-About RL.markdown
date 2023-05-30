@@ -1,0 +1,8 @@
+---
+layout: post
+title: About RL
+date: 2023-05-30 00:10:33 +0900
+category: theory
+---
+
+eventhough neural network seems to learn many kinds of pattern effectively, we can't guarantee what they learned are optimized knoledge.
