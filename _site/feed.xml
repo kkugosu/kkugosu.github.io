@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-31T20:26:27+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Emmett</title><subtitle>Themed by ejjoo</subtitle><entry><title type="html">voca 2</title><link href="http://localhost:4000/hobby/2023/05/30/voca-2.html" rel="alternate" type="text/html" title="voca 2" /><published>2023-05-30T16:10:33+01:00</published><updated>2023-05-30T16:10:33+01:00</updated><id>http://localhost:4000/hobby/2023/05/30/voca%202</id><content type="html" xml:base="http://localhost:4000/hobby/2023/05/30/voca-2.html">&lt;p&gt;&lt;br /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-31T20:31:27+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Emmett</title><subtitle>Themed by ejjoo</subtitle><entry><title type="html">Writing envirnmont 1</title><link href="http://localhost:4000/2023/05/31/writing-envirnmont-1.html" rel="alternate" type="text/html" title="Writing envirnmont 1" /><published>2023-05-31T00:00:00+01:00</published><updated>2023-05-31T00:00:00+01:00</updated><id>http://localhost:4000/2023/05/31/writing%20envirnmont%201</id><content type="html" xml:base="http://localhost:4000/2023/05/31/writing-envirnmont-1.html"></content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">voca 2</title><link href="http://localhost:4000/hobby/2023/05/30/voca-2.html" rel="alternate" type="text/html" title="voca 2" /><published>2023-05-30T16:10:33+01:00</published><updated>2023-05-30T16:10:33+01:00</updated><id>http://localhost:4000/hobby/2023/05/30/voca%202</id><content type="html" xml:base="http://localhost:4000/hobby/2023/05/30/voca-2.html">&lt;p&gt;&lt;br /&gt;
 morale
 &lt;br /&gt;
 seeking a career in
@@ -103,27 +103,7 @@ gullible
 &lt;br /&gt;
 obstinate
 &lt;br /&gt;
-pig-headed&lt;/p&gt;</content><author><name></name></author><category term="hobby" /><summary type="html">morale seeking a career in paternity leave perks/ benefits holiday entitlement voluntary/ compulsory redundancies skeleton staff telesales cold calling hard sell purchasing power shop around trade something up brand loyalty niche market come/go under the hammer increasing bids red tape hammer out a deal capital assets holiday property letting agency obliging tactless diligent shrewd extravagant altruistic frugal dogmatic obese stout stocky unkempt immaculate swarthy haggard pouting grimace scowled leering clenched her fist impetuous effusive self-conscious taciturn diffident haughty conceited gullible obstinate pig-headed</summary></entry><entry><title type="html">About RL</title><link href="http://localhost:4000/theory/2023/05/29/About-RL.html" rel="alternate" type="text/html" title="About RL" /><published>2023-05-29T16:10:33+01:00</published><updated>2023-05-29T16:10:33+01:00</updated><id>http://localhost:4000/theory/2023/05/29/About%20RL</id><content type="html" xml:base="http://localhost:4000/theory/2023/05/29/About-RL.html">&lt;p&gt;&lt;br /&gt;
-What i suppose to write about today is reinforcement learning which is one of the kinds of active learning. 
-&lt;br /&gt;
-&lt;br /&gt;
-The term “active” in “active learning” simply refers to the ability to choose the way we learn. and there have been numerous method which is included in active learning especially many branch of generative models such as RL and GAN. And due to their learning style, we can embody curiosity through these algorithms. You can see the implementation of many different uncertainty estimation methods through Bayesian neural networks.
-&lt;br /&gt;
-&lt;br /&gt;
-There have been various valuable attempts to construct plausible AI models that not only mimic human intelligence but also pursue the ultimate goal of true intelligence. While neural networks appear to effectively learn various patterns, we cannot guarantee that what they have learned represents optimized knowledge.
-&lt;br /&gt;
-&lt;br /&gt;
-As I mentioned in my previous post, the optimization of their learned knowledge depends on the PAC-Bayes bound. 
-Additionally, although I haven’t mentioned it yet, we can also simply utilize optimization methods to ensure if the knowledge they have learned is optimized or not.
-&lt;br /&gt;
-&lt;br /&gt;
-The distinguishing factor of reinforcement learning (RL) from other active learning methods is its ability to effectively lower the PAC-Bayes bound by reducing the hypothesis space through the Markov assumption.
-&lt;br /&gt;
-&lt;br /&gt;
-The model which has Markov assumption refers to they have decision-making process being dependent only on the present state and not the previous states. Many machine learning algorithms utilize the Markov assumption by incorporating memory structures, particularly RNN, LSTM, HMM, CRF ..in the analysis of time series data.
-&lt;br /&gt;
-&lt;br /&gt;
-these strong assumption allows these technique to inference fastly with simplified structure, which eventually enabling them to learn even one pattern fastly without any help of contradictory patterns which can prevent them from having unnesscery knowledge.&lt;/p&gt;</content><author><name></name></author><category term="theory" /><summary type="html">What i suppose to write about today is reinforcement learning which is one of the kinds of active learning. The term “active” in “active learning” simply refers to the ability to choose the way we learn. and there have been numerous method which is included in active learning especially many branch of generative models such as RL and GAN. And due to their learning style, we can embody curiosity through these algorithms. You can see the implementation of many different uncertainty estimation methods through Bayesian neural networks. There have been various valuable attempts to construct plausible AI models that not only mimic human intelligence but also pursue the ultimate goal of true intelligence. While neural networks appear to effectively learn various patterns, we cannot guarantee that what they have learned represents optimized knowledge. As I mentioned in my previous post, the optimization of their learned knowledge depends on the PAC-Bayes bound. Additionally, although I haven’t mentioned it yet, we can also simply utilize optimization methods to ensure if the knowledge they have learned is optimized or not. The distinguishing factor of reinforcement learning (RL) from other active learning methods is its ability to effectively lower the PAC-Bayes bound by reducing the hypothesis space through the Markov assumption. The model which has Markov assumption refers to they have decision-making process being dependent only on the present state and not the previous states. Many machine learning algorithms utilize the Markov assumption by incorporating memory structures, particularly RNN, LSTM, HMM, CRF ..in the analysis of time series data. these strong assumption allows these technique to inference fastly with simplified structure, which eventually enabling them to learn even one pattern fastly without any help of contradictory patterns which can prevent them from having unnesscery knowledge.</summary></entry><entry><title type="html">voca 1</title><link href="http://localhost:4000/hobby/2023/05/29/voca-1.html" rel="alternate" type="text/html" title="voca 1" /><published>2023-05-29T16:10:33+01:00</published><updated>2023-05-29T16:10:33+01:00</updated><id>http://localhost:4000/hobby/2023/05/29/voca%201</id><content type="html" xml:base="http://localhost:4000/hobby/2023/05/29/voca-1.html">&lt;p&gt;&lt;br /&gt;
+pig-headed&lt;/p&gt;</content><author><name></name></author><category term="hobby" /><summary type="html">morale seeking a career in paternity leave perks/ benefits holiday entitlement voluntary/ compulsory redundancies skeleton staff telesales cold calling hard sell purchasing power shop around trade something up brand loyalty niche market come/go under the hammer increasing bids red tape hammer out a deal capital assets holiday property letting agency obliging tactless diligent shrewd extravagant altruistic frugal dogmatic obese stout stocky unkempt immaculate swarthy haggard pouting grimace scowled leering clenched her fist impetuous effusive self-conscious taciturn diffident haughty conceited gullible obstinate pig-headed</summary></entry><entry><title type="html">voca 1</title><link href="http://localhost:4000/hobby/2023/05/29/voca-1.html" rel="alternate" type="text/html" title="voca 1" /><published>2023-05-29T16:10:33+01:00</published><updated>2023-05-29T16:10:33+01:00</updated><id>http://localhost:4000/hobby/2023/05/29/voca%201</id><content type="html" xml:base="http://localhost:4000/hobby/2023/05/29/voca-1.html">&lt;p&gt;&lt;br /&gt;
 dissertation
 &lt;br /&gt;
 first draft
@@ -182,181 +162,27 @@ went in with
 &lt;br /&gt;
 differentiated point -&amp;gt; distinguishing factor
 serieze -&amp;gt; series
-simplifized -&amp;gt; simplified&lt;/p&gt;</content><author><name></name></author><category term="hobby" /><summary type="html">dissertation first draft carry out research bursaries Curriculum reform Reporting to subsidised cover letter in support of hands-on Yours faithfully panel line manager speak up talk us through fill the post opposite number rapport take the initiative pecking order talk shop day shift knocking off mind-numbing stuck in a rut went in with differentiated point -&amp;gt; distinguishing factor serieze -&amp;gt; series simplifized -&amp;gt; simplified</summary></entry><entry><title type="html">useful expression 2</title><link href="http://localhost:4000/hobby/2023/05/28/useful-expression-2.html" rel="alternate" type="text/html" title="useful expression 2" /><published>2023-05-28T16:10:33+01:00</published><updated>2023-05-28T16:10:33+01:00</updated><id>http://localhost:4000/hobby/2023/05/28/useful%20expression%202</id><content type="html" xml:base="http://localhost:4000/hobby/2023/05/28/useful-expression-2.html">&lt;p&gt;&lt;br /&gt;
-on balance
+simplifized -&amp;gt; simplified&lt;/p&gt;</content><author><name></name></author><category term="hobby" /><summary type="html">dissertation first draft carry out research bursaries Curriculum reform Reporting to subsidised cover letter in support of hands-on Yours faithfully panel line manager speak up talk us through fill the post opposite number rapport take the initiative pecking order talk shop day shift knocking off mind-numbing stuck in a rut went in with differentiated point -&amp;gt; distinguishing factor serieze -&amp;gt; series simplifized -&amp;gt; simplified</summary></entry><entry><title type="html">About RL</title><link href="http://localhost:4000/theory/2023/05/29/About-RL.html" rel="alternate" type="text/html" title="About RL" /><published>2023-05-29T16:10:33+01:00</published><updated>2023-05-29T16:10:33+01:00</updated><id>http://localhost:4000/theory/2023/05/29/About%20RL</id><content type="html" xml:base="http://localhost:4000/theory/2023/05/29/About-RL.html">&lt;p&gt;&lt;br /&gt;
+What i suppose to write about today is reinforcement learning which is one of the kinds of active learning. 
 &lt;br /&gt;
-septic
 &lt;br /&gt;
-deter
+The term “active” in “active learning” simply refers to the ability to choose the way we learn. and there have been numerous method which is included in active learning especially many branch of generative models such as RL and GAN. And due to their learning style, we can embody curiosity through these algorithms. You can see the implementation of many different uncertainty estimation methods through Bayesian neural networks.
 &lt;br /&gt;
-if not more so
 &lt;br /&gt;
-not knowing any better
+There have been various valuable attempts to construct plausible AI models that not only mimic human intelligence but also pursue the ultimate goal of true intelligence. While neural networks appear to effectively learn various patterns, we cannot guarantee that what they have learned represents optimized knowledge.
 &lt;br /&gt;
-attachment
 &lt;br /&gt;
-incident
+As I mentioned in my previous post, the optimization of their learned knowledge depends on the PAC-Bayes bound. 
+Additionally, although I haven’t mentioned it yet, we can also simply utilize optimization methods to ensure if the knowledge they have learned is optimized or not.
 &lt;br /&gt;
-chronology
 &lt;br /&gt;
-acoustic
+The distinguishing factor of reinforcement learning (RL) from other active learning methods is its ability to effectively lower the PAC-Bayes bound by reducing the hypothesis space through the Markov assumption.
 &lt;br /&gt;
-abstrusive
 &lt;br /&gt;
-what is worse
+The model which has Markov assumption refers to they have decision-making process being dependent only on the present state and not the previous states. Many machine learning algorithms utilize the Markov assumption by incorporating memory structures, particularly RNN, LSTM, HMM, CRF ..in the analysis of time series data.
 &lt;br /&gt;
-for the last month
 &lt;br /&gt;
-determine to what extent
-&lt;br /&gt;
-relentless, inexorable
-&lt;br /&gt;
-transient
-&lt;br /&gt;
-as is
-&lt;br /&gt;
-current affairs
-&lt;br /&gt;
-from point of view
-&lt;br /&gt;
-set on the bed
-&lt;br /&gt;
-lie on my side
-&lt;br /&gt;
-anarchy
-&lt;br /&gt;
-well rounded person
-&lt;br /&gt;
-look back on
-&lt;br /&gt;
-put up with
-&lt;br /&gt;
-do up
-&lt;br /&gt;
-save up for
-&lt;br /&gt;
-use up
-&lt;br /&gt;
-take up
-&lt;br /&gt;
-occupy
-&lt;br /&gt;
-make up
-&lt;br /&gt;
-make ~ up
-&lt;br /&gt;
-take up
-&lt;br /&gt;
-take ~ up
-&lt;br /&gt;
-fix up
-&lt;br /&gt;
-cut down
-&lt;br /&gt;
-let down
-&lt;br /&gt;
-tell off
-&lt;br /&gt;
-go off
-&lt;br /&gt;
-get on
-&lt;br /&gt;
-set sby off
-&lt;br /&gt;
-be off
-&lt;br /&gt;
-call off
-&lt;br /&gt;
-try out
-&lt;br /&gt;
-give out
-&lt;br /&gt; 
-hand out
-&lt;br /&gt;
-carry out
-&lt;br /&gt;
-leave out
-&lt;br /&gt;
-take in
-&lt;br /&gt;
-get by
-&lt;br /&gt;
-get on
-&lt;br /&gt;
-believe in
-&lt;br /&gt;
-concentrate on
-&lt;br /&gt;
-insist on
-&lt;br /&gt;
-collide with
-&lt;br /&gt;
-live on money/ field
-&lt;br /&gt;
-blame on/for
-&lt;br /&gt;
-accuse of
-&lt;br /&gt;
-approve of
-&lt;br /&gt;
-die of/from
-&lt;br /&gt;
-have a discussion about sth
-&lt;br /&gt;
-discuss sth
-&lt;br /&gt;
-“
-answer ask
-phone call email text thank”
-do not use to
-&lt;br /&gt;
-listen to
-&lt;br /&gt;
-apologise to
-&lt;br /&gt;
-descrive to sb
-&lt;br /&gt;
-keen on
-&lt;br /&gt;
-dependent on
-&lt;br /&gt;
-independent of
-&lt;br /&gt;
-crowded with , full of
-&lt;br /&gt;
-famous for of
-&lt;br /&gt;
-time hanoured
-&lt;br /&gt;
-off spring
-&lt;br /&gt;
-breed
-&lt;br /&gt;
-apes
-&lt;br /&gt;
-resort to
-&lt;br /&gt;
-muddled
-&lt;br /&gt;
-level
-&lt;br /&gt;
-brighter
-&lt;br /&gt;
-bat an eyelid
-&lt;br /&gt;
-wouldn’t he getting killed by that way
-&lt;br /&gt;
-enshiring
-&lt;br /&gt;
-see yourself out
-&lt;br /&gt;
-if you’ll escuse me
-&lt;br /&gt;
-commentary
-&lt;br /&gt;
-inability to see
-&lt;br /&gt;
-right before it’s very eyes&lt;/p&gt;</content><author><name></name></author><category term="hobby" /><summary type="html">on balance septic deter if not more so not knowing any better attachment incident chronology acoustic abstrusive what is worse for the last month determine to what extent relentless, inexorable transient as is current affairs from point of view set on the bed lie on my side anarchy well rounded person look back on put up with do up save up for use up take up occupy make up make ~ up take up take ~ up fix up cut down let down tell off go off get on set sby off be off call off try out give out hand out carry out leave out take in get by get on believe in concentrate on insist on collide with live on money/ field blame on/for accuse of approve of die of/from have a discussion about sth discuss sth “ answer ask phone call email text thank” do not use to listen to apologise to descrive to sb keen on dependent on independent of crowded with , full of famous for of time hanoured off spring breed apes resort to muddled level brighter bat an eyelid wouldn’t he getting killed by that way enshiring see yourself out if you’ll escuse me commentary inability to see right before it’s very eyes</summary></entry><entry><title type="html">preparing interview</title><link href="http://localhost:4000/hobby/2023/05/28/preparing-interview.html" rel="alternate" type="text/html" title="preparing interview" /><published>2023-05-28T16:10:33+01:00</published><updated>2023-05-28T16:10:33+01:00</updated><id>http://localhost:4000/hobby/2023/05/28/preparing%20interview</id><content type="html" xml:base="http://localhost:4000/hobby/2023/05/28/preparing-interview.html"></content><author><name></name></author><category term="hobby" /><summary type="html"></summary></entry><entry><title type="html">About AI</title><link href="http://localhost:4000/theory/2023/05/28/About-AI.html" rel="alternate" type="text/html" title="About AI" /><published>2023-05-28T16:10:33+01:00</published><updated>2023-05-28T16:10:33+01:00</updated><id>http://localhost:4000/theory/2023/05/28/About%20AI</id><content type="html" xml:base="http://localhost:4000/theory/2023/05/28/About-AI.html">&lt;p&gt;With advancement of ai, we can see plenty of conspicuous model these days which is usually comes from GAN and RL both of which are active learning model.
+these strong assumption allows these technique to inference fastly with simplified structure, which eventually enabling them to learn even one pattern fastly without any help of contradictory patterns which can prevent them from having unnesscery knowledge.&lt;/p&gt;</content><author><name></name></author><category term="theory" /><summary type="html">What i suppose to write about today is reinforcement learning which is one of the kinds of active learning. The term “active” in “active learning” simply refers to the ability to choose the way we learn. and there have been numerous method which is included in active learning especially many branch of generative models such as RL and GAN. And due to their learning style, we can embody curiosity through these algorithms. You can see the implementation of many different uncertainty estimation methods through Bayesian neural networks. There have been various valuable attempts to construct plausible AI models that not only mimic human intelligence but also pursue the ultimate goal of true intelligence. While neural networks appear to effectively learn various patterns, we cannot guarantee that what they have learned represents optimized knowledge. As I mentioned in my previous post, the optimization of their learned knowledge depends on the PAC-Bayes bound. Additionally, although I haven’t mentioned it yet, we can also simply utilize optimization methods to ensure if the knowledge they have learned is optimized or not. The distinguishing factor of reinforcement learning (RL) from other active learning methods is its ability to effectively lower the PAC-Bayes bound by reducing the hypothesis space through the Markov assumption. The model which has Markov assumption refers to they have decision-making process being dependent only on the present state and not the previous states. Many machine learning algorithms utilize the Markov assumption by incorporating memory structures, particularly RNN, LSTM, HMM, CRF ..in the analysis of time series data. these strong assumption allows these technique to inference fastly with simplified structure, which eventually enabling them to learn even one pattern fastly without any help of contradictory patterns which can prevent them from having unnesscery knowledge.</summary></entry><entry><title type="html">preparing interview</title><link href="http://localhost:4000/hobby/2023/05/28/preparing-interview.html" rel="alternate" type="text/html" title="preparing interview" /><published>2023-05-28T16:10:33+01:00</published><updated>2023-05-28T16:10:33+01:00</updated><id>http://localhost:4000/hobby/2023/05/28/preparing%20interview</id><content type="html" xml:base="http://localhost:4000/hobby/2023/05/28/preparing-interview.html"></content><author><name></name></author><category term="hobby" /><summary type="html"></summary></entry><entry><title type="html">About AI</title><link href="http://localhost:4000/theory/2023/05/28/About-AI.html" rel="alternate" type="text/html" title="About AI" /><published>2023-05-28T16:10:33+01:00</published><updated>2023-05-28T16:10:33+01:00</updated><id>http://localhost:4000/theory/2023/05/28/About%20AI</id><content type="html" xml:base="http://localhost:4000/theory/2023/05/28/About-AI.html">&lt;p&gt;With advancement of ai, we can see plenty of conspicuous model these days which is usually comes from GAN and RL both of which are active learning model.
 &lt;br /&gt;
 &lt;br /&gt;
 There has been numerous elaboration to find out like “what is ai”, “how can we build most plausable ai” and “what is intelligence” and lots of paper successfully gave us deep inspiration about fundamental implementation of ai. eventhough there has been enourmous pregress in AI, we still can’t explain why we have curiousity and still failed to make how to make model to learn maximizing pac bayes bound.
@@ -756,92 +582,178 @@ make it this far
 my strengh failed me
 &lt;br /&gt;
 how do i put it
-&lt;br /&gt;&lt;/p&gt;</content><author><name></name></author><category term="hobby" /><summary type="html">that’s what free will is for able to talk your way out of it seige seize hinge upon fill you in on conspicious mobilized i like your guts somehow what say you be after about to wet oneself confide in enticed as per informant enigma buzzword if anything</summary></entry><entry><title type="html">writing work 1</title><link href="http://localhost:4000/hobby/2023/05/27/writing-work-1.html" rel="alternate" type="text/html" title="writing work 1" /><published>2023-05-27T16:10:33+01:00</published><updated>2023-05-27T16:10:33+01:00</updated><id>http://localhost:4000/hobby/2023/05/27/writing%20work%201</id><content type="html" xml:base="http://localhost:4000/hobby/2023/05/27/writing-work-1.html">&lt;p&gt;Q
+&lt;br /&gt;&lt;/p&gt;</content><author><name></name></author><category term="hobby" /><summary type="html">that’s what free will is for able to talk your way out of it seige seize hinge upon fill you in on conspicious mobilized i like your guts somehow what say you be after about to wet oneself confide in enticed as per informant enigma buzzword if anything</summary></entry><entry><title type="html">useful expression 2</title><link href="http://localhost:4000/hobby/2023/05/28/useful-expression-2.html" rel="alternate" type="text/html" title="useful expression 2" /><published>2023-05-28T16:10:33+01:00</published><updated>2023-05-28T16:10:33+01:00</updated><id>http://localhost:4000/hobby/2023/05/28/useful%20expression%202</id><content type="html" xml:base="http://localhost:4000/hobby/2023/05/28/useful-expression-2.html">&lt;p&gt;&lt;br /&gt;
+on balance
 &lt;br /&gt;
-some employers want to be able to contact their staff at all times, even on holidays
+septic
 &lt;br /&gt;
-does this development have more advantages than disadvantages?
+deter
 &lt;br /&gt;
-A
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;as society becomming diverse, every individuals are getting to serve their own role rather than doing everything. as our role is getting diverse, we need to communicate each other to accomplish big project. some want to communicate more frequently and i will delve into my perspective in detail in the following paragraph.
+if not more so
 &lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;revise&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;br /&gt;
-As society becomes more diverse, individuals are increasingly taking on specific roles instead of trying to do everything themselves. With this diversification of roles, effective communication becomes crucial for accomplishing big projects. Some individuals prefer to communicate more frequently, and I will further elaborate on my perspective in the following paragraph.
-&lt;br /&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;getting -&amp;gt; increasingly
+not knowing any better
 &lt;br /&gt;
-some -&amp;gt; some individuals
+attachment
 &lt;br /&gt;
-serve role -&amp;gt; taking on role
+incident
 &lt;br /&gt;
-their own -&amp;gt; specific
-&lt;br /&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;it is important to see things from another person’s point of view as it will prevent works to be concentrated on few persons resulting in improving the performance doing a project as a whole. moreover we can prevent ourselves from doing unnessarily elaborate by anticipate the workflow. for example, when we build website, if developer already know manager don’t usually use customer service, they don’t need to make that window.
+chronology
 &lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;revise&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;br /&gt;
-Considering things from another person’s perspective is crucial as it prevents work from being biased towards a few individuals, leading to improved performance by ensuring the collaboration of all team members on a project. Additionally, anticipating the workflow allows us to avoid unnecessary elaboration. For example, when building a website, if a developer knows that the manager rarely utilizes customer service, they can omit creating that specific page.
-&lt;br /&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;concentrated -&amp;gt; biased, skewed
+acoustic
 &lt;br /&gt;
-concentrate 는 좀더 추상적인
+abstrusive
 &lt;br /&gt;
-bias skew는 물리적인
+what is worse
 &lt;br /&gt;
-expect -&amp;gt; anticipate
+for the last month
 &lt;br /&gt;
-expect = 결과물에 대한 예상
+determine to what extent
 &lt;br /&gt;
-anticipate 미래의 사건
+relentless, inexorable
 &lt;br /&gt;
-use -&amp;gt; utilize
+transient
 &lt;br /&gt;
-don’t make -&amp;gt; omit
-&lt;br /&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;but if there is inequality of information or manager is lake of consideration, and also if they don’t compensate enough money to staff, act of sharing is becomming meaningless and that even can cause employee to give leeway to get nagging. for example, assumimg employee talk with employer on weekends and employer is lake of considerate, they probably ask employee to work more without money.
+as is
 &lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;revise&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;br /&gt;
-But if there is a lack of information equality or the manager lacks consideration, and if they don’t provide sufficient compensation to the staff, the act of sharing becomes meaningless. This can even lead the employer to justify nagging. For example, if an employee talks to their employer on weekends and the employer lacks consideration, they may ask the employee to work more without providing additional compensation.
+current affairs
 &lt;br /&gt;
+from point of view
 &lt;br /&gt;
+set on the bed
 &lt;br /&gt;
-in conclution, as long as we fail to see things from other people’s side, like modern society, it is better to work just for our given portion.
+lie on my side
 &lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;revise&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;br /&gt;
-In conclusion, if we continue to overlook other people’s perspectives, similar to modern society, it is advisable to focus on fulfilling our own assigned roles. 
-&lt;br /&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;as long as -&amp;gt; if we continue to
+anarchy
 &lt;br /&gt;
-it is better to -&amp;gt; it is advisable to
+well rounded person
 &lt;br /&gt;
-given portion -&amp;gt; own assigned roles
-&lt;br /&gt;&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name></name></author><category term="hobby" /><summary type="html">Q some employers want to be able to contact their staff at all times, even on holidays does this development have more advantages than disadvantages? A</summary></entry></feed>
+look back on
+&lt;br /&gt;
+put up with
+&lt;br /&gt;
+do up
+&lt;br /&gt;
+save up for
+&lt;br /&gt;
+use up
+&lt;br /&gt;
+take up
+&lt;br /&gt;
+occupy
+&lt;br /&gt;
+make up
+&lt;br /&gt;
+make ~ up
+&lt;br /&gt;
+take up
+&lt;br /&gt;
+take ~ up
+&lt;br /&gt;
+fix up
+&lt;br /&gt;
+cut down
+&lt;br /&gt;
+let down
+&lt;br /&gt;
+tell off
+&lt;br /&gt;
+go off
+&lt;br /&gt;
+get on
+&lt;br /&gt;
+set sby off
+&lt;br /&gt;
+be off
+&lt;br /&gt;
+call off
+&lt;br /&gt;
+try out
+&lt;br /&gt;
+give out
+&lt;br /&gt; 
+hand out
+&lt;br /&gt;
+carry out
+&lt;br /&gt;
+leave out
+&lt;br /&gt;
+take in
+&lt;br /&gt;
+get by
+&lt;br /&gt;
+get on
+&lt;br /&gt;
+believe in
+&lt;br /&gt;
+concentrate on
+&lt;br /&gt;
+insist on
+&lt;br /&gt;
+collide with
+&lt;br /&gt;
+live on money/ field
+&lt;br /&gt;
+blame on/for
+&lt;br /&gt;
+accuse of
+&lt;br /&gt;
+approve of
+&lt;br /&gt;
+die of/from
+&lt;br /&gt;
+have a discussion about sth
+&lt;br /&gt;
+discuss sth
+&lt;br /&gt;
+“
+answer ask
+phone call email text thank”
+do not use to
+&lt;br /&gt;
+listen to
+&lt;br /&gt;
+apologise to
+&lt;br /&gt;
+descrive to sb
+&lt;br /&gt;
+keen on
+&lt;br /&gt;
+dependent on
+&lt;br /&gt;
+independent of
+&lt;br /&gt;
+crowded with , full of
+&lt;br /&gt;
+famous for of
+&lt;br /&gt;
+time hanoured
+&lt;br /&gt;
+off spring
+&lt;br /&gt;
+breed
+&lt;br /&gt;
+apes
+&lt;br /&gt;
+resort to
+&lt;br /&gt;
+muddled
+&lt;br /&gt;
+level
+&lt;br /&gt;
+brighter
+&lt;br /&gt;
+bat an eyelid
+&lt;br /&gt;
+wouldn’t he getting killed by that way
+&lt;br /&gt;
+enshiring
+&lt;br /&gt;
+see yourself out
+&lt;br /&gt;
+if you’ll escuse me
+&lt;br /&gt;
+commentary
+&lt;br /&gt;
+inability to see
+&lt;br /&gt;
+right before it’s very eyes&lt;/p&gt;</content><author><name></name></author><category term="hobby" /><summary type="html">on balance septic deter if not more so not knowing any better attachment incident chronology acoustic abstrusive what is worse for the last month determine to what extent relentless, inexorable transient as is current affairs from point of view set on the bed lie on my side anarchy well rounded person look back on put up with do up save up for use up take up occupy make up make ~ up take up take ~ up fix up cut down let down tell off go off get on set sby off be off call off try out give out hand out carry out leave out take in get by get on believe in concentrate on insist on collide with live on money/ field blame on/for accuse of approve of die of/from have a discussion about sth discuss sth “ answer ask phone call email text thank” do not use to listen to apologise to descrive to sb keen on dependent on independent of crowded with , full of famous for of time hanoured off spring breed apes resort to muddled level brighter bat an eyelid wouldn’t he getting killed by that way enshiring see yourself out if you’ll escuse me commentary inability to see right before it’s very eyes</summary></entry></feed>
