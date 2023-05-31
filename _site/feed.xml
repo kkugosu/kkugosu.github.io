@@ -1,4 +1,34 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-31T12:06:39+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Emmett</title><subtitle>Themed by ejjoo</subtitle><entry><title type="html">voca</title><link href="http://localhost:4000/hobby/2023/05/29/voca.html" rel="alternate" type="text/html" title="voca" /><published>2023-05-29T16:10:33+01:00</published><updated>2023-05-29T16:10:33+01:00</updated><id>http://localhost:4000/hobby/2023/05/29/voca</id><content type="html" xml:base="http://localhost:4000/hobby/2023/05/29/voca.html">&lt;p&gt;&lt;br /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-31T17:16:35+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Emmett</title><subtitle>Themed by ejjoo</subtitle><entry><title type="html">voca 2</title><link href="http://localhost:4000/hobby/2023/05/30/voca-2.html" rel="alternate" type="text/html" title="voca 2" /><published>2023-05-30T16:10:33+01:00</published><updated>2023-05-30T16:10:33+01:00</updated><id>http://localhost:4000/hobby/2023/05/30/voca%202</id><content type="html" xml:base="http://localhost:4000/hobby/2023/05/30/voca-2.html">&lt;p&gt;morale
+seeking a career in
+paternity leave
+perks/ benefits
+holiday entitlement
+voluntary/ compulsory redundancies
+skeleton staff&lt;/p&gt;
+
+&lt;p&gt;telesales
+cold calling
+hard sell&lt;/p&gt;</content><author><name></name></author><category term="hobby" /><summary type="html">morale seeking a career in paternity leave perks/ benefits holiday entitlement voluntary/ compulsory redundancies skeleton staff</summary></entry><entry><title type="html">About RL</title><link href="http://localhost:4000/theory/2023/05/29/About-RL.html" rel="alternate" type="text/html" title="About RL" /><published>2023-05-29T16:10:33+01:00</published><updated>2023-05-29T16:10:33+01:00</updated><id>http://localhost:4000/theory/2023/05/29/About%20RL</id><content type="html" xml:base="http://localhost:4000/theory/2023/05/29/About-RL.html">&lt;p&gt;&lt;br /&gt;
+What i suppose to write about today is reinforcement learning which is one of the kinds of active learning. 
+&lt;br /&gt;
+&lt;br /&gt;
+The term “active” in “active learning” simply refers to the ability to choose the way we learn. and there have been numerous method which is included in active learning especially many branch of generative models such as RL and GAN. And due to their learning style, we can embody curiosity through these algorithms. You can see the implementation of many different uncertainty estimation methods through Bayesian neural networks.
+&lt;br /&gt;
+&lt;br /&gt;
+There have been various valuable attempts to construct plausible AI models that not only mimic human intelligence but also pursue the ultimate goal of true intelligence. While neural networks appear to effectively learn various patterns, we cannot guarantee that what they have learned represents optimized knowledge.
+&lt;br /&gt;
+&lt;br /&gt;
+As I mentioned in my previous post, the optimization of their learned knowledge depends on the PAC-Bayes bound. 
+Additionally, although I haven’t mentioned it yet, we can also simply utilize optimization methods to ensure if the knowledge they have learned is optimized or not.
+&lt;br /&gt;
+&lt;br /&gt;
+The distinguishing factor of reinforcement learning (RL) from other active learning methods is its ability to effectively lower the PAC-Bayes bound by reducing the hypothesis space through the Markov assumption.
+&lt;br /&gt;
+&lt;br /&gt;
+The model which has Markov assumption refers to they have decision-making process being dependent only on the present state and not the previous states. Many machine learning algorithms utilize the Markov assumption by incorporating memory structures, particularly RNN, LSTM, HMM, CRF ..in the analysis of time series data.
+&lt;br /&gt;
+&lt;br /&gt;
+these strong assumption allows these technique to inference fastly with simplified structure, which eventually enabling them to learn even one pattern fastly without any help of contradictory patterns which can prevent them from having unnesscery knowledge.&lt;/p&gt;</content><author><name></name></author><category term="theory" /><summary type="html">What i suppose to write about today is reinforcement learning which is one of the kinds of active learning. The term “active” in “active learning” simply refers to the ability to choose the way we learn. and there have been numerous method which is included in active learning especially many branch of generative models such as RL and GAN. And due to their learning style, we can embody curiosity through these algorithms. You can see the implementation of many different uncertainty estimation methods through Bayesian neural networks. There have been various valuable attempts to construct plausible AI models that not only mimic human intelligence but also pursue the ultimate goal of true intelligence. While neural networks appear to effectively learn various patterns, we cannot guarantee that what they have learned represents optimized knowledge. As I mentioned in my previous post, the optimization of their learned knowledge depends on the PAC-Bayes bound. Additionally, although I haven’t mentioned it yet, we can also simply utilize optimization methods to ensure if the knowledge they have learned is optimized or not. The distinguishing factor of reinforcement learning (RL) from other active learning methods is its ability to effectively lower the PAC-Bayes bound by reducing the hypothesis space through the Markov assumption. The model which has Markov assumption refers to they have decision-making process being dependent only on the present state and not the previous states. Many machine learning algorithms utilize the Markov assumption by incorporating memory structures, particularly RNN, LSTM, HMM, CRF ..in the analysis of time series data. these strong assumption allows these technique to inference fastly with simplified structure, which eventually enabling them to learn even one pattern fastly without any help of contradictory patterns which can prevent them from having unnesscery knowledge.</summary></entry><entry><title type="html">voca 1</title><link href="http://localhost:4000/hobby/2023/05/29/voca-1.html" rel="alternate" type="text/html" title="voca 1" /><published>2023-05-29T16:10:33+01:00</published><updated>2023-05-29T16:10:33+01:00</updated><id>http://localhost:4000/hobby/2023/05/29/voca%201</id><content type="html" xml:base="http://localhost:4000/hobby/2023/05/29/voca-1.html">&lt;p&gt;&lt;br /&gt;
 dissertation
 &lt;br /&gt;
 first draft
@@ -57,27 +87,7 @@ went in with
 &lt;br /&gt;
 differentiated point -&amp;gt; distinguishing factor
 serieze -&amp;gt; series
-simplifized -&amp;gt; simplified&lt;/p&gt;</content><author><name></name></author><category term="hobby" /><summary type="html">dissertation first draft carry out research bursaries Curriculum reform Reporting to subsidised cover letter in support of hands-on Yours faithfully panel line manager speak up talk us through fill the post opposite number rapport take the initiative pecking order talk shop day shift knocking off mind-numbing stuck in a rut went in with differentiated point -&amp;gt; distinguishing factor serieze -&amp;gt; series simplifized -&amp;gt; simplified</summary></entry><entry><title type="html">About RL</title><link href="http://localhost:4000/theory/2023/05/29/About-RL.html" rel="alternate" type="text/html" title="About RL" /><published>2023-05-29T16:10:33+01:00</published><updated>2023-05-29T16:10:33+01:00</updated><id>http://localhost:4000/theory/2023/05/29/About%20RL</id><content type="html" xml:base="http://localhost:4000/theory/2023/05/29/About-RL.html">&lt;p&gt;&lt;br /&gt;
-What i suppose to write about today is reinforcement learning which is one of the kinds of active learning. 
-&lt;br /&gt;
-&lt;br /&gt;
-The term “active” in “active learning” simply refers to the ability to choose the way we learn. and there have been numerous method which is included in active learning especially many branch of generative models such as RL and GAN. And due to their learning style, we can embody curiosity through these algorithms. You can see the implementation of many different uncertainty estimation methods through Bayesian neural networks.
-&lt;br /&gt;
-&lt;br /&gt;
-There have been various valuable attempts to construct plausible AI models that not only mimic human intelligence but also pursue the ultimate goal of true intelligence. While neural networks appear to effectively learn various patterns, we cannot guarantee that what they have learned represents optimized knowledge.
-&lt;br /&gt;
-&lt;br /&gt;
-As I mentioned in my previous post, the optimization of their learned knowledge depends on the PAC-Bayes bound. 
-Additionally, although I haven’t mentioned it yet, we can also simply utilize optimization methods to ensure if the knowledge they have learned is optimized or not.
-&lt;br /&gt;
-&lt;br /&gt;
-The distinguishing factor of reinforcement learning (RL) from other active learning methods is its ability to effectively lower the PAC-Bayes bound by reducing the hypothesis space through the Markov assumption.
-&lt;br /&gt;
-&lt;br /&gt;
-The model which has Markov assumption refers to they have decision-making process being dependent only on the present state and not the previous states. Many machine learning algorithms utilize the Markov assumption by incorporating memory structures, particularly RNN, LSTM, HMM, CRF ..in the analysis of time series data.
-&lt;br /&gt;
-&lt;br /&gt;
-these strong assumption allows these technique to inference fastly with simplified structure, which eventually enabling them to learn even one pattern fastly without any help of contradictory patterns which can prevent them from having unnesscery knowledge.&lt;/p&gt;</content><author><name></name></author><category term="theory" /><summary type="html">What i suppose to write about today is reinforcement learning which is one of the kinds of active learning. The term “active” in “active learning” simply refers to the ability to choose the way we learn. and there have been numerous method which is included in active learning especially many branch of generative models such as RL and GAN. And due to their learning style, we can embody curiosity through these algorithms. You can see the implementation of many different uncertainty estimation methods through Bayesian neural networks. There have been various valuable attempts to construct plausible AI models that not only mimic human intelligence but also pursue the ultimate goal of true intelligence. While neural networks appear to effectively learn various patterns, we cannot guarantee that what they have learned represents optimized knowledge. As I mentioned in my previous post, the optimization of their learned knowledge depends on the PAC-Bayes bound. Additionally, although I haven’t mentioned it yet, we can also simply utilize optimization methods to ensure if the knowledge they have learned is optimized or not. The distinguishing factor of reinforcement learning (RL) from other active learning methods is its ability to effectively lower the PAC-Bayes bound by reducing the hypothesis space through the Markov assumption. The model which has Markov assumption refers to they have decision-making process being dependent only on the present state and not the previous states. Many machine learning algorithms utilize the Markov assumption by incorporating memory structures, particularly RNN, LSTM, HMM, CRF ..in the analysis of time series data. these strong assumption allows these technique to inference fastly with simplified structure, which eventually enabling them to learn even one pattern fastly without any help of contradictory patterns which can prevent them from having unnesscery knowledge.</summary></entry><entry><title type="html">useful expression 2</title><link href="http://localhost:4000/hobby/2023/05/28/useful-expression-2.html" rel="alternate" type="text/html" title="useful expression 2" /><published>2023-05-28T16:10:33+01:00</published><updated>2023-05-28T16:10:33+01:00</updated><id>http://localhost:4000/hobby/2023/05/28/useful%20expression%202</id><content type="html" xml:base="http://localhost:4000/hobby/2023/05/28/useful-expression-2.html">&lt;p&gt;&lt;br /&gt;
+simplifized -&amp;gt; simplified&lt;/p&gt;</content><author><name></name></author><category term="hobby" /><summary type="html">dissertation first draft carry out research bursaries Curriculum reform Reporting to subsidised cover letter in support of hands-on Yours faithfully panel line manager speak up talk us through fill the post opposite number rapport take the initiative pecking order talk shop day shift knocking off mind-numbing stuck in a rut went in with differentiated point -&amp;gt; distinguishing factor serieze -&amp;gt; series simplifized -&amp;gt; simplified</summary></entry><entry><title type="html">useful expression 2</title><link href="http://localhost:4000/hobby/2023/05/28/useful-expression-2.html" rel="alternate" type="text/html" title="useful expression 2" /><published>2023-05-28T16:10:33+01:00</published><updated>2023-05-28T16:10:33+01:00</updated><id>http://localhost:4000/hobby/2023/05/28/useful%20expression%202</id><content type="html" xml:base="http://localhost:4000/hobby/2023/05/28/useful-expression-2.html">&lt;p&gt;&lt;br /&gt;
 on balance
 &lt;br /&gt;
 septic
@@ -700,99 +710,4 @@ it is better to -&amp;gt; it is advisable to
 &lt;br /&gt;
 given portion -&amp;gt; own assigned roles
 &lt;br /&gt;&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name></name></author><category term="hobby" /><summary type="html">Q some employers want to be able to contact their staff at all times, even on holidays does this development have more advantages than disadvantages? A</summary></entry><entry><title type="html">writing money 2</title><link href="http://localhost:4000/hobby/2023/05/27/writing-money-2.html" rel="alternate" type="text/html" title="writing money 2" /><published>2023-05-27T14:10:33+01:00</published><updated>2023-05-27T14:10:33+01:00</updated><id>http://localhost:4000/hobby/2023/05/27/writing%20money%202</id><content type="html" xml:base="http://localhost:4000/hobby/2023/05/27/writing-money-2.html">&lt;p&gt;Q
-&lt;br /&gt;
-due to the development and rapid expansion of supermarkets in some countries, many small, local business are unable to compete. some people think that the closure of local business will bring about the death of local communities
-&lt;br /&gt;
-A
-&lt;br /&gt;
-capitalism is great concept in global society and it is great motivation of making people to work hard. but nowadays with advancement, some company are starting to provide stuff more easily and which leads them to earn every money instead of local company. i will delve my perspective in the following paragraph.
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;revise&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;br /&gt;
-Capitalism is a great concept in global society and serves as a significant motivation for people to work hard. However, with advancements in technology, certain companies have begun to provide goods and services more easily, resulting in their dominance over local businesses and the accumulation of vast wealth. I will further explore my perspective on this matter in the following paragraph.
-&lt;br /&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;start -&amp;gt; begin
-&lt;br /&gt;
-stuff -&amp;gt; good
-&lt;br /&gt;
-earn instead -&amp;gt; dominance over
-&lt;br /&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;USA boston media investigation of changing number of local business and average income for a last 50years illuminates these two indicators are diminishing at the same time which means these have positive relation each other. the reason behind this phenomenon is arised from flow of money. the man who benefit most from this is head office which means money is eventually goes to the head office of company not local. 
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;revise&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;br /&gt;
-The investigation conducted by the media in Boston, USA, on the changing number of local businesses and average income over the past 50 years reveals a simultaneous decline in both indicators, indicating a positive correlation between them. The underlying reason behind this phenomenon lies in the flow of money. The primary beneficiary of this trend is the head office, as the money ultimately gravitates towards the central office of companies rather than staying within the local community.
-&lt;br /&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;comapny -&amp;gt; business
-&lt;br /&gt;
-media investigation -&amp;gt; The investigation conducted by the media
-&lt;br /&gt;
-of changing number of -&amp;gt; on the changing number of
-&lt;br /&gt;
-for a last 50years -&amp;gt; over the past 50 years
-&lt;br /&gt;
-positive relation -&amp;gt; positive correlation
-&lt;br /&gt;
-the reason -&amp;gt; the underlying reason
-&lt;br /&gt;
-arised from -&amp;gt; lies
-&lt;br /&gt;
-who benefit most from this -&amp;gt; primary beneficiary of this trend
-&lt;br /&gt;
-goes -&amp;gt; gravitates
-&lt;br /&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;for example, assuming you managing to sell the used car and your neighbor sell the fruit. if they buy car from you and you buy fruit from them, you both earn money. however if you buy fruit from big market and they buy car from big company, you both eventually get a loss. it can be applied same in the another goods and another region in the same way.
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;revise 
-&lt;br /&gt;
-For example, let’s assume you are managing to sell a used car and your neighbor is selling fruit. If they buy the car from you and you buy fruit from them, both of you earn money. However, if you buy fruit from a big market and they buy a car from a big company, both of you will eventually incur a loss. This principle can be applied to other goods and regions in a similar manner.
-&lt;br /&gt;
-assumming -&amp;gt; lets assume
-&lt;br /&gt;
-both of you -&amp;gt; both
-&lt;br /&gt;
-get a loss -&amp;gt; incur a loss
-&lt;br /&gt;
-way -&amp;gt; manner
-&lt;br /&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;in conclusion, company offer the goods in cheaper price than local business which is superficially seems to cost effective and good for everyone. however as long as they don’t distribute their share of money, this will eventually incur the diminish and stagnation of local business and community. sadly individuals can not convince others to refrain from buying big company’s stuff because that usually fail to make everyone to do that simultaneously which result in inconsistence. but government can manage that problem by enacting the law which is why government stands for.
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;revise&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;br /&gt;
-In conclusion, when companies offer goods at a cheaper price compared to local businesses, it may seem cost-effective and beneficial for everyone on the surface. However, if these companies fail to distribute their fair share of money, it will eventually lead to the decline and stagnation of local businesses and communities. Unfortunately, individuals alone cannot persuade others to refrain from buying products from big companies, as such efforts often lack simultaneous action and result in inconsistency. Nevertheless, the government can address this problem by enacting laws, as that is its role and responsibility.
-&lt;br /&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;than -&amp;gt; comapred to
-&lt;br /&gt;
-individuals -&amp;gt; individuals alone
-&lt;br /&gt;
-fail to do that simultaneous -&amp;gt; lack simultaneous
-&lt;br /&gt;
-but -&amp;gt; nevertheless
-&lt;br /&gt;
-stands for -&amp;gt; role and responsibility
-&lt;br /&gt;&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name></name></author><category term="hobby" /><summary type="html">Q due to the development and rapid expansion of supermarkets in some countries, many small, local business are unable to compete. some people think that the closure of local business will bring about the death of local communities A capitalism is great concept in global society and it is great motivation of making people to work hard. but nowadays with advancement, some company are starting to provide stuff more easily and which leads them to earn every money instead of local company. i will delve my perspective in the following paragraph. revise</summary></entry></feed>
+&lt;/blockquote&gt;</content><author><name></name></author><category term="hobby" /><summary type="html">Q some employers want to be able to contact their staff at all times, even on holidays does this development have more advantages than disadvantages? A</summary></entry></feed>
