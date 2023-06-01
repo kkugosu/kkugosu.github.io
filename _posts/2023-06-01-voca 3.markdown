@@ -65,7 +65,7 @@ placate
 <br/>
 conciliate
 <br/>
-appeasing
+appeasing (주요한건 처리하지않음)
 <br/>
 exultant
 <br/>
@@ -123,7 +123,7 @@ embryo (엠브리오)
 <br/>
 implants
 <br/>
-foetus
+foetus (피더스)
 <br/>
 placenta
 <br/>
