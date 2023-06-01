@@ -15,7 +15,7 @@ a man after my own heart
 <br/>
 get on like a house on fire
 <br/>
-bosom friends/buddies/pals
+bosom friends/buddies/pals (버슴)
 <br/>
 family ties
 <br/>
@@ -34,7 +34,7 @@ bitter/arch rivals
 <br/>
 sworn enemies
 <br/>
-scrupulously honest
+scrupulously honest (스크류풀러슬리)
 <br/>
 unswerving
 <br/>
@@ -73,7 +73,7 @@ ecstatic
 <br/>
 rejoiced
 <br/>
-jubilant
+jubilant (주벌런트)
 <br/>
 bliss
 <br/>
@@ -104,7 +104,7 @@ ostentatious
 <br/>
 pompous
 <br/>
-puerile
+puerile (퓨어리얼)
 <br/>
 fickle
 <br/>
@@ -119,7 +119,7 @@ distraught
 <br/>
 conception
 <br/>
-embryo
+embryo (엠브리오)
 <br/>
 implants
 <br/>
