@@ -22,6 +22,8 @@ full diary
 keen participant
 <br/>
 <br/>
+cloaked
+<br/>
 scruffy
 <br/>
 dress codes
@@ -112,6 +114,8 @@ be a matter of life and death
 take your life in your hands
 <br/>
 breathe new life into
+<br/>
+house of cards
 <br/>
 <br/>
 housewarming

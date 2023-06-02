@@ -8,21 +8,21 @@ category: theory
 With advancement of ai, we can see plenty of conspicuous model these days which is usually comes from GAN and RL both of which are active learning model.
 <br/>
 <br/>
-There has been numerous elaboration to find out like "what is ai", "how can we build most plausable ai" and "what is intelligence" and lots of paper successfully gave us deep inspiration about fundamental implementation of ai. eventhough there has been enourmous pregress in AI, we still can't explain why we have curiousity and still failed to make how to make model to learn maximizing pac bayes bound.
+There has been numerous elaboration to find out like "what is ai", "how can we build most plausable ai" and "what is intelligence" and lots of paper successfully gave us deep inspiration about fundamental implementation of ai. Even though there has been enourmous pregress in AI, we still can't explain why we have curiousity and still failed to make how to make model to learn maximizing PAC-bayes bound.
 <br/>
 <br/>
 I wanna write about the most fundamental and important concepts we encounter when we first learn about AI which are namely bias and variance.
-actually these two concept imply opposite things bias means assumption and variance means non-assumption which is like even though we learn something which works simillar as preliminary learned, we should not assume that will works simillary.
+actually these two concept imply opposite things. Bias means assumption and variance means non-assumption which is like even though we learn something which works simillar as preliminary learned, we should not assume that will works simillary.
 <br/>
 <br/>
-The matter at hand is, we have to strike a balance between two concept. for example, when you take the ramen and their color was red, you can think every red food is spicy if you are really biasd. but you have to be more specific in the real life and take that as depending on the context. however you should have bias to some extent. when you learned something from specific situation, you should be able to adapt that principle for another situation as well.
+The matter at hand is, we have to strike a balance between two concept. For example, when you take the ramen and their color was red, you can think every red food is spicy if you are really biasd. However you have to be more specific in the real life and take that as depending on the context. In the other hand, you should have bias to some extent. when you learned something from specific situation, you should be able to adapt that principle for another situation as well.
 <br/>
 <br/>
-The representative theory which discuss about this is called PAC and we usually employ PAC-bayes bounds in academic paper. and also there has been attempts which aim to make model to autonomously strike a balance by themselves which is called autoML.
+The representative theory which discuss about this is called PAC and we usually employ PAC-bayes bounds in academic paper. As a matter of course, there has been attempts which aim to make model to autonomously strike a balance by themselves which is called autoML.
 There are many different kinds of techniques which is included in autoML framework called HPO(hyper parameter optimization), NAS(neural architecture search), meta learning and more.
 <br/>
 <br/>
-There are many kinds of PAC-Bayes bounds, and a common characteristic among them is that the bound decreases as the Kullback-Leibler divergence (KLD) between the posterior and prior distributions decreases ,just if you don't care about estimated risk of your model, or as the number of data for learning increases.
+There are many kinds of PAC-Bayes bounds, and a common characteristic among them is that the bound decreases as 1. estimated risk discreases, 2. the Kullback-Leibler divergence (KLD) between the posterior and prior distributions decreases or 3. the number of data for learning increases.
 <br/>
 <br/>
-HPO and NAS is method of finding appropriate hypothetical space and meta learning is method of increasing number of data for learning.
+HPO and NAS is method of finding appropriate hypothetical space which is corresponding to 2 and meta learning is method of increasing number of data for learning which is corresponding to 3.
