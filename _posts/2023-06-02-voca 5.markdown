@@ -10,9 +10,9 @@ deemed
 <br/>
 schools of art
 <br/>
-inured to
+<del> inured to </del>
 <br/>
-highbrow
+<del> highbrow </del>
 <br/>
 dazzling
 <br/>
@@ -31,13 +31,13 @@ moulded
 motifs
 <br/>
 <br/>
-blurbs
+<del> blurbs </del>
 <br/>
 poignant
 <br/>
-lugubrious
+<del> lugubrious </del>
 <br/>
-macabre
+<del> macabre </del>
 <br/>
 chilling
 <br/>
@@ -45,7 +45,7 @@ page-turner
 <br/>
 wry
 <br/>
-eponymous
+<del> eponymous </del>
 <br/>
 protagonist
 <br/>
@@ -113,7 +113,7 @@ overbearing
 <br/>
 sullen
 <br/>
-brusque
+<del> brusque </del>
 <br/>
 off-putting
 <br/>
@@ -125,7 +125,7 @@ savoury
 <br/>
 fussy eater
 <br/>
-teetotal
+<del> teetotal </del>
 <br/>
 dietary requirements
 <br/>
@@ -137,7 +137,7 @@ Say when (다되었을때 말해)
 <br/>
 when(그만)
 <br/>
-nibbles
+<del> nibbles </del>
 <br/>
 grab a bite to eat
 <br/>
@@ -150,7 +150,7 @@ on-the-spot
 <br/>
 tyre tread
 <br/>
-tailback
+<del> tailback </del>
 <br/>
 toll
 <br/>
@@ -164,6 +164,6 @@ head-on collision
 <br/>
 total gridlock
 <br/>
-conked out
+<del> conked out </del>
 <br/>
 a back-seat driver
