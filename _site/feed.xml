@@ -1,4 +1,62 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-06-05T18:28:37+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Emmett</title><subtitle>Themed by ejjoo</subtitle><entry><title type="html">voca 7</title><link href="http://localhost:4000/hobby/2023/06/04/voca-7.html" rel="alternate" type="text/html" title="voca 7" /><published>2023-06-04T07:10:33+01:00</published><updated>2023-06-04T07:10:33+01:00</updated><id>http://localhost:4000/hobby/2023/06/04/voca%207</id><content type="html" xml:base="http://localhost:4000/hobby/2023/06/04/voca-7.html">&lt;p&gt;&lt;br /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-06-05T19:30:55+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Emmett</title><subtitle>Themed by ejjoo</subtitle><entry><title type="html">voca 8</title><link href="http://localhost:4000/hobby/2023/06/05/voca-8.html" rel="alternate" type="text/html" title="voca 8" /><published>2023-06-05T10:10:33+01:00</published><updated>2023-06-05T10:10:33+01:00</updated><id>http://localhost:4000/hobby/2023/06/05/voca%208</id><content type="html" xml:base="http://localhost:4000/hobby/2023/06/05/voca-8.html">&lt;p&gt;&lt;br /&gt;
+convert
+fanatic
+radical
+reactionary
+credible
+incredulous
+You should take what he says with a pinch of salt 
+&lt;br /&gt;
+&lt;br /&gt;
+superstitious
+centenary 100n주년
+flamboyant
+raucous
+sombre
+traced back to pagan times
+&lt;br /&gt;
+&lt;br /&gt;
+modality
+modal verbs
+Phonology
+Lexicon
+pictograms
+ideograms
+Morphology
+&lt;br /&gt;
+&lt;br /&gt;
+polysemous
+metaphorical
+coined
+Jargon
+articulate
+eloquent
+succinct
+lost for words
+&lt;br /&gt;
+&lt;br /&gt;
+dynasties
+dawn
+heirs
+conquests
+peasants
+shreds
+Bronze Age
+infantry
+cavalry
+chariot
+warlord
+monarch
+the nobility
+&lt;br /&gt;
+&lt;br /&gt;
+poverty line
+social context
+penury
+make ends meet
+living from hand to mouth
+money has been tight
+income bracket&lt;/p&gt;</content><author><name></name></author><category term="hobby" /><summary type="html">convert fanatic radical reactionary credible incredulous You should take what he says with a pinch of salt superstitious centenary 100n주년 flamboyant raucous sombre traced back to pagan times modality modal verbs Phonology Lexicon pictograms ideograms Morphology polysemous metaphorical coined Jargon articulate eloquent succinct lost for words dynasties dawn heirs conquests peasants shreds Bronze Age infantry cavalry chariot warlord monarch the nobility poverty line social context penury make ends meet living from hand to mouth money has been tight income bracket</summary></entry><entry><title type="html">voca 7</title><link href="http://localhost:4000/hobby/2023/06/04/voca-7.html" rel="alternate" type="text/html" title="voca 7" /><published>2023-06-04T07:10:33+01:00</published><updated>2023-06-04T07:10:33+01:00</updated><id>http://localhost:4000/hobby/2023/06/04/voca%207</id><content type="html" xml:base="http://localhost:4000/hobby/2023/06/04/voca-7.html">&lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;
 seeds
 &lt;br /&gt;
@@ -913,58 +971,4 @@ The distinguishing factor of reinforcement learning (RL) from other active learn
 The model which has Markov assumption refers to they have decision-making process being dependent only on the present state and not the previous states. Many machine learning algorithms utilize the Markov assumption by incorporating memory structures, particularly RNN, LSTM, HMM, CRF ..in the analysis of time series data.
 &lt;br /&gt;
 &lt;br /&gt;
-these strong assumption allows these technique to inference fastly with simplified structure, which eventually enabling them to learn even one pattern fastly without any help of contradictory patterns which can prevent them from having unnesscery knowledge.&lt;/p&gt;</content><author><name></name></author><category term="theory" /><summary type="html">What i suppose to write about today is reinforcement learning which is one of the kinds of active learning. The term “active” in “active learning” simply refers to the ability to choose the way we learn. and there have been numerous method which is included in active learning especially many branch of generative models such as RL and GAN. And due to their learning style, we can embody curiosity through these algorithms. You can see the implementation of many different uncertainty estimation methods through Bayesian neural networks. There have been various valuable attempts to construct plausible AI models that not only mimic human intelligence but also pursue the ultimate goal of true intelligence. While neural networks appear to effectively learn various patterns, we cannot guarantee that what they have learned represents optimized knowledge. As I mentioned in my previous post, the optimization of their learned knowledge depends on the PAC-Bayes bound. Additionally, although I haven’t mentioned it yet, we can also simply utilize optimization methods to ensure if the knowledge they have learned is optimized or not. The distinguishing factor of reinforcement learning (RL) from other active learning methods is its ability to effectively lower the PAC-Bayes bound by reducing the hypothesis space through the Markov assumption. The model which has Markov assumption refers to they have decision-making process being dependent only on the present state and not the previous states. Many machine learning algorithms utilize the Markov assumption by incorporating memory structures, particularly RNN, LSTM, HMM, CRF ..in the analysis of time series data. these strong assumption allows these technique to inference fastly with simplified structure, which eventually enabling them to learn even one pattern fastly without any help of contradictory patterns which can prevent them from having unnesscery knowledge.</summary></entry><entry><title type="html">writing work 2</title><link href="http://localhost:4000/hobby/2023/05/28/writing-work-2.html" rel="alternate" type="text/html" title="writing work 2" /><published>2023-05-28T16:10:33+01:00</published><updated>2023-05-28T16:10:33+01:00</updated><id>http://localhost:4000/hobby/2023/05/28/writing%20work%202</id><content type="html" xml:base="http://localhost:4000/hobby/2023/05/28/writing-work-2.html">&lt;p&gt;Q
-&lt;br /&gt;
-more and more people are moving away from an agriculture background to relocate to cities in order to look for work
-&lt;br /&gt;
-what will be the consequences of this? what solutions can you offer?
-&lt;br /&gt;
-A
-&lt;br /&gt;
-These days, as society is getting encountering the globalization, we also becomming face to disparity of density of population by immigration to city center for most people. i will elaborate further on my perspective in the following paragraph.
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;revised&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;br /&gt;
-These days, as society is encountering globalization, we are also facing a disparity in population density due to immigration to city centers for most people. I will elaborate further on my perspective in the following paragraph
-&lt;br /&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;by -&amp;gt; due to&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;br /&gt;
-The most substantial reason believing is people usually anticipate they can get the benefit as modernized culture from the city resulting in their life more comfortable and clear.
-&lt;br /&gt;
-&lt;br /&gt;
-The most substantial reason is that people usually anticipate they can benefit from the modernized culture of the city, making their lives more comfortable and fulfilling.
-&lt;br /&gt;
-&lt;br /&gt;
-for instance, when they try to fix their gadget such as laptop, it must be hard to find skillful company to sort out the problem. 
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;revise&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;br /&gt;
-For instance, when they try to fix their gadgets, such as laptops, it can be difficult to find a skilled company to resolve the problem.
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;I believe the plausable solution for this matter is advocating government to hinder matthew effect and releive the disparity between poverty and wealthy. 
-&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;revised&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;br /&gt;
-I believe the plausible solution for this matter is to advocate for government intervention to mitigate the Matthew effect and alleviate the disparity between poverty and wealth&lt;/p&gt;
-
-&lt;p&gt;advocate -&amp;gt; advocate for
-hinder -&amp;gt; intervention to mitigate
-relieve -&amp;gt; alleviate
-relieve 는 얕은 경감
-alleviate는 오래가는 경감&lt;/p&gt;</content><author><name></name></author><category term="hobby" /><summary type="html">Q more and more people are moving away from an agriculture background to relocate to cities in order to look for work what will be the consequences of this? what solutions can you offer? A These days, as society is getting encountering the globalization, we also becomming face to disparity of density of population by immigration to city center for most people. i will elaborate further on my perspective in the following paragraph. revised</summary></entry></feed>
+these strong assumption allows these technique to inference fastly with simplified structure, which eventually enabling them to learn even one pattern fastly without any help of contradictory patterns which can prevent them from having unnesscery knowledge.&lt;/p&gt;</content><author><name></name></author><category term="theory" /><summary type="html">What i suppose to write about today is reinforcement learning which is one of the kinds of active learning. The term “active” in “active learning” simply refers to the ability to choose the way we learn. and there have been numerous method which is included in active learning especially many branch of generative models such as RL and GAN. And due to their learning style, we can embody curiosity through these algorithms. You can see the implementation of many different uncertainty estimation methods through Bayesian neural networks. There have been various valuable attempts to construct plausible AI models that not only mimic human intelligence but also pursue the ultimate goal of true intelligence. While neural networks appear to effectively learn various patterns, we cannot guarantee that what they have learned represents optimized knowledge. As I mentioned in my previous post, the optimization of their learned knowledge depends on the PAC-Bayes bound. Additionally, although I haven’t mentioned it yet, we can also simply utilize optimization methods to ensure if the knowledge they have learned is optimized or not. The distinguishing factor of reinforcement learning (RL) from other active learning methods is its ability to effectively lower the PAC-Bayes bound by reducing the hypothesis space through the Markov assumption. The model which has Markov assumption refers to they have decision-making process being dependent only on the present state and not the previous states. Many machine learning algorithms utilize the Markov assumption by incorporating memory structures, particularly RNN, LSTM, HMM, CRF ..in the analysis of time series data. these strong assumption allows these technique to inference fastly with simplified structure, which eventually enabling them to learn even one pattern fastly without any help of contradictory patterns which can prevent them from having unnesscery knowledge.</summary></entry></feed>
