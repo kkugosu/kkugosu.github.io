@@ -20,7 +20,7 @@ voluntary/ compulsory redundancies
 skeleton staff
 <br/>
 <br/>
-telesales
+<del> telesales </del>
 <br/>
 cold calling
 <br/>
@@ -51,7 +51,7 @@ holiday property letting agency
 <br/>
 obliging
 <br/>
-tactless
+<del> tactless </del>
 <br/>
 diligent
 <br/>
@@ -76,30 +76,30 @@ unkempt - not tidy
 <br/>
 immaculate - smart perfect
 <br/>
-swarthy - dark appearance
+<del> swarthy - dark appearance </del>
 <br/>
 haggard - looks ill and tired
 <br/>
-pouting - position their lips in attractive way
+<del> pouting - position their lips in attractive way </del>
 <br/>
 grimace - strong dislike expression
 <br/>
 scowled -  bad-tempered, angry look
 <br/>
-leering - looking in an unpleasant, sexually interested way
+<del> leering - looking in an unpleasant, sexually interested way </del>
 <br/>
 clenched her fist
 <br/>
 <br/>
 impetuous - doing without thinking first
 <br/>
-effusive
+<del> effusive </del>
 <br/>
 self-conscious
 <br/>
-taciturn - save words
+<del> taciturn - save words </del>
 <br/>
-diffident
+<del> diffident </del>
 <br/>
 haughty - think themselves better than others
 <br/>

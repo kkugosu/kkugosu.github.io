@@ -11,7 +11,7 @@ first draft
 <br/>
 carry out research
 <br/>
-bursaries
+<del> bursaries </del>
 <br/>
 <br/>
 Curriculum reform

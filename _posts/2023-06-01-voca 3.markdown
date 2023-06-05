@@ -5,9 +5,9 @@ date: 2023-06-01 12:10:33 +0900
 category: hobby
 ---
 <br/>
-infatuated with
+<del> infatuated with </del>
 <br/>
-besotted with
+<del> besotted with </del>
 <br/>
 hit it off
 <br/>
@@ -36,9 +36,9 @@ sworn enemies
 <br/>
 scrupulously honest (스크류풀러슬리)
 <br/>
-unswerving
+<del> unswerving </del>
 <br/>
-staunchest ally
+<del> staunchest ally </del>
 <br/>
 rift can develop
 <br/>
@@ -59,21 +59,21 @@ yearns to/ yearn for
 <br/>
 coveted
 <br/>
-defuse
+<del> defuse </del>
 <br/>
-placate
+<del> placate </del>
 <br/>
-conciliate
+<del> conciliate </del>
 <br/>
-appeasing (주요한건 처리하지않음)
+<del> appeasing (주요한건 처리하지않음) </del>
 <br/>
-exultant
+<del> exultant </del>
 <br/>
 ecstatic
 <br/>
 rejoiced
 <br/>
-jubilant (주벌런트)
+<del> jubilant (주벌런트) </del>
 <br/>
 bliss
 <br/>
@@ -98,13 +98,13 @@ alarm
 <br/>
 offhand
 <br/>
-officious
+<del> officious </del>
 <br/>
-ostentatious
+<del> ostentatious </del>
 <br/>
 pompous
 <br/>
-puerile (퓨어리얼)
+<del> puerile (퓨어리얼) </del>
 <br/>
 fickle
 <br/>
@@ -139,9 +139,9 @@ pensioner
 <br/>
 sheltered accommodation
 <br/>
-doddery
+<del> doddery </del>
 <br/>
-gaga
+<del> gaga </del>
 <br/>
 have all her wits about her
 <br/>
@@ -151,7 +151,7 @@ coffin
 <br/>
 cremation
 <br/>
-condolences
+<del> condolences </del>
 <br/>
 to pass away, to pass on, to pass over
 <br/>
@@ -159,6 +159,6 @@ to be on your last legs
 <br/>
 fatalities/ perished/ slaughtered/ the deceased
 <br/>
-to bequeath
+<del> to bequeath </del>
 <br/>
-intestate
+<del> intestate </del>

@@ -9,13 +9,13 @@ therapeutic
 <br/>
 culture vulture
 <br/>
-dabbler
+dabbler -> dilettante
 <br/>
 shopaholic
 <br/>
 hooked on
 <br/>
-get up to
+get up to -
 <br/>
 full diary
 <br/>
@@ -24,23 +24,23 @@ keen participant
 <br/>
 cloaked
 <br/>
-scruffy
+scruffy 추론가능 inference
 <br/>
 dress codes
 <br/>
 attire
 <br/>
-cleavage
+cleavage 중요
 <br/>
-midriff
+midriff - not useful
 <br/>
-frumpy
+frumpy - not useful
 <br/>
 dress- down days
 <br/>
 overalls
 <br/>
-skimpy
+skimpy - not useful
 <br/>
 baggy
 <br/>
