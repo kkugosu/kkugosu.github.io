@@ -36,12 +36,12 @@ sheds
 <br/>
 inhibitions
 <br/>
-shrivelled
+<del> shrivelled </del>
 <br/>
 She gave him a withering look
 <br/>
 <br/>
-marsupial
+<del> marsupial </del>
 <br/>
 pouch 
 <br/>
@@ -49,9 +49,9 @@ rodent
 <br/>
 reptile
 <br/>
-scavenger
+<del> scavenger </del>
 <br/>
-docile
+docile (다설)
 <br/>
 domesticated
 <br/>
@@ -85,7 +85,7 @@ accommodating
 <br/>
 impeccable
 <br/>
-shoddy
+<del> shoddy </del>
 <br/>
 substandard
 <br/>
@@ -106,6 +106,6 @@ search warrant
 <br/>
 Traffic wardens
 <br/>
-surveillance
+surveillance (설벨런스)
 <br/>
 phishing
