@@ -20,13 +20,13 @@ getting around
 <br/>
 come and go as you please
 <br/>
-chalet (오두막)
+<del> chalet (오두막) </del>
 <br/>
 inn
 <br/>
-half board
+<del> half board </del>
 <br/>
-full board
+<del> full board < del>
 <br/>
 <br/>
 get off the beaten track
@@ -47,7 +47,7 @@ waterfront
 <br/>
 ramble < hiking < trek
 <br/>
-ecotourism
+<del> ecotourism </del>
 <br/>
 savour
 <br/>
@@ -60,11 +60,11 @@ tundra
 <br/>
 vegetation
 <br/>
-coniferous
+<del> coniferous </del>
 <br/>
 deciduous
 <br/>
-prairies
+<del> prairies </del>
 <br/>
 paddy fields(논)
 <br/>
@@ -77,15 +77,15 @@ at the forefront
 indigenous
 <br/>
 <br/>
-nippy
+<del> nippy </del>
 <br/>
-sweltering
+<del> sweltering </del>
 <br/>
 oppressive/sultry/stifling/heavy/close
 <br/>
 deluge/chucking it down
 <br/>
-muggy/clammy/sticky
+<del> muggy </del>/clammy/sticky
 <br/>
 sunny disposition 
 <br/>
