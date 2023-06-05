@@ -9,9 +9,9 @@ therapeutic
 <br/>
 culture vulture
 <br/>
-dabbler -> dilettante
+<del> dabbler -> dilettante </del>
 <br/>
-shopaholic
+<del> shopaholic </del>
 <br/>
 hooked on
 <br/>
@@ -24,27 +24,27 @@ keen participant
 <br/>
 cloaked
 <br/>
-scruffy 추론가능 inference
+<del> scruffy 추론가능 inference </del>
 <br/>
 dress codes
 <br/>
 attire
 <br/>
-cleavage 중요
+cleavage
 <br/>
-midriff - not useful
+<del> midriff </del>
 <br/>
-frumpy - not useful
+<del> frumpy </del>
 <br/>
 dress- down days
 <br/>
 overalls
 <br/>
-skimpy - not useful
+<del> skimpy </del>
 <br/>
 baggy
 <br/>
-clingy
+<del> clingy </del>
 <br/>
 chic
 <br/>
@@ -81,7 +81,7 @@ to have something up your sleeve
 <br/>
 squat
 <br/>
-hovel
+<del> hovel </del>
 <br/>
 penthouse
 <br/>
@@ -118,7 +118,7 @@ breathe new life into
 house of cards
 <br/>
 <br/>
-housewarming
+<del> housewarming </del>
 <br/>
 stag party
 <br/>
@@ -130,11 +130,11 @@ black-tie
 <br/>
 leaving do
 <br/>
-hobnob with
+<del> hobnob with </del>
 <br/>
 knocks around with
 <br/>
-outstaying my welcome
+<del> outstaying my welcome </del>
 <br/>
 cliquey
 <br/>
@@ -143,11 +143,11 @@ his crowd
 stood him up
 <br/>
 <br/>
-hackneyed
+<del> hackneyed </del>
 <br/>
 far-fetched
 <br/>
-risqué
+<del> risqué </del>
 <br/>
 gripping
 <br/>
@@ -165,13 +165,13 @@ glowing reviews
 <br/>
 encores
 <br/>
-standing ovation
+<del> standing ovation </del>
 <br/>
 up-and-coming
 <br/>
-typecast
+<del> typecast </del>
 <br/>
-panned/slated
+<del> panned/slated </del>
 <br/>
 booed
 <br/>

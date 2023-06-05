@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-06-05T14:40:50+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Emmett</title><subtitle>Themed by ejjoo</subtitle><entry><title type="html">voca 7</title><link href="http://localhost:4000/hobby/2023/06/04/voca-7.html" rel="alternate" type="text/html" title="voca 7" /><published>2023-06-04T07:10:33+01:00</published><updated>2023-06-04T07:10:33+01:00</updated><id>http://localhost:4000/hobby/2023/06/04/voca%207</id><content type="html" xml:base="http://localhost:4000/hobby/2023/06/04/voca-7.html">&lt;p&gt;seeds
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-06-05T14:41:25+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Emmett</title><subtitle>Themed by ejjoo</subtitle><entry><title type="html">voca 7</title><link href="http://localhost:4000/hobby/2023/06/04/voca-7.html" rel="alternate" type="text/html" title="voca 7" /><published>2023-06-04T07:10:33+01:00</published><updated>2023-06-04T07:10:33+01:00</updated><id>http://localhost:4000/hobby/2023/06/04/voca%207</id><content type="html" xml:base="http://localhost:4000/hobby/2023/06/04/voca-7.html">&lt;p&gt;seeds
 take root
 Bud
 nipped in the bud
@@ -207,9 +207,9 @@ therapeutic
 &lt;br /&gt;
 culture vulture
 &lt;br /&gt;
-dabbler -&amp;gt; dilettante
+&lt;del&gt; dabbler -&amp;gt; dilettante &lt;/del&gt;
 &lt;br /&gt;
-shopaholic
+&lt;del&gt; shopaholic &lt;/del&gt;
 &lt;br /&gt;
 hooked on
 &lt;br /&gt;
@@ -222,27 +222,27 @@ keen participant
 &lt;br /&gt;
 cloaked
 &lt;br /&gt;
-scruffy 추론가능 inference
+&lt;del&gt; scruffy 추론가능 inference &lt;/del&gt;
 &lt;br /&gt;
 dress codes
 &lt;br /&gt;
 attire
 &lt;br /&gt;
-cleavage 중요
+cleavage
 &lt;br /&gt;
-midriff - not useful
+&lt;del&gt; midriff &lt;/del&gt;
 &lt;br /&gt;
-frumpy - not useful
+&lt;del&gt; frumpy &lt;/del&gt;
 &lt;br /&gt;
 dress- down days
 &lt;br /&gt;
 overalls
 &lt;br /&gt;
-skimpy - not useful
+&lt;del&gt; skimpy &lt;/del&gt;
 &lt;br /&gt;
 baggy
 &lt;br /&gt;
-clingy
+&lt;del&gt; clingy &lt;/del&gt;
 &lt;br /&gt;
 chic
 &lt;br /&gt;
@@ -279,7 +279,7 @@ to have something up your sleeve
 &lt;br /&gt;
 squat
 &lt;br /&gt;
-hovel
+&lt;del&gt; hovel &lt;/del&gt;
 &lt;br /&gt;
 penthouse
 &lt;br /&gt;
@@ -316,7 +316,7 @@ breathe new life into
 house of cards
 &lt;br /&gt;
 &lt;br /&gt;
-housewarming
+&lt;del&gt; housewarming &lt;/del&gt;
 &lt;br /&gt;
 stag party
 &lt;br /&gt;
@@ -328,11 +328,11 @@ black-tie
 &lt;br /&gt;
 leaving do
 &lt;br /&gt;
-hobnob with
+&lt;del&gt; hobnob with &lt;/del&gt;
 &lt;br /&gt;
 knocks around with
 &lt;br /&gt;
-outstaying my welcome
+&lt;del&gt; outstaying my welcome &lt;/del&gt;
 &lt;br /&gt;
 cliquey
 &lt;br /&gt;
@@ -341,11 +341,11 @@ his crowd
 stood him up
 &lt;br /&gt;
 &lt;br /&gt;
-hackneyed
+&lt;del&gt; hackneyed &lt;/del&gt;
 &lt;br /&gt;
 far-fetched
 &lt;br /&gt;
-risqué
+&lt;del&gt; risqué &lt;/del&gt;
 &lt;br /&gt;
 gripping
 &lt;br /&gt;
@@ -363,13 +363,13 @@ glowing reviews
 &lt;br /&gt;
 encores
 &lt;br /&gt;
-standing ovation
+&lt;del&gt; standing ovation &lt;/del&gt;
 &lt;br /&gt;
 up-and-coming
 &lt;br /&gt;
-typecast
+&lt;del&gt; typecast &lt;/del&gt;
 &lt;br /&gt;
-panned/slated
+&lt;del&gt; panned/slated &lt;/del&gt;
 &lt;br /&gt;
 booed
 &lt;br /&gt;
@@ -381,7 +381,7 @@ covers
 &lt;br /&gt;
 portrayal
 &lt;br /&gt;
-tender&lt;/p&gt;</content><author><name></name></author><category term="hobby" /><summary type="html">therapeutic culture vulture dabbler -&amp;gt; dilettante shopaholic hooked on get up to - full diary keen participant cloaked scruffy 추론가능 inference dress codes attire cleavage 중요 midriff - not useful frumpy - not useful dress- down days overalls skimpy - not useful baggy clingy chic done up to the nines High Street made-to-measure off the peg/rack all the rage the height of fashion up-to-the-minute catches on off the cuff to be hand in glove with someone on a shoestring no frills to put someone in a straitjacket to draw a veil over to have something up your sleeve squat hovel penthouse Council or social housing tower blocks granny flat household word/ name on the house home truths nothing to write home about hit home make yourself at home have the time of your life get a new lease of life a dog’s life be a matter of life and death take your life in your hands breathe new life into house of cards housewarming stag party hen night reception black-tie leaving do hobnob with knocks around with outstaying my welcome cliquey his crowd stood him up hackneyed far-fetched risqué gripping harrowing moving understated tedious applause(어플라우즈) glowing reviews encores standing ovation up-and-coming typecast panned/slated booed total flop miscast covers portrayal tender</summary></entry><entry><title type="html">voca 3</title><link href="http://localhost:4000/hobby/2023/06/01/voca-3.html" rel="alternate" type="text/html" title="voca 3" /><published>2023-06-01T04:10:33+01:00</published><updated>2023-06-01T04:10:33+01:00</updated><id>http://localhost:4000/hobby/2023/06/01/voca%203</id><content type="html" xml:base="http://localhost:4000/hobby/2023/06/01/voca-3.html">&lt;p&gt;&lt;br /&gt;
+tender&lt;/p&gt;</content><author><name></name></author><category term="hobby" /><summary type="html">therapeutic culture vulture dabbler -&amp;gt; dilettante shopaholic hooked on get up to - full diary keen participant cloaked scruffy 추론가능 inference dress codes attire cleavage midriff frumpy dress- down days overalls skimpy baggy clingy chic done up to the nines High Street made-to-measure off the peg/rack all the rage the height of fashion up-to-the-minute catches on off the cuff to be hand in glove with someone on a shoestring no frills to put someone in a straitjacket to draw a veil over to have something up your sleeve squat hovel penthouse Council or social housing tower blocks granny flat household word/ name on the house home truths nothing to write home about hit home make yourself at home have the time of your life get a new lease of life a dog’s life be a matter of life and death take your life in your hands breathe new life into house of cards housewarming stag party hen night reception black-tie leaving do hobnob with knocks around with outstaying my welcome cliquey his crowd stood him up hackneyed far-fetched risqué gripping harrowing moving understated tedious applause(어플라우즈) glowing reviews encores standing ovation up-and-coming typecast panned/slated booed total flop miscast covers portrayal tender</summary></entry><entry><title type="html">voca 3</title><link href="http://localhost:4000/hobby/2023/06/01/voca-3.html" rel="alternate" type="text/html" title="voca 3" /><published>2023-06-01T04:10:33+01:00</published><updated>2023-06-01T04:10:33+01:00</updated><id>http://localhost:4000/hobby/2023/06/01/voca%203</id><content type="html" xml:base="http://localhost:4000/hobby/2023/06/01/voca-3.html">&lt;p&gt;&lt;br /&gt;
 &lt;del&gt; infatuated with &lt;/del&gt;
 &lt;br /&gt;
 &lt;del&gt; besotted with &lt;/del&gt;
