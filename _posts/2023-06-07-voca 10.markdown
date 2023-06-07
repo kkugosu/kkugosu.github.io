@@ -1,7 +1,7 @@
 ---
 layout: post
 title: voca 10
-date: 2023-06-07 16:10:33 +0900
+date: 2023-06-07 11:10:33 +0900
 category: hobby
 ---
 <br/>
