@@ -4,5 +4,32 @@ title: voca 12
 date: 2023-06-08 14:10:33 +0900
 category: hobby
 ---
+<p style="font-size:20px;"> technology </p>
 <b> technology </b>
 ergonomics
+
+<br/>
+<br/>
+
+foresee
+envisage
+gulf
+<br/>
+<br/>
+
+onshore offshore
+gas-guzzler
+food miles
+<br/>
+<br/>
+
+<b> space </b>
+rambling
+poky
+hemmed in
+bustling
+labyrinth
+stuff them all in
+
+<b> time </b>
+once in a bluemoon
