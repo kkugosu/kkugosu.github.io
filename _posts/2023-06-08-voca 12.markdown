@@ -4,8 +4,8 @@ title: voca 12
 date: 2023-06-08 14:10:33 +0900
 category: hobby
 ---
-<p style="font-size:20px;"> technology </p>
-<b> technology </b>
+<p style="font-size:20px;"><b> technology </b></p>
+
 ergonomics
 
 <br/>
@@ -33,3 +33,19 @@ stuff them all in
 
 <b> time </b>
 once in a bluemoon
+all his born days
+in a mo
+in a tick
+in a jiffy
+for donkey’s years / since the year dot.
+till the cows come home
+for keeps / for good
+in the nick of time
+over the hill / past it
+was already a has-been
+in a flash / at a rate of knots
+fleeting
+lengthy
+inexorable
+incipient
+protracted
