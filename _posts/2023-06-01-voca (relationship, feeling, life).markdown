@@ -1,9 +1,10 @@
 ---
 layout: post
-title: voca 3
+title: voca (Relationship, Feeling, Life)
 date: 2023-06-01 12:10:33 +0900
 category: hobby
 ---
+<p style="font-size:30px;"><b> Relationship </b></p>
 <br/>
 <del> infatuated with </del>
 <br/>
@@ -88,6 +89,9 @@ floating on air
 over the moon
 <br/>
 <br/>
+
+<p style="font-size:30px;"><b> Feeling </b></p>
+
 Antipathy
 <br/>
 Aversion
@@ -115,8 +119,10 @@ obnoxious
 forlorn
 <br/>
 distraught
+
 <br/>
 <br/>
+<p style="font-size:30px;"><b> Life </b></p>
 conception
 <br/>
 embryo (엠브리오)
