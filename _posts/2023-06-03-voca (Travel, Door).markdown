@@ -1,9 +1,10 @@
 ---
 layout: post
-title: voca 6
+title: voca (Travel, Door)
 date: 2023-06-03 15:10:33 +0900
 category: hobby
 ---
+<p style="font-size:30px;"><b> Travel </b></p>
 <br/>
 <br/>
 good value for money
@@ -94,6 +95,7 @@ cloud your judgement.
 hazy memory
 <br/>
 <br/>
+<p style="font-size:30px;"><b> Door </b></p>
 build up (칭찬해서 부담주다)
 <br/>
 cement
