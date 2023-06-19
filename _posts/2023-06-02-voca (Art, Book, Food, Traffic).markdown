@@ -1,9 +1,10 @@
 ---
 layout: post
-title: voca 5
+title: voca (Art, Book, Food, Traffic)
 date: 2023-06-02 15:10:33 +0900
 category: hobby
 ---
+<p style="font-size:30px;"><b> Art </b></p>
 <br/>
 <br/>
 deemed
@@ -31,6 +32,7 @@ moulded
 motifs
 <br/>
 <br/>
+<p style="font-size:30px;"><b> Book </b></p>
 <del> blurbs </del>
 <br/>
 poignant
@@ -68,6 +70,8 @@ heavy going
 readership
 <br/>
 <br/>
+
+<p style="font-size:30px;"><b> Food </b></p>
 wholesome
 <br/>
 additives
@@ -78,13 +82,13 @@ fair trade
 <br/>
 sure to V 
 <br/>
-recipe for
+recipe for *
 <br/>
-cooked up a story/ made up
+cooked up a story/ made up *
 <br/>
-all the ingredients of
+all the ingredients of *
 <br/>
-stew
+stew *
 <br/>
 my cup of tea
 <br/>
@@ -105,25 +109,25 @@ get this
 <br/>
 wined and dined
 <br/>
-impeccable
+impeccable (임페커블)
 <br/>
-sluggish
+sluggish *
 <br/>
 overbearing
 <br/>
-sullen
+sullen *
 <br/>
 <del> brusque </del>
 <br/>
 off-putting
 <br/>
-go out of their way
+go out of their way *
 <br/>
 count the calories
 <br/>
 savoury
 <br/>
-fussy eater
+fussy eater *
 <br/>
 <del> teetotal </del>
 <br/>
@@ -139,22 +143,23 @@ when(그만)
 <br/>
 <del> nibbles </del>
 <br/>
-grab a bite to eat
+grab a bite to eat *
 <br/>
 <br/>
+<p style="font-size:30px;"><b> Traffic </b></p>
 give way(stop)
 <br/>
 Hit-and-run
 <br/>
 on-the-spot
 <br/>
-tyre tread
+tyre tread (타이어 트레드)
 <br/>
 <del> tailback </del>
 <br/>
-toll
+toll *
 <br/>
-tow-away zone
+tow-away zone *
 <br/>
 clamped
 <br/>
