@@ -1,9 +1,10 @@
 ---
 layout: post
-title: voca 1
+title: voca(academy, job)
 date: 2023-05-30 00:10:33 +0900
 category: hobby
 ---
+<p style="font-size:30px;"><b> Academy </b></p>
 <br/>
 dissertation
 <br/>
@@ -15,6 +16,8 @@ carry out research
 <br/>
 <br/>
 Curriculum reform
+
+<p style="font-size:30px;"><b> Job </b></p>
 <br/>
 <br/>
 Reporting to
