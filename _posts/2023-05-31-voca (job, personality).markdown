@@ -1,9 +1,10 @@
 ---
 layout: post
-title: voca 2
+title: voca (Job, personality)
 date: 2023-05-31 00:10:33 +0900
 category: hobby
 ---
+<p style="font-size:30px;"><b> Job </b></p>
 <br/>
 morale
 <br/>
@@ -49,6 +50,8 @@ capital assets - the property company have
 holiday property letting agency
 <br/>
 <br/>
+<p style="font-size:30px;"><b> Personality </b></p>
+
 obliging
 <br/>
 <del> tactless </del>

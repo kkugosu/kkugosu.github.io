@@ -1,6 +1,6 @@
 ---
 layout: post
-title: voca(academy, job)
+title: voca (academy, job)
 date: 2023-05-30 00:10:33 +0900
 category: hobby
 ---
@@ -16,10 +16,11 @@ carry out research
 <br/>
 <br/>
 Curriculum reform
+<br/>
+<br/>
 
 <p style="font-size:30px;"><b> Job </b></p>
-<br/>
-<br/>
+
 Reporting to
 <br/>
 subsidised
