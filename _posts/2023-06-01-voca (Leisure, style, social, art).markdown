@@ -1,9 +1,10 @@
 ---
 layout: post
-title: voca 4
+title: voca (Leisure, style, social, art)
 date: 2023-06-01 16:10:33 +0900
 category: hobby
 ---
+<p style="font-size:30px;"><b> Leisure </b></p>
 <br/>
 therapeutic
 <br/>
@@ -22,6 +23,8 @@ full diary
 keen participant
 <br/>
 <br/>
+
+<p style="font-size:30px;"><b> style </b></p>
 cloaked
 <br/>
 <del> scruffy 추론가능 inference </del>
@@ -56,21 +59,21 @@ made-to-measure
 <br/>
 off the peg/rack
 <br/>
-all the rage
+all the rage *
 <br/>
 the height of fashion
 <br/>
 up-to-the-minute
 <br/>
-catches on
+catches on *
 <br/>
 off the cuff
 <br/>
-to be hand in glove with someone
+to be hand in glove with someone *
 <br/>
-on a shoestring
+on a shoestring *
 <br/>
-no frills
+no frills *
 <br/>
 to put someone in a straitjacket
 <br/>
@@ -91,7 +94,7 @@ tower blocks
 <br/>
 granny flat
 <br/>
-household word/ name
+household word/ name *
 <br/>
 on the house
 <br/>
@@ -99,13 +102,13 @@ home truths
 <br/>
 nothing to write home about
 <br/>
-hit home
+hit home *
 <br/>
 make yourself at home
 <br/>
-have the time of your life
+have the time of your life *
 <br/>
-get a new lease of life
+get a new lease of life *
 <br/>
 a dog’s life
 <br/>
@@ -118,13 +121,15 @@ breathe new life into
 house of cards
 <br/>
 <br/>
+<p style="font-size:30px;"><b> Social </b></p>
+
 <del> housewarming </del>
 <br/>
 stag party
 <br/>
 hen night
 <br/>
-reception
+reception * 
 <br/>
 black-tie
 <br/>
@@ -141,8 +146,10 @@ cliquey
 his crowd
 <br/>
 stood him up
+
 <br/>
 <br/>
+<p style="font-size:30px;"><b> Art </b></p>
 <del> hackneyed </del>
 <br/>
 far-fetched
@@ -157,7 +164,7 @@ moving
 <br/>
 understated
 <br/>
-tedious
+tedious *
 <br/>
 applause(어플라우즈)
 <br/>
@@ -167,7 +174,7 @@ encores
 <br/>
 <del> standing ovation </del>
 <br/>
-up-and-coming
+up-and-coming *
 <br/>
 <del> typecast </del>
 <br/>
@@ -175,11 +182,11 @@ up-and-coming
 <br/>
 booed
 <br/>
-total flop
+total flop *
 <br/>
 miscast
 <br/>
-covers 
+covers *
 <br/>
 portrayal
 <br/>
