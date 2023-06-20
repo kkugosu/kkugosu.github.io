@@ -1,6 +1,6 @@
 ---
 layout: post
-title: voca 14
+title: voca (cause, compare, difficulty, opinions, statistics)
 date: 2023-06-09 17:48:33 +0900
 category: hobby
 ---
@@ -13,6 +13,7 @@ has implications for
 
 <br/>
 <br/>
+<p style="font-size:30px;"><b> compare </b></p>
 affinity
 <br/>
 akin to
@@ -25,6 +26,7 @@ tantamount to
 
 <br/>
 <br/>
+<p style="font-size:30px;"><b> difficulty </b></p>
 a snag, a hitch, a glitch. Glitch
 <br/>
 pitfall
@@ -60,6 +62,7 @@ in a fix / in a spot / in a hole / up against it / up to your neck
 out of the wood(s)
 <br/>
 <br/>
+<p style="font-size:30px;"><b> opinions </b></p>
 The odds are
 <br/>
 The odds are against
@@ -69,6 +72,7 @@ are bound to
 There’s every likelihood
 <br/>
 <br/>
+<p style="font-size:30px;"><b> statustics </b></p>
 twofold
 <br/>
 quadrupled

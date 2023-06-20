@@ -1,9 +1,10 @@
 ---
 layout: post
-title: voca 11
+title: voca (Health, Industry)
 date: 2023-06-07 14:10:33 +0900
 category: hobby
 ---
+<p style="font-size:30px;"><b> Health </b></p>
 <br/>
 ophthalmologists (eyes), 
 <br/>
@@ -87,6 +88,7 @@ sailed through
 
 <br/>
 <br/>
+<p style="font-size:30px;"><b> Industry </b></p>
 inward investment
 <br/>
 on piecework.

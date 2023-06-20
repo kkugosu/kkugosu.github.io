@@ -1,6 +1,6 @@
 ---
 layout: post
-title: voca 12
+title: voca (Technology, space, time)
 date: 2023-06-08 14:10:33 +0900
 category: hobby
 ---

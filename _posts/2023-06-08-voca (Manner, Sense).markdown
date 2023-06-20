@@ -1,9 +1,10 @@
 ---
 layout: post
-title: voca 13
+title: voca (Manner, Sense)
 date: 2023-06-08 16:48:33 +0900
 category: hobby
 ---
+<p style="font-size:30px;"><b> Motion </b></p>
 <br/>
 limp
 <br/>
@@ -31,6 +32,7 @@ calmly]
 unprecedented
 <br/>
 <br/>
+<p style="font-size:30px;"><b> Manner </b></p>
 insolent
 <br/>
 etiquette
@@ -58,6 +60,7 @@ sniff at something
 snort
 <br/>
 <br/>
+<p style="font-size:30px;"><b> Sounds </b></p>
 squeaking
 <br/>
 pounding
@@ -77,6 +80,7 @@ you could have heard a pin drop
 I can’t hear myself think
 <br/>
 <br/>
+<p style="font-size:30px;"><b> Weight </b></p>
 weighed down
 <br/>
 weigh up
