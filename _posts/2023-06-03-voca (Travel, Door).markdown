@@ -11,11 +11,11 @@ good value for money
 <br/>
 crossing
 <br/>
-berth
+berth * 침상
 <br/>
 carriage
 <br/>
-through train
+through train *
 <br/>
 getting around
 <br/>
@@ -32,13 +32,11 @@ inn
 <br/>
 get off the beaten track
 <br/>
-this use of boast is for listing the good qualities of a place; formal
-<br/>
-boast
+boast * this use of boast is for listing the good qualities of a place; formal
 <br/>
 hordes
 <br/>
-flora and fauna
+flora and fauna *
 <br/>
 unwind
 <br/>
@@ -46,7 +44,7 @@ bush
 <br/>
 waterfront
 <br/>
-ramble < hiking < trek
+ramble * < hiking < trek
 <br/>
 <del> ecotourism </del>
 <br/>
@@ -67,28 +65,28 @@ deciduous
 <br/>
 <del> prairies </del>
 <br/>
-paddy fields(논)
+paddy fields(논) *
 <br/>
 cereals 벼
 <br/>
-tend
+tend *
 <br/>
-at the forefront
+at the forefront *
 <br/>
-indigenous
+indigenous *
 <br/>
 <br/>
 <del> nippy </del>
 <br/>
 <del> sweltering </del>
 <br/>
-oppressive/sultry/stifling/heavy/close
+oppressive/sultry */stifling */heavy
 <br/>
 deluge/chucking it down
 <br/>
 <del> muggy </del>/clammy/sticky
 <br/>
-sunny disposition 
+sunny disposition *
 <br/>
 cloud your judgement.
 <br/>

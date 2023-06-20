@@ -18,7 +18,7 @@ it bounced
 <br/>
 Who shall I make this cheque out to / payable to?
 <br/>
-lump sum
+lump sum *
 <br/>
 golden handshake
 <br/>
@@ -48,17 +48,17 @@ leave other dishwashers standing.
 <br/>
 put/leave other courses in the shade.
 <br/>
-Rock-bottom
+Rock-bottom *
 <br/>
-slashed
+slashed *
 <br/>
-Enjoy a sumptuous meal in opulent surroundings
+Enjoy a sumptuous meal in opulent surroundings *
 <br/>
 Live in the lap of luxury for two weeks
 <br/>
-glossy
+glossy *
 <br/>
-radiant
+radiant *
 <br/>
 sandwich boards
 <br/>
@@ -75,7 +75,7 @@ exclusive/scoop 특종
 <br/>
 run a story 게재하다
 <br/>
-libel
+libel *
 <br/>
 put their own gloss/spin on a story.
 <br/>
