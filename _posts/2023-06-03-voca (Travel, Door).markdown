@@ -27,7 +27,7 @@ inn
 <br/>
 <del> half board </del>
 <br/>
-<del> full board < del>
+<del> full board </del>
 <br/>
 <br/>
 get off the beaten track
