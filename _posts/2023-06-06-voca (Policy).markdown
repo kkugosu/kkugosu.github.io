@@ -1,9 +1,10 @@
 ---
 layout: post
-title: voca 9
+title: voca (Policy)
 date: 2023-06-06 16:10:33 +0900
 category: hobby
 ---
+<p style="font-size:30px;"><b> Policy </b></p>
 <br/>
 <br/>
 lobby 정치적 운동

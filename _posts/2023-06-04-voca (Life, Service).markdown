@@ -1,9 +1,10 @@
 ---
 layout: post
-title: voca 7
+title: voca (Life, Service)
 date: 2023-06-04 15:10:33 +0900
 category: hobby
 ---
+<p style="font-size:30px;"><b> Life </b></p>
 <br/>
 <br/>
 seeds
@@ -81,6 +82,8 @@ GREEN CREDENTIALS
 SUSTAINABLE DEVELOPMENT
 <br/>
 <br/>
+
+<p style="font-size:30px;"><b> Service </b></p>
 accommodating
 <br/>
 impeccable

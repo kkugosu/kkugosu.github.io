@@ -1,11 +1,11 @@
 ---
 layout: post
-title: voca 8
+title: voca (Culture, Possession)
 date: 2023-06-05 18:10:33 +0900
 category: hobby
 ---
 <br/>
-
+<p style="font-size:30px;"><b> Culture </b></p>
 fanatic
 <br/>
 reactionary
@@ -91,6 +91,7 @@ monarch
 the nobility
 <br/>
 <br/>
+<p style="font-size:30px;"><b> Possession </b></p>
 poverty line
 <br/>
 social context

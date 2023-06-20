@@ -1,9 +1,10 @@
 ---
 layout: post
-title: voca 10
+title: voca (Finance, Media)
 date: 2023-06-07 11:10:33 +0900
 category: hobby
 ---
+<p style="font-size:30px;"><b> Finance </b></p>
 <br/>
 I’m rolling in it
 <br/>
@@ -22,6 +23,7 @@ lump sum
 golden handshake
 <br/>
 <br/>
+<p style="font-size:30px;"><b> Media </b></p>
 editorial
 <br/>
 leaflet
