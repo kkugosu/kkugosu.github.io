@@ -10,7 +10,7 @@ limp
 <br/>
 stagger
 <br/>
-lurch
+lurch *
 <br/>
 tiptoe
 <br/>
@@ -33,7 +33,7 @@ unprecedented
 <br/>
 <br/>
 <p style="font-size:30px;"><b> Manner </b></p>
-insolent
+insolent *
 <br/>
 etiquette
 <br/>
@@ -47,11 +47,11 @@ netiquette
 <br/>
 twitch
 <br/>
-flinch
+flinch *
 <br/>
-squirm
+squirm *
 <br/>
-smirk
+smirk *
 <br/>
 beam
 <br/>
@@ -61,7 +61,7 @@ snort
 <br/>
 <br/>
 <p style="font-size:30px;"><b> Sounds </b></p>
-squeaking
+squeaking *
 <br/>
 pounding
 <br/>
@@ -73,7 +73,7 @@ rang out
 <br/>
 eerie
 <br/>
-deafening
+deafening *
 <br/>
 you could have heard a pin drop
 <br/>
@@ -91,11 +91,11 @@ weighing on me
 <br/>
 weighed in
 <br/>
-sift 체로 걸러내다
+sift * 체로 걸러내다
 <br/>
 dilute
 <br/>
-impervious
+impervious *
 
 <br/>
 

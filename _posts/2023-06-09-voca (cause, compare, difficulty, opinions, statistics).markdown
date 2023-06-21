@@ -5,7 +5,7 @@ date: 2023-06-09 17:48:33 +0900
 category: hobby
 ---
 <p style="font-size:30px;"><b> cause </b></p>
-precipitated
+precipitated *
 <br/>
 brought about
 <br/>
@@ -14,52 +14,52 @@ has implications for
 <br/>
 <br/>
 <p style="font-size:30px;"><b> compare </b></p>
-affinity
+affinity *
 <br/>
 akin to
 <br/>
-To use a sporting analogy
+To use a sporting analogy *
 <br/>
 to equate 
 <br/>
-tantamount to
+tantamount to *
 
 <br/>
 <br/>
 <p style="font-size:30px;"><b> difficulty </b></p>
-a snag, a hitch, a glitch. Glitch
+a snag, a hitch, a glitch. Glitch *
 <br/>
-pitfall
+pitfall *
 <br/>
-ordeal
+ordeal *
 <br/>
-abstruse
+abstruse *
 <br/>
-arduous
+arduous *
 <br/>
-convoluted
+convoluted *
 <br/>
-gruelling
+gruelling *
 <br/>
-insufferable
+insufferable *
 <br/>
-wayward
+wayward *
 <br/>
 What’s eating him
 <br/>
 What’s bugging him
 <br/>
-to slog
+to slog *
 <br/>
-to grind
+to grind *
 <br/>
-to graft
+to graft *
 <br/>
-to flog yourself to death
+to flog yourself to death *
 <br/>
-in a fix / in a spot / in a hole / up against it / up to your neck
+in a fix * / in a spot * / in a hole / up against it * / up to your neck
 <br/>
-out of the wood(s)
+out of the wood(s) *
 <br/>
 <br/>
 <p style="font-size:30px;"><b> opinions </b></p>
@@ -79,9 +79,9 @@ quadrupled
 <br/>
 by a factor of
 <br/>
-revised upwards
+revised upwards *
 <br/>
-deviated from the norm
+deviated from the norm *
 <br/>
 seesawed
 <br/>
@@ -91,4 +91,4 @@ blip
 <br/>
 flawed
 <br/>
-cautious
+cautious *

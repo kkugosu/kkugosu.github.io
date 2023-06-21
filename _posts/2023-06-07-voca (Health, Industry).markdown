@@ -28,15 +28,15 @@ prescription charge
 
 off-colour
 <br/>
-out of sorts
+out of sorts *
 <br/>
 fighting off
 <br/>
 cuts and bruises
 <br/>
-stinging
+stinging *
 <br/>
-throbbing
+throbbing *
 <br/>
 feverish
 <br/>
@@ -44,7 +44,7 @@ nauseous
 <br/>
 on the mend 
 <br/>
-be back on her feet
+be back on her feet *
 <br/>
 <br/>
 low-dose
@@ -57,11 +57,11 @@ stools
 <br/>
 disorientation
 <br/>
-prognosis
+prognosis *
 <br/>
-a rash of
+a rash of *
 <br/>
-jaundiced 황달?
+jaundiced * 황달?
 <br/>
 infect 전염?
 <br/>

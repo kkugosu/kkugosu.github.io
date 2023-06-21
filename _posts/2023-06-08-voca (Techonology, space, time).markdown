@@ -13,7 +13,7 @@ ergonomics
 
 foresee
 <br/>
-envisage
+envisage *
 <br/>
 gulf
 <br/>
@@ -21,7 +21,7 @@ gulf
 
 onshore offshore
 <br/>
-gas-guzzler
+gas-guzzler *
 <br/>
 food miles
 <br/>
@@ -34,9 +34,9 @@ poky
 <br/>
 hemmed in
 <br/>
-bustling
+bustling *
 <br/>
-labyrinth
+labyrinth *
 <br/>
 stuff them all in
 <br/>
@@ -58,7 +58,7 @@ till the cows come home
 <br/>
 for keeps / for good
 <br/>
-in the nick of time
+in the nick of time *
 <br/>
 over the hill / past it
 <br/>
@@ -66,7 +66,7 @@ was already a has-been
 <br/>
 in a flash / at a rate of knots
 <br/>
-fleeting
+fleeting *
 <br/>
 lengthy
 <br/>
@@ -74,4 +74,4 @@ inexorable
 <br/>
 incipient
 <br/>
-protracted
+protracted *
