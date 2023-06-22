@@ -9,7 +9,7 @@ assent
 countenance
 endorse
 clamp down
-veto 
+veto
 
 <p style="font-size:30px;"><b> complain </b></p>
 I’ve just about had enough of
@@ -18,10 +18,10 @@ I’m not at all satisfied with
 I wish to complain about
 I take great exception to
 I really must object to
-grouse
+grouse *
 
 <p style="font-size:30px;"><b> apology </b></p>
-phoney
+phoney *
 alibi
 flimsy pretext
 remorse
