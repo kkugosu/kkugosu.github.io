@@ -1,7 +1,7 @@
 ---
 layout: post
 title: voca (colloqual, words)
-date: 2023-06-22 9:48:33 +0900
+date: 2023-06-23 9:48:33 +0900
 category: hobby
 ---
 <p style="font-size:30px;"><b> colloqual </b></p>
