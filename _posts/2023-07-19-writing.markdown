@@ -211,3 +211,12 @@ is only methods -> offers a unique medium
 few of our -> some of our
 own feature -> distinctive characteristics
 we risk forgetting 
+
+many people think build sky train will alleviate the traffic cog. but sky train pose potentional posibility of environmental pollution including shade sunlight. moreover, if they accerlate the increasing population to the city, the the problem of traffic jam doesn't getting better and the disparity between wealth and poverty result in lifestyle which fail to reach to the sunlight.
+
+Many people believe that building a sky train will help ease traffic congestion. However, the construction of a sky train could potentially lead to environmental pollution, including blocking sunlight with its structures. Additionally, if the increased accessibility to the city accelerates population growth, the issue of traffic jams may not improve, and the disparity between wealth and poverty could result in a lifestyle that fails to enjoy the benefits of sunlight.
+
+build -> construction
+cog -> congestion
+blocking sunlight with its structures
+fails to enjoy the benefits of sunlight
