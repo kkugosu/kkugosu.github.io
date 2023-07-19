@@ -1,0 +1,178 @@
+---
+layout: post
+title: writing 
+date: 2023-07-19 00:10:33 +0900
+category: writing
+---
+
+even though are reasonable enough to descern meaningful information, the problem of providing distorted or unnecessary information is that affect our furture learning direction. for example, when we get to know about new fast food, our knowledge fool of food extended on the direction of fast food which incur increasing probability for us to choose fast food. when we come to reach the news of gun murder in america, we easily think there are lots of gun accident eventhough that is not occer often. this also happened in fake news, which bring our attention and make us to investigate about it also resulting our knowledge to extend to that area, same effect as provided unnescessary information.
+
+Although we are capable of discerning meaningful content, distorted or unnecessary information can still influence our future learning path. For example, when we come across news about a new fast-food chain, our exposure to fast food increases, leading to a higher likelihood of choosing it. Similarly, when we encounter reports of gun violence in America, we may mistakenly assume that such incidents occur frequently, despite their infrequent nature. This also applies to fake news, which grabs our attention, prompts further investigation, and expands our knowledge in areas that may not hold significant value, ultimately having the same effect as providing unnecessary information.
+
+the way to manage attendent is recommanded to be different depends on the characteristics of department. i believe the most apparent feature of personality within human beings is active. when someone is active person, they used to choose following their curiousity enabling them to be improved as more intelligent than others. and more independent because they always throw questions to the traditional practice. when they are allocated in department which needs continuous change and everyday try new things, they are fitted in that department but if not, they will be get substantial stress. when we got to wear costum, we can feel united mood and at the same time but that can constrain our deviated way of thinking, so resulting in restrictness of posibility of throwing question, creativity.
+
+The way to manage attendants is recommended to vary depending on the characteristics of each department. I believe one of the most prominent personality traits in human beings is being active. Active individuals tend to follow their curiosity, leading to improved intelligence compared to others, as well as greater independence because they challenge traditional practices by asking questions. When active individuals are placed in departments that require continuous change and experimentation, they thrive in such environments. However, if they are placed in departments that do not offer such opportunities, they may experience significant stress. Wearing a costume can create a sense of unity and conformity, but it can also constrain divergent thinking, limiting the possibility of questioning and stifling creativity
+
+회사의 "성향" -> characteristics
+feature of personality -> personality traits
+active -> being active
+than -> compare to
+throw question -> challenge
+allocated -> placed
+they are fitted -> they thrive in
+get stress -> experience stress
+united mood -> sense of unity
+
+the disadvantage of communicate on online compare to meet offline is our behavior doesn't seems to be sincere. if we meet on offline, we should go long to the appointment place on foot to meet friends and this also means we came here even though there is the possibility of meet weild person. and if we meet online, we can't fully utilize our sensory system. we can't smell aroma. our image and sound is little bit distorted whilst conveying through internet. 
+
+The disadvantage of online communication compared to meeting offline is that our behavior may not seem as sincere. When meeting offline, we make an effort to physically travel to the meeting place, demonstrating our commitment to meeting friends even in the presence of the possibility of encountering unfamiliar individuals. However, when communicating online, we are unable to fully utilize our sensory system. We cannot experience smells or fully perceive unaltered images and sounds as they may be distorted during transmission over the internet
+
+seem to be -> seem as
+should go -> make an effort (노력해서 가다 의미 포함해야함)
+altered 바뀐
+conveying -> transmission
+communite on online -> communicate online
+with -> in the presence of
+
+the difference between man and woman is being active. there is still pros and cons. active person usually good at math which require curiosity to acquire the knowledge which needs to trim the already known knowledge within the effort to tell the difference. but not good at studing language every knowledge composed in language usually not related each other, the process of choosing the way to learn itself is already waste of time.
+
+The difference between men and women lies in their levels of activity. However, being active has its pros and cons. Active individuals are usually good at math, as it requires curiosity to acquire knowledge that is used to refine existing knowledge by distinguishing between different concepts. On the other hand, they may face challenges when learning languages, as language knowledge is often not directly interconnected. The process of selecting a learning approach itself can be perceived as a waste of time
+
+already known -> existing
+tell -> distinguishing
+is -> can be preceived
+trim -> refine
+
+the most prominent reason of crime lies in the disparity between wealthy and poverty. According to game theory, when they fail to secure enough resource, they begin to compete and deprive each other which curcimstance is referred as zero sum game. the resource appears as various form. dificient of resource not only means lack of money but also lake of self esteem. numerous people commit rob or steal to fill their insufficient of money, they also commit online crime and sexual crime because of insufficient of self esteem. drug problem also occured due to gab between wealthy and poverty. medicine company illegarly sell drug and sell the medicine simultainously which cure the side effect of drug. this become possible because of their lobby.
+
+The most prominent reason for crime lies in the disparity between wealth and poverty. According to game theory, when individuals fail to secure enough resources, they resort to competing with and depriving one another, creating a zero-sum game scenario. Resources can take various forms, and their deficiency not only signifies a lack of money but also a lack of self-esteem. Many people resort to robbery or theft to alleviate their financial struggles, while others engage in online crime and sexual offenses due to a sense of inadequacy. Drug-related problems also arise from the wealth-poverty gap, as pharmaceutical companies illegally sell drugs and simultaneously market medicines that mitigate the drugs' side effects. Such practices are made possible through lobbying efforts
+
+means -> signifies
+시나리오 scenario
+appears -> can take various form
+insufficient of money -> financial struggle
+due to a sense of inadequacy 불만때문에
+lobbying efforts
+sell -> market
+cure -> mitigate
+pharmaceutical
+
+even though governemnt sent them to the jail, they even learn another way to crime rather than scared and be better. because government did't do anything for mitigate their deficiency. sending to jail and deploying more police on the street doesn't address underlying problem but cost effective. the root solution to eliminate criminal is emerged from education. we have responsibility to nevigate them to the right direction and we can achieve that through encourage them to learn such like giving money when we check they achieved certain extention of knowledge acquirement.
+
+Even though the government sends criminals to jail, they often find alternative ways to engage in criminal activities rather than becoming deterred or reforming. This is because the government fails to address the underlying deficiencies that contribute to their criminal behavior. Simply incarcerating individuals and increasing police presence on the streets does not solve the root problem; it is cost-effective but not a comprehensive solution. The key to eliminating crime lies in education. We have a responsibility to guide individuals in the right direction and we can achieve this by incentivizing learning, such as providing financial rewards when we observe significant progress in their knowledge acquisition.
+
+단념하다 deterred
+개선되다 be better -> reforming
+comprehensive solution
+incentivizing -> 보상을 주면서 행동을 유도
+encourage -> 그냥 행동을 유도
+achieved certain extention -> significant progress
+
+the role of teacher and parents is support students to nevigate their way to pursuing happiness. there is numerous way to pursuing hapiness but students often stuck in a some just one way because they don't know any better and Just follow what's in front of you. so the main role of adviser is to help them to look as far as they need to be happy. sometimes you need to encourage them to keep going, sometimes you need to you need to tell them there is another more good way. if they fail to adapt to class, you should search another way to teach. but you cannot force them to persuing the way you want because no one knows your way is best to pursuing happiness, moreover, everyone have different experience and different way to feel happiness so there is no chance to know the best way to be happy. 
+
+The role of teachers and parents is to support students in navigating their path towards pursuing happiness. There are numerous ways to pursue happiness, but students often get stuck in just one way because they may not be aware of other options or simply follow what is in front of them. The main role of advisors is to help them broaden their perspective and explore different paths that lead to happiness. Sometimes, you need to encourage them to keep going, and other times, you need to guide them towards better alternatives. If they struggle to adapt to a particular teaching method, you should search for alternative ways to teach. However, it is important not to force them to pursue the path you believe is best, as everyone has different experiences and different ways of finding happiness. There is no one-size-fits-all approach to happiness
+
+support in nevigating
+don't know -> not be aware of
+멀리보게 만들다 broaden their perspective
+or sometimes -> and other times
+모두를 만족시키는 -> one-size-fits-all
+
+everyone has their own way to learn. the man usually like to questioning their excisting knowledge whereas woman is good at fastly adapt themselves to newly learned knowledge. old people usually try to organize their knowledge rather than aquire more knowledge because they already experienced a lot so they are good at learn accurately but not fast. young people are good at learn fastly but not accurate.
+
+Everyone has their own unique way of learning. Men often excel in questioning their existing knowledge, while women tend to adapt quickly to newly acquired knowledge. Older people usually focus on organizing their existing knowledge rather than acquiring new knowledge, leveraging their wealth of experience to learn with precision but at a slower pace. On the other hand, young people are often adept at fast-paced learning, although their accuracy may sometimes lag behind.
+
+뒤쳐지다 lag behind
+느린 속도 slower pace
+빠른 속도 fast-paced
+많은 경험 wealth of experience
+정확하게 학습하다 learn with precision
+try to -> focus on
+leveraging their wealth of experience to learn with precision
+get shortsighted
+For what it's worth...
+그건 그렇다 치고
+
+environmental distruction is existing in various form we can see that as demaged plant and demaged animal the underlying problem of this is Reckless hunting, transformation of nature in the favor of human, indiscriminate discharge of detrimental waste.
+
+Environmental destruction exists in various forms, such as damaged plants and animals. The underlying problems contributing to this destruction include reckless hunting, the transformation of nature to suit human interests, and the indiscriminate discharge of harmful waste.
+
+누구의 입맛에 맞게 -> to suit ~ interests
+무분별하게 reckless indiscriminate (전자는 결과를 생각하지 않는 행동, 후자는 선택을 잘 못함)
+
+we have to address with that problem as internation or government level not individually because behavior of caring environment itself benefit every human species not meaningful for just one person who take care of it. so, the reward from this behavior has meaning when we doing this altogether.
+
+To effectively tackle this issue, it is imperative to address it at an international or governmental level, as opposed to individual efforts. Caring for the environment yields collective benefits for all of humanity, extending beyond the interests of any single individual. The true significance of the rewards derived from such behavior is best realized when we unite in our collective commitment towards environmental preservation.
+
+it is imperative to address
+rather than -> as opposed to
+this behavior -> such behavior
+is meaningful -> is best realized
+doing altogether -> unite in our collective commitment
+
+there is numerous component to take into account for choosing the job. representitively, except for salary, there are location, colleagues, the content of work which of things are the part of work and life balance,. the reason why location is important is it impact on commute time and weather. the stress came from relationship is mostly lies on colleagues, when our content of work is best realized, we feel the satisfaction and fulfillment through the work. 
+
+When considering a job, there are several factors to take into account. Apart from the salary, elements such as the location, colleagues, and the nature of the work play a vital role in achieving a work-life balance. Location matters because it affects our commute time and the weather we encounter. The relationships we build with colleagues can significantly impact our stress levels. And, of course, finding fulfillment and satisfaction in our work stems from the content of the tasks we undertake. All these aspects are crucial in making a well-informed decision when selecting the right job for ourselves.
+
+choosing the job -> considering a job
+except for -> apart from
+play a vital role "in"
+work-life balance
+일의 필수요소, 특징 the nature of the work
+the reason why location is important -> location matters
+tasks we undertake
+
+when company consider a employee, some company collect them from another country so the citizen of own country opposed to their behavior in the excuse of their decreasing workplace. the most problem underlying numerous worldwide issue arise from disparity between wealth and poverty esepcially excerbated through colonization and domination over another country led by europe. when country hire people from another country which country is not wealthy as their country, they indirectly alleviate the disparity across countries by giving resource to people who live in another country which is good phenomenon.
+
+When companies hire employees from other countries, some citizens in their home country may oppose this practice, fearing a reduction in local job opportunities. However, it's important to recognize that the underlying issue stems from global wealth disparities, which have been exacerbated historically through colonization and dominance by certain regions, particularly Europe.
+
+When a country hires individuals from less affluent nations, they indirectly contribute to reducing the wealth disparity between countries. By providing resources and opportunities to people in other parts of the world, it can lead to positive outcomes and foster a more equitable global environment
+
+behavior -> practive
+어떤걸 두려워해서 fearing a 
+과거의 일을 언급할때 historically
+colonization and dominance by certain regions
+affluent nations
+foster a more equitable global environment
+
+With transformation in the nature of industry, disappearing necessarity of cowork, the share of nuclear family is increasing as opposed to grand family.
+
+Due to the changing nature of industries and the diminishing need for uniting in our collective effort, nuclear families are becoming more prevalent, contrasting with the traditional extended families.
+
+share of ~ high -> prevalent
+as opposed to -> contrasting with
+grand family -> traditional extended families
+
+With the improvement of healthcare system, since we become to live longer, society is aging more and more. we suggested numerous solution to address such phenomenon so far. the most prominent suggestion is we can prolong the retirement age so as to leverage elderly's still vigorous power ,which is due to modernized healthcare system, to the society.
+
+As the healthcare system continues to advance, our life expectancy increases, resulting in a progressively aging society. Over time, we have proposed numerous solutions to cope with this phenomenon. One of the most prominent suggestions is extending the retirement age, allowing the elderly to contribute their still robust capabilities, thanks to the benefits of modern healthcare, to society.
+
+의료 -> healthcare
+life expectancy
+increasingly -> progressively
+proposed 제안받다
+extending, postpone
+여전히 건장한 능력 still robust capabilities
+due to -> thanks to benefits of
+
+individual and government plays different role each other. individual watch governemnt to not corrupt but government watch individual to not commit crime and hram each other. the good government usually commit to address socialwide problem such as environmental preservation, economic crisis, conflict between nation. and also they can start governmental agency which spesically deals with social problem.
+
+Individuals and the government each have distinct roles to play in society. While individuals keep an eye on the government to prevent corruption, the government, in turn, monitors individuals to deter crime and harm to others. A well-functioning government takes responsibility for tackling issues that affect society as a whole, such as environmental preservation, economic crises, and international conflicts. Moreover, they have the ability to establish specialized governmental agencies that address these social challenges.
+
+감시하다 keep an eye on , monitor
+반면에 in turn
+좋은 well functioning
+사회 전반적으로 society as a whole
+
+we can apply numerous approach to address increasing fat rate. government can start public profit agency to encourage consuming low-fat food. we can decrease our inner fat by regulary training our body. the most important behavior is deter our willing of consuming carbohydrate. because consuming excessive carbohydrate is more detrimental than lazy training.
+
+To tackle the issue of increasing obesity rates, there are several approaches we can take. The government can initiate a public nonprofit agency to promote the consumption of low-fat foods. Additionally, individuals can take action by engaging in regular exercise to reduce body fat. However, one of the most crucial behaviors to address is curbing our desire for excessive carbohydrate consumption. This is because consuming too many carbohydrates can have more detrimental effects than not being as active.
+
+fat -> obesity
+기업을 창조하다 -> initiate
+공공기관 -> public nonprofit agency
+운동하다 -> regular exercise
+body fat
+willing -> desire
+lazy training -> not being as active
+
