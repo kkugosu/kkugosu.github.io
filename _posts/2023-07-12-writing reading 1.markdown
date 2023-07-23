@@ -35,3 +35,4 @@ In summerize, I believe the significance of reading the book stay still at the a
 <br/>
 In summary, I believe that the significance of reading books remains in providing us with ample opportunities for fulfillment and enjoyment. However, they are no longer the most useful means, as the internet has emerged as a primary, limitless, and convenient resource of information.
 <br/>
+ample
