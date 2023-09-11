@@ -2,7 +2,7 @@
 layout: post
 title: voca (Job, personality)
 date: 2023-05-31 00:10:33 +0900
-category: hobby
+category: english
 ---
 <p style="font-size:30px;"><b> Job </b></p>
 <br/>

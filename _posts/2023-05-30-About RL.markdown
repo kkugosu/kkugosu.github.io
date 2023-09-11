@@ -2,7 +2,7 @@
 layout: post
 title: About RL
 date: 2023-05-30 00:10:33 +0900
-category: theory
+category: english
 ---
 <br/>
 What i suppose to write about today is reinforcement learning which is one of the kinds of active learning. 

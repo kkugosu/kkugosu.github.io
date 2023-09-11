@@ -2,7 +2,7 @@
 layout: post
 title: writing education 3
 date: 2023-05-22 17:53:33 +0900
-category: hobby
+category: english
 ---
 Q
 <br/>

@@ -2,7 +2,7 @@
 layout: post
 title: About AI
 date: 2023-05-29 00:10:33 +0900
-category: theory
+category: english
 ---
 
 With advancement of ai, we can see plenty of conspicuous model these days which is usually comes from GAN and RL both of which are active learning model.

@@ -2,7 +2,7 @@
 layout: post
 title: writing money 1
 date: 2023-05-26 16:10:33 +0900
-category: hobby
+category: english
 ---
 Q
 <br/>

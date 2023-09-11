@@ -2,7 +2,7 @@
 layout: post
 title: writing environment 1
 date: 2023-05-31 00:10:33 +0900
-category: hobby
+category: english
 ---
 
 Q

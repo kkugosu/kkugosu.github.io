@@ -2,7 +2,7 @@
 layout: post
 title: writing personality 1
 date: 2023-05-23 8:23:33 +0900
-category: hobby
+category: english
 ---
 Q
 <br/>
