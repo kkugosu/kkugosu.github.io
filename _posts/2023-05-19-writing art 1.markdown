@@ -2,7 +2,7 @@
 layout: post
 title: writing art 1
 date: 2023-05-19 14:23:33 +0900
-category: hobby
+category: english
 ---
 Q
 <br/>

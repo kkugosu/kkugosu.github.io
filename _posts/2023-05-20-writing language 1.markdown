@@ -2,7 +2,7 @@
 layout: post
 title: writing language 1
 date: 2023-05-20 23:53:33 +0900
-category: hobby
+category: english
 ---
 Q
 <br/>
