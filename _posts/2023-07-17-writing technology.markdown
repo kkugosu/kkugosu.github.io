@@ -2,7 +2,7 @@
 layout: post
 title: writing technology
 date: 2023-07-17 00:10:33 +0900
-category: writing
+category: english
 ---
 
 Q

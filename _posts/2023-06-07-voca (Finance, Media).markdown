@@ -2,7 +2,7 @@
 layout: post
 title: voca (Finance, Media)
 date: 2023-06-07 11:10:33 +0900
-category: hobby
+category: english
 ---
 <p style="font-size:30px;"><b> Finance </b></p>
 <br/>

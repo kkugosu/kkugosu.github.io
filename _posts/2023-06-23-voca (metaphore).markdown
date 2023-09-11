@@ -2,7 +2,7 @@
 layout: post
 title: voca (metaphore)
 date: 2023-06-23 9:48:33 +0900
-category: hobby
+category: english
 ---
 <p style="font-size:30px;"><b> metaphore </b></p>
 formidable

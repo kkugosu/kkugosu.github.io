@@ -2,7 +2,7 @@
 layout: post
 title: voca (Manner, Sense)
 date: 2023-06-08 16:48:33 +0900
-category: hobby
+category: english
 ---
 <p style="font-size:30px;"><b> Motion </b></p>
 <br/>

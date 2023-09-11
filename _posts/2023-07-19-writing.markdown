@@ -2,7 +2,7 @@
 layout: post
 title: writing 
 date: 2023-07-19 00:10:33 +0900
-category: writing
+category: english
 ---
 
 even though are reasonable enough to descern meaningful information, the problem of providing distorted or unnecessary information is that affect our furture learning direction. for example, when we get to know about new fast food, our knowledge fool of food extended on the direction of fast food which incur increasing probability for us to choose fast food. when we come to reach the news of gun murder in america, we easily think there are lots of gun accident eventhough that is not occer often. this also happened in fake news, which bring our attention and make us to investigate about it also resulting our knowledge to extend to that area, same effect as provided unnescessary information.

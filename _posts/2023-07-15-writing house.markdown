@@ -2,7 +2,7 @@
 layout: post
 title: writing house 1
 date: 2023-07-15 00:10:33 +0900
-category: writing
+category: english
 ---
 Q
 <br/>

@@ -2,7 +2,7 @@
 layout: post
 title: voca (Health, Industry)
 date: 2023-06-07 14:10:33 +0900
-category: hobby
+category: english
 ---
 <p style="font-size:30px;"><b> Health </b></p>
 <br/>

@@ -2,7 +2,7 @@
 layout: post
 title: voca (Art, Book, Food, Traffic)
 date: 2023-06-02 15:10:33 +0900
-category: hobby
+category: english
 ---
 <p style="font-size:30px;"><b> Art </b></p>
 <br/>

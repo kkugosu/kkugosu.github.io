@@ -2,7 +2,7 @@
 layout: post
 title: voca (Travel, Door)
 date: 2023-06-03 15:10:33 +0900
-category: hobby
+category: english
 ---
 <p style="font-size:30px;"><b> Travel </b></p>
 <br/>

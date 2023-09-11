@@ -2,7 +2,7 @@
 layout: post
 title: writing reading 1
 date: 2023-07-12 00:10:33 +0900
-category: writing
+category: english
 ---
 Q
 Some people think books are losing importance as a source of information and entertainment. to what extent do you agree?

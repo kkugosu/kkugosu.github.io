@@ -2,7 +2,7 @@
 layout: post
 title: voca (regret, academy, agree)
 date: 2023-06-22 9:48:33 +0900
-category: hobby
+category: english
 ---
 <p style="font-size:30px;"><b> regret </b></p>
 out of touch

@@ -2,7 +2,7 @@
 layout: post
 title: voca (Relationship, Feeling, Life)
 date: 2023-06-01 12:10:33 +0900
-category: hobby
+category: english
 ---
 <p style="font-size:30px;"><b> Relationship </b></p>
 <br/>

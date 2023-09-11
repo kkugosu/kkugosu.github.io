@@ -2,7 +2,7 @@
 layout: post
 title: voca (Culture, Possession)
 date: 2023-06-05 18:10:33 +0900
-category: hobby
+category: english
 ---
 <br/>
 <p style="font-size:30px;"><b> Culture </b></p>

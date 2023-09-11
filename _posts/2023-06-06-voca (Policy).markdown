@@ -2,7 +2,7 @@
 layout: post
 title: voca (Policy)
 date: 2023-06-06 16:10:33 +0900
-category: hobby
+category: english
 ---
 <p style="font-size:30px;"><b> Policy </b></p>
 <br/>

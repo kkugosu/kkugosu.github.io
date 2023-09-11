@@ -2,7 +2,7 @@
 layout: post
 title: writing sports 1
 date: 2023-07-13 00:10:33 +0900
-category: writing
+category: english
 ---
 
 Q

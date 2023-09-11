@@ -2,7 +2,7 @@
 layout: post
 title: voca (Life, Service)
 date: 2023-06-04 15:10:33 +0900
-category: hobby
+category: english
 ---
 <p style="font-size:30px;"><b> Life </b></p>
 <br/>

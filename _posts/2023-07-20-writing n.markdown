@@ -2,7 +2,7 @@
 layout: post
 title: writing 
 date: 2023-07-20 00:10:33 +0900
-category: writing
+category: english
 ---
 
 Although we are capable of discerning meaningful content, distorted or unnecessary information can still influence our future learning path. For example, when we come across news about a new fast-food chain, our exposure to fast food increases, leading to a higher likelihood of choosing it. Similarly, when we encounter reports of gun violence in America, we may mistakenly assume that such incidents occur frequently, despite their infrequent nature. This also applies to fake news, which grabs our attention, prompts further investigation, and expands our knowledge in areas that may not hold significant value, ultimately having the same effect as providing unnecessary information.

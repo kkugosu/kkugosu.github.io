@@ -2,7 +2,7 @@
 layout: post
 title: voca (Leisure, style, social, art)
 date: 2023-06-01 16:10:33 +0900
-category: hobby
+category: english
 ---
 <p style="font-size:30px;"><b> Leisure </b></p>
 <br/>
