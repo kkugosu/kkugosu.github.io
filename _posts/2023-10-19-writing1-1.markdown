@@ -1,0 +1,44 @@
+---
+layout: post
+title: writing1 
+date: 2023-10-19 00:10:33 +0900
+category: english
+---
+<br/>
+that diagram illustrates making and delivery process of rock. 
+there are totally 7 process starting with digging cumulating with delivery
+<br/>
+<br/>
+The diagram illustrates the creation and delivery process of bricks.
+In total, there are seven processes, beginning with digging and culminating in delivery.
+<br/>
+
+make -> create
+start from -> beginning with
+<br/>
+first digger is employed for dig the clay and digged clay is put on the metal grid, filtering to smaller one on the roller.
+<br/>
+<br/>
+First, a digger is employed to excavate the clay. The excavated clay is then placed on a metal grid, where it is filtered into smaller pieces via a roller.
+<br/>
+
+be employed for -> be employed to
+smaller one -> smaller pieces
+on the roller -> via a roller
+<br/>
+then sand and water is added to that smaller one. that is formed as brick by cutting them or moulding.
+<br/>
+<br/>
+Next, sand and water are added to these smaller pieces. These are then formed into bricks either by cutting or molding.
+<br/>
+formed as  -> formed into
+or -> either or
+<br/>
+
+after formed as brick, they are dried for more than 24 hours and then heated in the kiln, first heated in moderate temperature and high temperature and finally cooled for 2 to 3days. following packaging and delivery
+<br/>
+<br/>
+Once shaped into bricks, they are dried for more than 24 hours. Subsequently, they are heated in a kiln, initially at a moderate temperature, followed by a high temperature. They are then cooled for 2 to 3 days. The process concludes with packaging and delivery.
+<br/>
+formed as -> shaped into
+followed by -> concludes with 
