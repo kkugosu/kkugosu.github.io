@@ -1,0 +1,46 @@
+---
+layout: post
+title: writing1-2
+date: 2023-10-19 00:10:33 +0900
+category: english
+---
+
+there is two proposed region. the first one is located on the  north and second one is located on the south part.
+<br/>
+<br/>
+There are two proposed regions. The first region is located to the north, while the second is to the south.
+<br/>
+<br/>
+located on -> located to (두번째 쓸때 located 생략가능)
+and -> while
+<br/>
+<br/>
+the first one is located upper side of rail, left of river, right of housing estate.
+both city is located far from golf course. city centre is surrounded by road, traversed by river.
+<br/>
+<br/>
+The northern region is situated above the railway, to the left of the river, and to the right of a housing estate. Both cities are distant from the golf course, with the city center being encircled by roads and bisected by a river.
+<br/>
+<br/>
+located -> situated
+upper side -> above
+far from -> are distant from
+surrounded -> being encircled
+are traversed -> bisected
+<br/>
+<br/>
+railway is connect between north region and south region industrial estate is near south region 
+<br/>
+<br/>
+A railway connects the northern and southern regions, and an industrial estate is situated near the southern region.
+<br/>
+<br/>
+north, south -> northern region, southern region
+<br/>
+<br/>
+traversed =  goes through
+
+
+
+
+
