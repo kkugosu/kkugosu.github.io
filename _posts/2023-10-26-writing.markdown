@@ -1,7 +1,58 @@
 ---
 layout: post
 title: writing map
-date: 2023-10-22 00:10:33 +0900
+date: 2023-10-26 00:10:33 +0900
 category: english
 ---
 
+the depicted picture shows the delivery process of fish starting with fishing culmulating with fishshop sell.
+<br/>
+<br/>
+The provided diagram illustrates the stages involved in the delivery process of fish, from the initial catch to the final sale at a fish shop.
+<br/>
+<br/>
+
+
+<br/>
+<br/>
+first we catch fish with net on the sea and deliver that to the port. 
+<br/>
+<br/>
+
+The process begins at sea, where fish are caught using nets. Once caught, the fish are transported to a port. Upon arrival, they are immediately stored in a freezing environment to preserve their freshness. 
+
+<br/>
+<br/>
+we store them freezing and over time, we thaw them in fresh water and cut open.
+and then we coloring them as yellow in the saltwater, smoking.
+<br/>
+<br/>
+After some time, these frozen fish are thawed in fresh water and then gutted. The next step involves coloring the fish yellow by immersing them in saltwater and subjecting them to a smoking process. 
+<br/>
+<br/>
+and over time -> after some time
+손질하다 gutted 
+매우 실망하다 gutted
+
+
+then we freeze them at the 0 celcius temperature 
+<br/>
+<br/>
+Once this is completed, the fish are frozen again, this time at a temperature of 0 degrees Celsius, ensuring they remain in a preserved state. They are then stored accordingly until they are ready for distribution.
+<br/>
+<br/>
+then -> once ~~
+remain at ~state -> remain in ~state
+and then -> then ~ accordingly
+until ready for distribution
+
+
+and store them and distribute them to the fish shop sell
+<br/>
+<br/>
+The final step in the process involves delivering these preserved fish to fish shops, where they are ultimately sold to customers. This comprehensive journey from the sea to the shop ensures that the fish remain fresh and high in quality for the end consumer.
+<br/>
+<br/>
+comprehensive journey
+remain high in quality
+for the end consumer
