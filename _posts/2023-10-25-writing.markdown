@@ -1,0 +1,48 @@
+---
+layout: post
+title: writing map
+date: 2023-10-22 00:10:33 +0900
+category: english
+---
+
+the illustrated map depict the transformation of river basin over the three time zone from 1780, 1860 to 2000.
+<br/>
+<br/>
+The illustrated map showcases the dynamic changes in a river basin over three distinct periods: 1780, 1860, and 2000.
+<br/>
+<br/>
+depict -> showcasees 
+three time zone -> three distinct periods
+transformation of -> dynamic changes in
+<br/>
+<br/>
+there was large farm region adjacent to the river at the 1780 but the area of it decreases over the time and finally dissappeared at 2000. also same thing happened for the woods located at the right southen part of the map.
+
+<br/>
+<br/>
+In 1780, a vast farming region flanked the river, but this area progressively shrank and had completely vanished by 2000. A similar fate befell the woods located in the southern part of the map, which also diminished over time.
+<br/>
+<br/>
+flanked adjacent랑 비슷한 뜻이지만 둘러싸인느낌
+면적이 줄어들다 shrank 
+dissappeared at -> vanished by
+similar things happened to A-> simialr fate befell the A
+
+<br/>
+<br/>
+and there was not bridge over the river but it constructed at 1860 and still maintained at 2000. in addition, few shop appeared along the river. there was only small resident which is composed of 100homes but it increases over time, becoming 200homes at 1860s and finally 500homes at 2000s. when 1860, load appeared to connect between homes and river and it expanded to connect schools and sport field which appeared at the location which wood has been to.
+<br/>
+<br/>
+Initially, there was no bridge crossing the river. However, one was constructed in 1860 and remained in use by 2000. Alongside this, a few shops began to appear near the riverbank. The residential area, initially a small community of around 100 homes in 1780, experienced substantial growth. By the 1860s, it had doubled to 200 homes and by 2000, it had expanded to 500 homes. In 1860, a road was introduced to connect the homes with the river, and over time, this road extended to newly established schools and a sports field. These new developments occupied the space where the woods once stood.
+<br/>
+<br/>
+
+there was not bridge -> there was no bridge
+over the river -> crossing the river
+still maintained -> remained in use by 2000
+next to the river -> alongside river
+resident -> residental area
+area is community of around 100 homes
+expanded -> experienced substantial growth
+doubled to
+location which wood has been to -> where the woods once stood
