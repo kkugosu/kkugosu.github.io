@@ -1,0 +1,63 @@
+---
+layout: post
+title: writing map
+date: 2023-10-26 00:10:33 +0900
+category: english
+---
+
+depicted map outlines the process of processing olive beginning with harvesting culmulating with storage tank or delivery to the factory for post processing.
+<br/>
+<br/>
+The illustrated map vividly depicts the intricate journey of olives, starting from their harvesting and culminating in their eventual storage in tanks or transportation to a factory for further processing.
+<br/>
+<br/>
+
+복잡한(작은 서로 얽힌) intricate
+process -> journey
+
+
+<br/>
+<br/>
+first olive is collected from the tree via collection vat.
+once it is collected, it is gone through leafting and washing process before get in olive mill to be crushing.
+<br/>
+<br/>
+Initially, olives are meticulously gathered from trees using collection vats. Once harvested, they undergo a thorough cleaning process which includes leaf removal and washing. This prepares them for the next crucial step.
+<br/>
+<br/>
+
+섬세하게 meticulously
+gone through -> undergo through
+
+
+<br/>
+<br/>
+after crushing process, it is pasted through malaxer with -27 degree celcious and send to the centrifugal press machine. the pomace is send to the another factory as aforementioned. 
+<br/>
+<br/>
+The cleaned olives are then transported to an olive mill, where they are crushed. Following this, the crushed olives are mixed in a malaxer at a controlled temperature of -27 degrees Celsius. This process is essential for enhancing oil extraction.
+<br/>
+<br/>
+after crushing process -> Following this
+with -27 degree celcious -> at a controlled temperature of -27 degrees Celsius
+
+<br/>
+<br/>
+the virgin oils post processed again which is seperation or decantation before store.
+<br/>
+<br/>
+Afterwards, the olive paste is directed to a centrifugal press machine. Here, the oil is extracted while the remaining solid residue, known as pomace, is sent to a separate facility for further use.
+<br/>
+<br/>
+The extracted virgin oil undergoes additional refinement. This involves processes like separation or decantation to ensure purity and quality. Finally, the refined oil is either carefully stored in tanks or dispatched to factories for additional post-processing stages.
+<br/>
+<br/>
+
+delivered to -> dispatched to
+post-processing stages
+---
+
+
+
+
+
