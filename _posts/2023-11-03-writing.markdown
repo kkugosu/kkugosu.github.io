@@ -1,0 +1,63 @@
+---
+layout: post
+title: writing map
+date: 2023-11-03 00:10:33 +0900
+category: english
+---
+
+the provided map illustrates the transformation occered within the city from 1950 until present days.
+<br/>
+<br/>
+The provided map showcases the city's transformation from 1950 to the present day.
+<br/>
+<br/>
+--
+<br/>
+<br/>
+
+there has been initially small buisness district, undergone through by two road, one bisect that region by southen part and northen part and other bisect that  by estern part and western part. the upper part of later road little bit bent to the eastern side. and residential area was only situated above the former road, flank the upper part of business district.
+<br/>
+<br/>
+Initially, there was a modestly sized business district intersected by two main roads: one dividing the area into southern and northern sections, and the other cutting through the eastern and western parts. The northern road curved slightly eastward. The residential zone was confined to the area north of this road, hugging the upper boundary of the business district.
+<br/>
+<br/>
+part -> section
+divide, cutting through
+bent -> curved
+eastern side -> eastward
+flank -> hugging
+upper part -> upper boundary
+--
+<br/>
+<br/>
+now additional road is constructed below the lake which of part small river initially situated. which is parallel to the horizontal road but at the east end, it is connected at the middle part of that road, forming the another bridge cross the lake. 
+<br/>
+<br/>
+Now, a new road has been laid out beneath the lake, where there used to be a small river. This new thoroughfare runs parallel to the existing east-west road and joins it midway, creating another bridge that spans the lake.
+<br/>
+<br/>
+constructed -> laid out
+below -> beneath (beneath는 접촉하다는 뜻도 포함)
+--
+<br/>
+<br/>
+the initial bridge cross the river lenghten to connect each side of lake, business district and residential area extended to below part of the lake, residential area get to completely sourrounded business district.
+<br/>
+<br/>
+The original bridge over the river has been extended to link both shores of the lake. Meanwhile, the business district and the residential area have both expanded southward beyond the lake. The residential zone now completely encircles the business district.
+<br/>
+<br/>
+connect -> link
+southward beyond
+surrounded -> encircles
+--
+<br/>
+<br/>
+the dam is constructed at the end of lake and airport is augmentated.
+<br/>
+<br/>
+Additionally, a dam has been erected at the lake's edge, and the airport has been significantly expanded.
+<br/>
+<br/>
+constructed -> erected
+end of lake -> lake's edge
