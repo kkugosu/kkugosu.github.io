@@ -9,6 +9,8 @@ the provided map showcases the changes of secondary school over time, from 1950,
 
 The provided map offers a visual representation of how the secondary school has evolved over time, illustrating changes from 1950 through 1980, and up to 2010.
 
+offers visual representation
+to -> up to
 <br/>
 <br/>
 
