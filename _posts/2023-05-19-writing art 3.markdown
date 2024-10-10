@@ -18,7 +18,10 @@ through history, art always goes together with human species. maybe it was somed
 > revised
 
 <br/>
-Throughout history, art has always been intertwined with the human species. It may have been used for prayers to deities or as a means of communication between individuals. Despite the lack of clarity regarding its origins and beginnings, it continues to play a significant role in today's society. There is controversy surrounding the meaning of art, and in the following paragraph, I will explain my perspective on this controversy.
+Throughout history, art has always been intertwined with the human species. 
+It may have been used for prayers to deities or as a means of communication between individuals. 
+Despite the lack of clarity regarding its origins and beginnings, it continues to play a significant role in today's society. 
+There is controversy surrounding the meaning of art, and in the following paragraph, I will explain my perspective on this controversy.
 <br/>
 > through -> throughout
 <br/>
@@ -49,7 +52,12 @@ i firstly wanna say art education is not meaningless. every human behavior has t
 > revised
 
 <br/>
-I firstly want to say that art education is not meaningless. Every human behavior has its own meaning in terms of pursuing a happier life. We earn to have more edible food, live in a more livable house, and acquire things that bring us pleasure. However, if we can find fulfillment without solely focusing on earning, it is also a plausible way to live. Even if there are fewer people demanding your art and you can't earn a substantial amount of money, you can still find satisfaction in your job. This can even lead to reduced consumption of money on other things, as you prioritize the pursuit of happiness. As art education equips people with skills, their work becomes more in demand, eventually resulting in a happier life for them.
+I firstly want to say that art education is not meaningless. Every human behavior has its own meaning in terms of pursuing a happier life. 
+We earn to have more edible food, live in a more livable house, and acquire things that bring us pleasure. 
+However, if we can find fulfillment without solely focusing on earning, it is also a plausible way to live. 
+Even if there are fewer people demanding your art and you can't earn a substantial amount of money, you can still find satisfaction in your job. 
+This can even lead to reduced consumption of money on other things, as you prioritize the pursuit of happiness. 
+As art education equips people with skills, their work becomes more in demand, eventually resulting in a happier life for them.
 <br/>
 > every ~ their -> every ~ its (singular)
 <br/>
@@ -79,7 +87,10 @@ but it doesn't means art education should be essentional. we can't repel someone
 > revised
 
 <br/>
-However, this does not imply that art education should be deemed essential for everyone. We cannot impose upon individuals to learn something that may not be directly beneficial to their lives. If we attempt to learn everything in this manner, we would be unable to specialize and become experts in any particular field. It is important to recognize that while some individuals may have a passion for art and choose to pursue it, others may not share the same inclination. As mentioned earlier, it is crucial to respect and honor each person's unique interests and inclinations.
+However, this does not imply that art education should be deemed essential for everyone. We cannot impose upon individuals to learn something that may not be directly beneficial to their lives. 
+If we attempt to learn everything in this manner, we would be unable to specialize and become experts in any particular field. 
+It is important to recognize that while some individuals may have a passion for art and choose to pursue it, others may not share the same inclination. 
+As mentioned earlier, it is crucial to respect and honor each person's unique interests and inclinations.
 <br/>
 > means -> imply
 <br/>
@@ -102,7 +113,9 @@ in conclution, as our every bahavior aim to live happier whether that behavior g
 > revise
 
 <br/>
-In conclusion, since every individual's behavior aims to live a happier life, whether that behavior guarantees happiness or not, we each pursue our own path to happiness. Studying art is one way to find happiness, but it is not the only way. Therefore, we should provide students with the option to choose whether or not to learn art, and we should not force everyone to learn the same thing.
+In conclusion, since every individual's behavior aims to live a happier life, whether that behavior guarantees happiness or not, we each pursue our own path to happiness. 
+Studying art is one way to find happiness, but it is not the only way. 
+Therefore, we should provide students with the option to choose whether or not to learn art, and we should not force everyone to learn the same thing.
 <br/>
 > we pursuing -> we each pursue
 <br/>

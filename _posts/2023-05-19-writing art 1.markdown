@@ -20,7 +20,9 @@ Art seems to take up our unconsciousness part which art we were used to express 
 > revised 
 
 <br/>
-Art seems to tap into the unconscious part of ourselves that we struggle to express through language, enabling us to convey our emotions in various ways. Throughout history, art has taken diverse forms, including wall engravings and auditory compositions. While some individuals argue that art is a waste of money, I partially agree with them and will explain my perspective further in the following paragraph.
+Art seems to tap into the unconscious part of ourselves that we struggle to express through language, enabling us to convey our emotions in various ways. Throughout history, 
+art has taken diverse forms, including wall engravings and auditory compositions. While some individuals argue that art is a waste of money, 
+I partially agree with them and will explain my perspective further in the following paragraph.
 <br/>
 > seems like -> seems to
 <br/>
@@ -36,13 +38,15 @@ Art seems to tap into the unconscious part of ourselves that we struggle to expr
 
 <br/>
 <br/>
-Art has been served as important role in our mental stability. No matter how much we are rich or poor, we like to see beautiful scence and music which seems console and empathy ourselves. so government's investment to art can improve our lives on some way largly or smally
+Art has been served as important role in our mental stability. No matter how much we are rich or poor, we like to see beautiful scence and music which seems console and empathy ourselves. 
+so government's investment to art can improve our lives on some way largly or smally
 <br/>
 <br/>
 > revised
 
 <br/>
-Art plays an important role in maintaining our mental stability. Regardless of our wealth or poverty, we all have an innate inclination to appreciate beautiful scenery and music, as they offer solace and evoke empathy within us. Therefore, government investment in art can significantly enhance our lives, whether in significant or subtle ways.
+Art plays an important role in maintaining our mental stability. Regardless of our wealth or poverty, we all have an innate inclination to appreciate beautiful scenery and music, 
+as they offer solace and evoke empathy within us. Therefore, government investment in art can significantly enhance our lives, whether in significant or subtle ways.
 <br/>
 > has been served -> plays
 <br/>
@@ -68,7 +72,8 @@ but there is some people who are hard to serve even just themselves so they prio
 > revised
 
 <br/>
-However, there are people who struggle to fulfill even their basic needs, prioritizing survival over art. This situation arises from the growing wealth and poverty disparity, known as the Matthew effect. Nevertheless, this does not lead to the conclusion that art lacks meaning.
+However, there are people who struggle to fulfill even their basic needs, prioritizing survival over art. This situation arises from the growing wealth and poverty disparity, 
+known as the Matthew effect. Nevertheless, this does not lead to the conclusion that art lacks meaning.
 <br/>
 > there is some people -> there are people
 <br/>
@@ -85,13 +90,16 @@ However, there are people who struggle to fulfill even their basic needs, priori
 > come to conclution -> lead to the conclution
 
 <br/>
-in the conclution, government doesn't waste money on the art because art plays inreplaceable rule in society, but government should invest in warefare more to guarantee basic needs of survival resulting in make people can feel pleasure from the art.
+in the conclution, government doesn't waste money on the art because art plays inreplaceable rule in society, 
+but government should invest in warefare more to guarantee basic needs of survival resulting in make people can feel pleasure from the art.
 <br/>
 <br/>
 > revise
 
 <br/>
-In conclusion, the government should not perceive investment in art as a waste of money, given its irreplaceable role in society. However, the government should prioritize investing more in ensuring basic survival needs, such as welfare, by imposing higher taxes on the wealthy. This approach would ultimately enable people to derive pleasure from art.
+In conclusion, the government should not perceive investment in art as a waste of money, given its irreplaceable role in society. 
+However, the government should prioritize investing more in ensuring basic survival needs, such as welfare, by imposing higher taxes on the wealthy. 
+This approach would ultimately enable people to derive pleasure from art.
 <br/>
 > in the conclution -> in conclution
 <br/>
