@@ -17,7 +17,7 @@ incredulous
 You should take what he says with a pinch of salt 
 <br/>
 <br/>
-superstitious
+<del>superstitious</del>
 <br/>
 centenary 100n주년
 <br/>
@@ -58,25 +58,26 @@ articulate
 <br/>
 eloquent
 <br/>
-succinct
+<del> succinct </del>
+
 <br/>
 lost for words
 
 <br/>
 <br/>
-dynasties
+<del>dynasties</del>
 <br/>
-dawn
+<del>dawn</del>
 <br/>
 heirs
 <br/>
-conquests
+<del>conquests</del>
 <br/>
 peasants
 <br/>
 shreds
 <br/>
-Bronze Age
+<del>Bronze Age</del>
 <br/>
 infantry
 <br/>
@@ -102,7 +103,7 @@ make ends meet
 <br/>
 living from hand to mouth
 <br/>
-money has been tight
+<del>money has been tight</del>
 <br/>
 income bracket
 <br/>
