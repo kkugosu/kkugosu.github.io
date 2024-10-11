@@ -95,7 +95,7 @@ on piecework.
 <br/>
 zero hours contracts
 <br/>
-Child labour
+<del>Child labour</del>
 <br/>
 sweatshops
 <br/>

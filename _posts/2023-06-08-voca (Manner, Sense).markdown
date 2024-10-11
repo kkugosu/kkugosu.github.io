@@ -14,7 +14,7 @@ lurch *
 <br/>
 tiptoe
 <br/>
-stride
+<del>stride</del>
 <br/>
 tramp
 <br/>
@@ -29,13 +29,13 @@ staggered
 Maria takes everything that life throws at her in her stride. [takes ... 
 calmly]
 <br/>
-unprecedented
+<del>unprecedented</del>
 <br/>
 <br/>
 <p style="font-size:30px;"><b> Manner </b></p>
 insolent *
 <br/>
-etiquette
+<del>etiquette</del>
 <br/>
 stand on ceremony
 <br/>
@@ -43,7 +43,7 @@ straitlaced
 <br/>
 the done thing
 <br/>
-netiquette
+<del>netiquette</del>
 <br/>
 twitch
 <br/>
@@ -71,7 +71,7 @@ sizzled
 <br/>
 rang out
 <br/>
-eerie
+<del>eerie</del>
 <br/>
 deafening *
 <br/>
