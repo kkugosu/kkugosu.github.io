@@ -32,7 +32,7 @@ out of sorts *
 <br/>
 fighting off
 <br/>
-cuts and bruises
+<del>cuts and bruises</del>
 <br/>
 stinging *
 <br/>
@@ -63,12 +63,12 @@ a rash of *
 <br/>
 jaundiced * 황달?
 <br/>
-infect 전염?
+<del>infect 전염?</del>
 <br/>
 <br/>
 clog
 <br/>
-cholesterol
+<del>cholesterol</del>
 <br/>
 cardiovascular
 <br/>

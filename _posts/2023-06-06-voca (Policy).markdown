@@ -7,7 +7,7 @@ category: english
 <p style="font-size:30px;"><b> Policy </b></p>
 <br/>
 <br/>
-lobby 정치적 운동
+<del>lobby 정치적 운동</del>
 <br/>
 scrutinising
 <br/>
@@ -22,14 +22,14 @@ upholds
 <br/>
 minorities
 <br/>
-slogan
+<del>slogan</del>
 <br/>
 delicate
 <br/>
 customary
 <br/>
 <br/>
-to bend the law/rules
+<del>to bend the law/rules</del>
 <br/>
 to infringe a law/rule
 <br/>
@@ -53,9 +53,9 @@ to allege
 <br/>
 to amend a law
 <br/>
-harassment
+<del>harassment</del>
 <br/>
-money laundering
+<del>money laundering</del>
 <br/>
 perjury
 <br/>
@@ -88,7 +88,7 @@ all-out
 <br/>
 waged war on
 <br/>
-Hostilities
+<del>Hostilities</del>
 <br/>
 besieged
 <br/>
