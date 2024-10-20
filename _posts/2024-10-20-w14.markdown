@@ -5,4 +5,56 @@ date: 2024-10-20 00:10:33 +0900
 category: english
 ---
 
-the following diagram illustrates the process of making products from animal skin.
+
+
+
+The maps above depict the current layout of Norbiton and the proposed future developments. 
+From a broad perspective, it is evident that the town is set to transition from an industrial focus to a more residential one, with the addition of housing, educational, commercial, and medical facilities. 
+This development will primarily take place in the western and northern parts of Norbiton, leaving only a small section of farmland untouched.
+
+At present, the town features a central roundabout, surrounded by factories, and a road that runs from west to east through Norbiton. 
+In the future, while the roundabout will remain, the surrounding factories will be replaced by shops. 
+A new residential area will line a road to the northwest, and a hospital will be constructed to the southeast. 
+Additionally, the original road leading east will be flanked by housing on both sides, with a large playground to the north and a school at the town's eastern boundary. 
+Beyond the town center, a smaller roundabout will be introduced to the south, bisecting an existing street. 
+In the north, a bridge will be constructed over the river, and a portion of the farmland will give way to housing, although the area to the east will remain unchanged.
+
+
+
+
+The map illustrates the transformations that took place in the town of Willington during the years 1780, 1860, and 2000. 
+From a broad perspective, it is evident that the town shifted towards a more residential and commercial character, with the introduction of new homes, roads, a bridge, shops, and recreational facilities, 
+while natural areas such as forests and farmlands were diminished. Notably, the river remained unchanged throughout this period.
+
+In 1780, Willington was home to only 100 residences, and large portions of land to the east and south were covered by farms and woods. 
+The river flowed from north to south, a geographical feature that persisted unchanged through 2000. By 1860, 
+some of the farms and wooded areas had been cleared to make way for a road extending from the river to a residential area in the northeast, 
+which had grown to 200 homes. Additionally, a bridge was constructed over the river. By 2000, the number of homes had increased to 500, and all of the farmland and forest had been removed. 
+This allowed for the development of two schools, three sports fields, and a series of shops along the southern bank of the river. 
+A large lake was also added to the southern end of the river, marking the final significant alteration.
+
+
+
+The floorplan illustrates the transformation of a building from 1958 to the present day. From a comprehensive viewpoint, it is evident that the building has served both commercial and residential functions, 
+with the kitchen being the only area that has remained unchanged. Currently, the flower shop features a more open layout compared to when the building was an apartment and office.
+
+In 1958, the building functioned as an office, with a meeting room occupying the top left corner of the floorplan, and an assistant��s and secretary��s office located beneath it. 
+A toilet was positioned in the bottom left corner. By 1985, the meeting room had been expanded and converted into a living room, 
+while a large bathroom and shower replaced the previous offices and toilet. The florist shop now features a gift card room in the top left corner, with a large open space for flowers and a play area situated in the bottom left. 
+On the right side of the building, the kitchen in the top corner has remained consistent across all versions of the floorplan. In contrast, the manager's office and reception area, formerly used for bedrooms in the apartment, 
+have been repurposed as an office and additional flower display space in the current layout.
+
+
+
+The map illustrates significant changes to the city since 1950, clearly showing its transformation into a more residential and accessible urban area, complemented by the construction of a long lake and an expanded business district.
+
+In 1950, the city had a population of 20,000, which has since increased tenfold to 200,000. Initially, the residential zone was confined to the area north of the main east-west road. Currently, this zone has expanded in all directions, and additional major roads have been constructed in the southern half of the city. Furthermore, the once narrow river that ran through the town has been dammed, resulting in the creation of an extensive lake that extends from the west to the east of the residential area. The business district, previously limited to the city's center, now encompasses areas along both the northern and southern shores of the lake. The original bridge over the river now spans the lake, and a new bridge has been erected near the eastern dam. Additionally, a second government building has been established to the south, and the airport to the east has more than doubled its size.
+
+
+
+The map delineates the transformation of the sports courts area at a university from 1990 to the present day. Initially, the area featured fewer courts for tennis and basketball, positioned near a park with trees and grass as well as a car park. By the present day, the park has been replaced by a large basketball court, and the car park has given way to four tennis courts, signifying an increase in sports facilities at the expense of recreational and parking spaces.
+
+Furthermore, on the right side of the map, a new building has been constructed to house various athletic facilities. Within this structure, the indoor pool and reception area have retained their original locations. However, the changing room located beneath these areas has been extended and shifted slightly to the right, aligning directly above a newly established, large fitness center. This center has taken the place of two former tennis courts, which are now situated outside the main building. These changes reflect a significant enhancement in the variety and capacity of the sports facilities offered by the university.
+
+
+

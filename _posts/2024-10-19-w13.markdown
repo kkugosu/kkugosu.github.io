@@ -10,7 +10,7 @@ initial harvesting and preparation, oil extraction, and finally, storage for fut
 
 The process commences with olives being harvested from trees and placed in a collection vat. 
 Following this, the olives are de-leafed and washed with water before being transferred to an olive mill, where they are crushed into a paste. 
-The resulting olive paste is then processed in a malaxer at a temperature not exceeding 27¡ÆC. After this, the paste undergoes centrifugal pressing, which yields virgin olive oil. 
+The resulting olive paste is then processed in a malaxer at a temperature not exceeding 27ï¿½ï¿½C. After this, the paste undergoes centrifugal pressing, which yields virgin olive oil. 
 Subsequently, the oil either goes through a separation process, during which waste water is removed, or is decanted, filtering out solids and water. 
 Regardless of the separation method used, the final products are stored in a tank to complete the process as outlined in the diagram.
 
@@ -35,40 +35,14 @@ in the production of raw tea, the leaves are compressed first and then aged. Onc
 
 
 
+The diagram delineates the manufacturing process of leather goods intended for retail sale. An overview reveals that this entirely artificial procedure consists of three primary phases: the initial transport of raw materials to the manufacturing facility, the preparation and processing of these materials, and, finally, the production of consumer goods.
 
-The maps above depict the current layout of Norbiton and the proposed future developments. 
-From a broad perspective, it is evident that the town is set to transition from an industrial focus to a more residential one, with the addition of housing, educational, commercial, and medical facilities. 
-This development will primarily take place in the western and northern parts of Norbiton, leaving only a small section of farmland untouched.
-
-At present, the town features a central roundabout, surrounded by factories, and a road that runs from west to east through Norbiton. 
-In the future, while the roundabout will remain, the surrounding factories will be replaced by shops. 
-A new residential area will line a road to the northwest, and a hospital will be constructed to the southeast. 
-Additionally, the original road leading east will be flanked by housing on both sides, with a large playground to the north and a school at the town's eastern boundary. 
-Beyond the town center, a smaller roundabout will be introduced to the south, bisecting an existing street. 
-In the north, a bridge will be constructed over the river, and a portion of the farmland will give way to housing, although the area to the east will remain unchanged.
+Initially, the leather skins, derived from various animals, are dried. Following this step, they are transported by truck to a factory, where they undergo a washing process using water and lime. The skins are subsequently immersed in additional lime for a specified duration before being processed through a machine equipped with large rollers to flatten them.
 
 
 
+The document outlines the procedures for manufacturing cement and subsequently using it to produce concrete. The process commences with the initial blending and chemical alteration of clay and limestone, culminating in the packaging of the final cement product, which is then utilized as a component in concrete production.
 
-The map illustrates the transformations that took place in the town of Willington during the years 1780, 1860, and 2000. 
-From a broad perspective, it is evident that the town shifted towards a more residential and commercial character, with the introduction of new homes, roads, a bridge, shops, and recreational facilities, 
-while natural areas such as forests and farmlands were diminished. Notably, the river remained unchanged throughout this period.
-
-In 1780, Willington was home to only 100 residences, and large portions of land to the east and south were covered by farms and woods. 
-The river flowed from north to south, a geographical feature that persisted unchanged through 2000. By 1860, 
-some of the farms and wooded areas had been cleared to make way for a road extending from the river to a residential area in the northeast, 
-which had grown to 200 homes. Additionally, a bridge was constructed over the river. By 2000, the number of homes had increased to 500, and all of the farmland and forest had been removed. 
-This allowed for the development of two schools, three sports fields, and a series of shops along the southern bank of the river. 
-A large lake was also added to the southern end of the river, marking the final significant alteration.
-
-
-
-The floorplan illustrates the transformation of a building from 1958 to the present day. From a comprehensive viewpoint, it is evident that the building has served both commercial and residential functions, 
-with the kitchen being the only area that has remained unchanged. Currently, the flower shop features a more open layout compared to when the building was an apartment and office.
-
-In 1958, the building functioned as an office, with a meeting room occupying the top left corner of the floorplan, and an assistant¡¯s and secretary¡¯s office located beneath it. 
-A toilet was positioned in the bottom left corner. By 1985, the meeting room had been expanded and converted into a living room, 
-while a large bathroom and shower replaced the previous offices and toilet. The florist shop now features a gift card room in the top left corner, with a large open space for flowers and a play area situated in the bottom left. 
-On the right side of the building, the kitchen in the top corner has remained consistent across all versions of the floorplan. In contrast, the manager's office and reception area, formerly used for bedrooms in the apartment, 
-have been repurposed as an office and additional flower display space in the current layout.
+Initially, limestone and clay are gathered and pulverized into a fine powder. This powder is subsequently placed into a cylindrical mixer. The mixture undergoes transformation in a rotating heater, after which it is pulverized a second time and encapsulated in bags as finished cement.
+To create concrete, cement is amalgamated with water, sand, and gravel in a concrete mixer. The specific proportions of the ingredients are 15% cement, 10% water, 25% sand, and 50% gravel, which consists of small stones.
 
