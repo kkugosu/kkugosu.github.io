@@ -1,0 +1,25 @@
+---
+layout: post
+title: writing 19
+date: 2024-10-28 00:10:33 +0900
+category: english
+---
+
+there is a debate considering weather history should be studied. i will examine the merits and drawbacks in terms of studying a series of past events and will further elaborate on my opinion in the following paragraph.
+
+to begin with, lets consider the disadvantages of studying history. over time, we increasingly face with complex problems with the advent of internet. critics argue that as we need to deal different problems, we need to manage social problems with different avenues such as methamatics and statics which were not existed in the past. For example, we can not address hacking or scammer with traditional approach but cyber security and network flow management skills.
+
+From the opposing view points, dispite our society represent different aspect from the past, studying history is still beneficial to improve our knack to deal with modern challanges. even though the gap in scientific advancement between past and nowadays are extremely large, our inheretant habits which is established over 10 thousands years have not changed. in conclusion, they believe studying about the past will somehow help our social matuality.
+
+i am inclined to partially agree with the opintion that supports the studying history. our neural network system in the brain have not changed yet. moreover since we already aware of we are in different situation from that of privious era, we can modify the privious means and adept that for current situations. However, sicne we are all have different individual strength, it would be preferrable to study history for people who want to study about that.
+
+</br>
+
+There is a debate concerning whether history should be studied. I will examine the merits and drawbacks of studying a series of past events and will further elaborate on my opinion in the following paragraphs.
+
+To begin with, let us consider the disadvantages of studying history. Over time, as we face increasingly complex problems with the advent of the internet, critics argue that we need to address different problems using diverse avenues such as mathematics and statistics, which did not exist in the past. For example, traditional approaches are inadequate for addressing issues like hacking or scams; instead, skills in cybersecurity and network flow management are required.
+
+From the opposing viewpoint, despite our society representing different aspects from the past, studying history is still beneficial for improving our ability to deal with modern challenges. Although the gap in scientific advancement between the past and present is vast, our inherent habits, established over tens of thousands of years, have not changed. In conclusion, proponents believe that studying the past can somehow aid our social maturity.
+
+I am inclined to partially agree with the opinion supporting the study of history. Our neural network systems in the brain have not yet changed. Moreover, since we are already aware that our situation differs from that of previous eras, we can modify previous methods and adapt them to current situations. However, since individuals possess different strengths, it would be preferable for those interested in history to pursue its study.
+
