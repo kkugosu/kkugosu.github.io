@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Use chatgpt for free on mac
+title: pre_elem
 date: 2023-05-17 21:10:33 +0900
-category: my story
+category: Diary
 ---
 Join the membership at openai.
 <br/>
