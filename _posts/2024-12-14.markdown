@@ -1,7 +1,0 @@
-﻿---
-layout: post
-title: pre elem
-date: 2024-12-22 21:10:33 +0900
-category: Diary3
----
-Hmm
