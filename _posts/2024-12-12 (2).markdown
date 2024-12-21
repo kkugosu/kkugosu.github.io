@@ -2,7 +2,7 @@
 layout: post
 title: pre elem
 date: 2024-12-22 21:10:33 +0900
-category: Diary
+category: Diary2
 ---
 Hmm, I’m thinking of jotting down my thoughts whenever I have time.
 
