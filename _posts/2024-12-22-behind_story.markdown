@@ -1,23 +1,21 @@
 ﻿---
 layout: post
-title: pre__elem
-date: 2023-05-17 21:10:33 +0900
+title: pre elem
+date: 2024-12-22 21:10:33 +0900
 category: Diary
 ---
-Hmm, I’m thinking of jotting down my thoughts whenever I have time.
+이걸 영어로 번역해줘 그냥 흠 시간나는대로 내 생각을 하나씩 적어보려고한다.
 
-Life is unpredictable—you never know when it might suddenly end.
+언제 갑자기 죽을지도 모르는 인생이고
 
-It feels too overwhelming to keep everything to myself, so I feel like I should leave my thoughts somewhere.
+그냥 혼자 생각하고있자니 너무 복잡해서 어딘가 남겨야할거같은 생각도 들고
 
-What I’m writing now is about the time before I started elementary school.
+지금 쓰는 이야기는 초등학교 입학이전 이야기다
 
-I was born in 1994 and entered elementary school in 2000 at the age of 7, as an early '94 baby.
+1994년에 태어나서 2000년 즉 나는 빠른 94년생 7살에 초등학교에 입학하였다
 
-To be honest, I don’t remember much from back then. There was a kid living next door who was a year younger than me—was their name Hyunjae?
+사실 그때 기억은 크게 남아있진않다 옆집에 나보다 한살적은 애가 살았었는데 이름이 현재.. 였나
 
-They were between me and my younger sibling, who’s two years younger than me. The three of us seemed to have had a really happy time together.
+나랑 나보다 두살 어린동생 사이에 있는 애라서 셋이서 디게 행복하게 지냈던거같아
 
-At that time, my parents were... well, how should I put it? My father was a junior college graduate, and my mother was a high school graduate. 
-They were both getting older, but no one wanted to date them, so they ended up having an arranged marriage.
-
+그당시 내 부모님은 뭐랄까 부친은 전문대 출신이고 어머님은 고졸인데 둘다 나이는 찬거같은데 아무도 만나주지않아서 중매결혼을 하였다
