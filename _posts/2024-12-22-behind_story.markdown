@@ -18,6 +18,7 @@ To be honest, I don’t remember much from back then. There was a kid living nex
 
 They were between me and my younger sibling, who’s two years younger than me. The three of us seemed to have had a really happy time together.
 
-At that time, my parents were... well, how should I put it? My father was a junior college graduate, and my mother was a high school graduate. They were both getting older, but no one wanted to date them, so they ended up having an arranged marriage.
+At that time, my parents were... well, how should I put it? My father was a junior college graduate, and my mother was a high school graduate. 
 
-<!-- 여기에 주석 내용을 작성하세요 -->
+They were both getting older, but no one wanted to date them, so they ended up having an arranged marriage.
+
