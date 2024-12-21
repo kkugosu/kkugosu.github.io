@@ -1,19 +1,23 @@
----
+ï»¿---
 layout: post
-title: pre_elem
+title: pre__elem
 date: 2023-05-17 21:10:33 +0900
 category: Diary
 ---
-±×³É Èì ½Ã°£³ª´Â´ë·Î ³» »ı°¢À» ÇÏ³ª¾¿ Àû¾îº¸·Á°íÇÑ´Ù.
+Hmm, Iâ€™m thinking of jotting down my thoughts whenever I have time.
 
-¾ğÁ¦ °©ÀÚ±â Á×À»Áöµµ ¸ğ¸£´Â ÀÎ»ıÀÌ°í
+Life is unpredictableâ€”you never know when it might suddenly end.
 
-±×³É È¥ÀÚ »ı°¢ÇÏ°íÀÖÀÚ´Ï ³Ê¹« º¹ÀâÇØ¼­ ¾îµò°¡ ³²°Ü¾ßÇÒ°Å°°Àº »ı°¢µµ µé°í
+It feels too overwhelming to keep everything to myself, so I feel like I should leave my thoughts somewhere.
 
-Áö±İ ¾²´Â ÀÌ¾ß±â´Â ÃÊµîÇĞ±³ ÀÔÇĞÀÌÀü ÀÌ¾ß±â´Ù
+What Iâ€™m writing now is about the time before I started elementary school.
 
-1994³â¿¡ ÅÂ¾î³ª¼­ 2000³â Áï ³ª´Â ºü¸¥ 94³â»ı 7»ì¿¡ ÃÊµîÇĞ±³¿¡ ÀÔÇĞÇÏ¿´´Ù
+I was born in 1994 and entered elementary school in 2000 at the age of 7, as an early '94 baby.
 
-»ç½Ç ±×¶§ ±â¾ïÀº Å©°Ô ³²¾ÆÀÖÁø¾Ê´Ù ¿·Áı¿¡ ³ªº¸´Ù ÇÑ»ìÀûÀº ¾Ö°¡ »ì¾Ò¾ú´Âµ¥ ÀÌ¸§ÀÌ ÇöÀç.. ¿´³ª
+To be honest, I donâ€™t remember much from back then. There was a kid living next door who was a year younger than meâ€”was their name Hyunjae?
 
-³ª¶û ³ªº¸´Ù µÎ»ì ¾î¸°µ¿»ı »çÀÌ¿¡ ÀÖ´Â ¾Ö¶ó¼­ 
+They were between me and my younger sibling, whoâ€™s two years younger than me. The three of us seemed to have had a really happy time together.
+
+At that time, my parents were... well, how should I put it? My father was a junior college graduate, and my mother was a high school graduate. 
+They were both getting older, but no one wanted to date them, so they ended up having an arranged marriage.
+
