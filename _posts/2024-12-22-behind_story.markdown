@@ -4,14 +4,16 @@ title: pre_elem
 date: 2023-05-17 21:10:33 +0900
 category: Diary
 ---
-Join the membership at openai.
-<br/>
-<br/>
-Download chatgpt from the following link.
-<br/>
-<br/>
-> https://github.com/vincelwt/chatgpt-mac
+그냥 흠 시간나는대로 내 생각을 하나씩 적어보려고한다.
 
-<br/>
-<br/>
-Use.
+언제 갑자기 죽을지도 모르는 인생이고
+
+그냥 혼자 생각하고있자니 너무 복잡해서 어딘가 남겨야할거같은 생각도 들고
+
+지금 쓰는 이야기는 초등학교 입학이전 이야기다
+
+1994년에 태어나서 2000년 즉 나는 빠른 94년생 7살에 초등학교에 입학하였다
+
+사실 그때 기억은 크게 남아있진않다 옆집에 나보다 한살적은 애가 살았었는데 이름이 현재.. 였나
+
+나랑 나보다 두살 어린동생 사이에 있는 애라서 
