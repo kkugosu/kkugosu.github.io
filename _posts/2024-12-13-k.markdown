@@ -1,6 +1,6 @@
 ---
 layout: post
-title: writing 21
+title: writing 28
 date: 2024-10-28 00:10:33 +0900
 category: diary
 ---
