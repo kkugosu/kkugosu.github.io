@@ -1,0 +1,41 @@
+---
+layout: post
+title: writing 21
+date: 2024-10-28 00:10:33 +0900
+category: english
+---
+
+The bar graph delineates the difference between winter and summer in term of the number of servings. From a comprehensive analysis, it is evident that the daily sales in summer is similar in every category whereas that of winter fluctuate.
+
+The number of sold Hot coffee in winter secured biggest part in overall graph, around 75, contrastly The number of sold Iced coffee record lowest in the same season which is almost 0 . the number of sold Soup in winter is 50 which is twice bigger than that in summer. The number of sold salad steadly remained in both seasons and same dynamic also applied in ice cream which only experienced marginally increasing in summer.
+
+The bar graph illustrates the seasonal variation in the number of servings, comparing winter and summer. A thorough analysis clearly shows that daily sales in summer remain consistent across all categories, while those in winter exhibit fluctuations.
+
+In winter, hot coffee sales dominate the chart, approximately 75 servings, in stark contrast to iced coffee, which nearly disappears with almost zero servings. Soup sales in winter reach 50 servings, doubling the figure observed in summer. The sales of salad remain stable in both seasons, a trend also observed in ice cream, which only shows a slight increase during the summer months.
+
+trend also observed
+doubling the figure
+in stark contrast
+
+The pie chart delineates percentage of reason for the immigration and emigration in UK. From a comprehensive analysis, It is evident that career issue is staple for moving.
+
+The ratio of deficite job occupied the largest part across all reasons for both immigration and emigration. the reason of formal study recoreded secondly largest part in immigration, contrastly occupying least part in emigration. the percentage of accompany is less than half of definite job and formal study in immigration but almost same as definite job in emigration. the percentage of immigrated to the uk with without any reason occupied least part of all category which is third of that in emigration. the reason of accompany occupied similar as both immigration and emigration which is 13 percent and 15 percent each.
+
+</br>
+The pie chart provides a detailed breakdown of the reasons for immigration to and emigration from the UK. An in-depth analysis reveals that career-related issues are a primary motivator for relocation.
+
+The lack of job opportunities constitutes the predominant reason for both immigrating to and emigrating from the UK, accounting for the largest proportion in each case. Educational pursuits are the second most common reason for immigration, yet they represent the least common reason for emigration. The proportion of individuals who immigrate for the purpose of accompanying someone is less than half that of those relocating for definite job opportunities or formal study, but this reason aligns closely with job-related moves in terms of emigration. The percentage of individuals who immigrate to the UK without any specific reason forms the smallest portion of all categories, amounting to a third of the corresponding figure for emigration. The motive of accompanying another accounts for similar proportions in both immigration and emigration, at 13 percent and 15 percent, respectively.
+
+</br>
+the pie charts provides detailed breakdown of change in diverse source for energy production from 1995 to 2005. From the comprehensive analysis, it is evident that predominant source of energy is from coal and gas for both era. 
+
+the energy from the coal in 1995 recorded largest among the all sources, amounting approximately 30 percent, directly followed by the gas in 1995 which is also approximately accounting for 30 percent, at 29.80 and 29.63 percent, respectively. these source are marginally increased at 2005, to 30.93 and 30.31 percent each. the proportion of petro also secured similar as gas and coal in 1995, 29.27 percent but decreased to 19.55 percent, approximately third of twice of previous. the ratio of nuclear was 6.40 percent but increased to 10.10 percent which is half of third of previous one.
+
+</br>
+The pie charts provide a detailed breakdown of the changes in various energy sources for production from 1995 to 2005. A comprehensive analysis clearly shows that coal and gas were the predominant sources of energy in both periods.
+
+In 1995, energy derived from coal was the largest among all sources, approximately amounting to 30 percent, closely followed by gas, which also accounted for about 30 percent, at 29.80 and 29.63 percent, respectively. These sources saw marginal increases by 2005, reaching 30.93 and 30.31 percent each. The proportion of petroleum was comparable to gas and coal in 1995, at 29.27 percent, but decreased to 19.55 percent by 2005, which is roughly two-thirds of its previous amount. The share of nuclear energy was 6.40 percent in 1995 and increased to 10.10 percent by 2005, representing one and a half times its earlier figure.
+</br>
+The pie charts provide an analysis of the distribution of various energy sources within a specific country for the years 1995 and 2005. From a general overview, it is clear that the production of the two primary energy sources, coal and gas, increased slightly, whereas petrol saw a significant decline. Both 'Other' energy forms and nuclear energy experienced considerable growth, although they remained less predominant than the main sources in both years.
+
+In 1995, coal, gas, and petrol each constituted slightly more than 29% of total energy production, indicating a relatively balanced distribution among these sources. By 2005, the percentages for coal and gas had moderately increased to 30.93% and 30.31%, respectively, while the share of petrol fell sharply to only 19.55%. The statistics for the other categories started off significantly lower, with 'Other' representing 4.9% and nuclear at 6.4% at the beginning of the period. By 2005, 'Other' had nearly doubled to 9.1%, reducing the gap significantly, whereas nuclear energy's growth was more gradual, reaching 10.1%.

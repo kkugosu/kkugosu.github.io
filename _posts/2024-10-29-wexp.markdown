@@ -4,6 +4,13 @@ title: writing 17
 date: 2024-10-28 00:10:33 +0900
 category: english
 ---
+
+aid
+address
+diverse
+inadequate
+vast
+
 debate concerning whether
 examine
 inadvertently
@@ -51,7 +58,7 @@ art's role in modern society is multifaceted
 imperative
 Inadvertently
 shape social norms
-pragmatic value of art may seem diminished in the face o
+pragmatic value of art may seem diminished in the face of
 intrinsic benefits
 With the advent of
 taps into the human subconscious

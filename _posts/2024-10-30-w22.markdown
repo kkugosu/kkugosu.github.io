@@ -1,0 +1,14 @@
+---
+layout: post
+title: writing 22
+date: 2024-10-28 00:10:33 +0900
+category: english
+---
+
+the line graph delineates the change in number of participants in each different areas. From a comprehensive analysis, the number of people engaged in Table tennis and Musical performances increased over period, meanwhile the number of people participating in Amateur dramatics diminished. 
+
+The number of participancts in Film club, commenced with takes first place in all different kinds of art, which is about 63, steadly maintained its number until the 2020. The number of participants in Martial arts get second place in total area, begin with around 36 does not changed till the end analogues to Film club. The participants in Amateur dramatics starts around 26, marginally increased at 2005 but after Musical performances occered in 2005, the number of participants decreased as number of Musical performances increased. the number of Table tennis slightly increased until 2010 but it surged after 2010 until 2020.
+
+The line graph illustrates the changes in the number of participants across various activities. A detailed analysis reveals that the number of individuals involved in table tennis and musical performances increased over time, whereas participation in amateur dramatics decreased.
+
+In the category of film clubs, which initially recorded the highest participation with approximately 63 attendees, the numbers remained stable through 2020. Martial arts secured the second highest overall participation, starting with around 36 participants and maintaining that figure consistently, similar to the trend observed in the film club. Participation in amateur dramatics began with about 26 individuals, saw a slight increase in 2005, but subsequently declined as musical performances, which began in the same year, attracted more participants. The number of table tennis players exhibited a modest rise until 2010, followed by a significant surge through to 2020.
